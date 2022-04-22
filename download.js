@@ -41,3 +41,9 @@ for (const layer of layers) {
         console.error(error);
     }
 }
+try {
+    fs.writeFileSync("./lastUpdated.json", JSON.stringify({ lastUpdated: Date.now() }));
+}
+catch (error) {
+    console.error(error);
+}
