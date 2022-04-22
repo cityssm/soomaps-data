@@ -1,0 +1,28 @@
+{
+  "name": "soomaps-data",
+  "version": "1.0.0",
+  "description": "Easy to use extracts from SooMaps.com",
+  "type": "module",
+  "exports": "./download.js",
+  "scripts": {
+    "download": "node download.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cityssm/soomaps-data.git"
+  },
+  "author": "The Corporation of th eCity of Sault Ste. Marie",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/cityssm/soomaps-data/issues"
+  },
+  "homepage": "https://github.com/cityssm/soomaps-data#readme",
+  "private": true,
+  "dependencies": {
+    "@esri/arcgis-rest-request": "^4.0.1",
+    "json2csv": "^5.0.7"
+  },
+  "devDependencies": {
+    "@types/json2csv": "^5.0.3"
+  }
+}
