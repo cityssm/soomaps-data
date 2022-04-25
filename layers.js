@@ -2,7 +2,7 @@ export const layers = [
     {
         layerName: "addresses",
         layerURL: "https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/0",
-        fields: ["CIVICNUMBER", "STREETNAME", "POSTALCODE", "MUNICIPALITY", "LATITUDE", "LONGITUDE"]
+        fields: ["CIVICNUMBER", "UNIT", "STREETNAME", "POSTALCODE", "MUNICIPALITY", "LATITUDE", "LONGITUDE"]
     },
     {
         layerName: "busStops",
