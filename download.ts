@@ -40,18 +40,21 @@ for (const layer of layers) {
     currentOffset += RESULT_RECORD_COUNT;
   }
 
-  try {
-    fs.writeFileSync("./" + layer.layerName + ".json", JSON.stringify(layerData));
-  } catch (error) {
-    console.error(error);
-  }
+  if (layerData.length > 0) {
+    
+    try {
+      fs.writeFileSync("./" + layer.layerName + ".json", JSON.stringify(layerData));
+    } catch (error) {
+      console.error(error);
+    }
 
-  const csvData = jsonToCSV(layerData);
+    const csvData = jsonToCSV(layerData);
 
-  try {
-    fs.writeFileSync("./" + layer.layerName + ".csv", csvData);
-  } catch (error) {
-    console.error(error);
+    try {
+      fs.writeFileSync("./" + layer.layerName + ".csv", csvData);
+    } catch (error) {
+      console.error(error);
+    }
   }
 }
 
