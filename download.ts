@@ -30,7 +30,16 @@ for (const layer of layers) {
     const features = data.features;
 
     for (const feature of features) {
-      layerData.push(feature.attributes);
+
+      const geometry = feature.geometry;
+
+      const attributes = feature.attributes;
+
+      for (const key of Object.keys(geometry)) {
+        attributes["geometry." + key] = geometry[key];
+      }
+
+      layerData.push(attributes);
     }
 
     if (data.features.length < RESULT_RECORD_COUNT) {
@@ -41,9 +50,9 @@ for (const layer of layers) {
   }
 
   if (layerData.length > 0) {
-    
+
     try {
-      fs.writeFileSync("./" + layer.layerName + ".json", JSON.stringify(layerData));
+      fs.writeFileSync("./" + layer.layerName + ".json", JSON.stringify(layerData, null, "  "));
     } catch (error) {
       console.error(error);
     }

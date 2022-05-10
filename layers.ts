@@ -6,6 +6,11 @@ interface Layer {
 
 export const layers: Layer[] = [
   {
+    layerName: "municipalWards",
+    layerURL: "https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/17",
+    fields: ["WARDNUMBER", "SHAPE_Area"]
+  },
+  {
     layerName: "addresses",
     layerURL: "https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/0",
     fields: ["CIVICNUMBER", "UNIT", "STREETNAME", "POSTALCODE", "MUNICIPALITY", "LATITUDE", "LONGITUDE"]
