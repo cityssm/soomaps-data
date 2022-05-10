@@ -33,6 +33,11 @@ this includes mapservices that the interface consumes.**
 -   [CSV](heritageSites.csv)
 -   [JSON](heritageSites.json)
 
+## [Municipal Wards](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/17)
+
+-   [CSV](municipalWards.csv)
+-   [JSON](municipalWards.json)
+
 ## [Parcels](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/19)
 
 -   [CSV](parcels.csv)
