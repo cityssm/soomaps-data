@@ -22,35 +22,14 @@ this includes mapservices that the interface consumes.**
 
 ## Raw Downloads
 
-### [Addresses](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/0)
-
--   [CSV](addresses.csv)
--   [JSON](addresses.json)
-
-### [Bus Stops](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/3)
-
--   [CSV](busStops.csv)
--   [JSON](busStops.json)
-
-### [Heritage Sites](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/9)
-
--   [CSV](heritageSites.csv)
--   [JSON](heritageSites.json)
-
-### [Municipal Wards](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/17)
-
--   [CSV](municipalWards.csv)
--   [JSON](municipalWards.json)
-
-### [Parcels](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/19)
-
--   [CSV](parcels.csv)
--   [JSON](parcels.json)
-
-### [Streets](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/1)
-
--   [CSV](streets.csv)
--   [JSON](streets.json)
+| Layer                                                                                                           | CSV                                      | JSON                                       |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------ |
+| [Addresses](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/0)        | [addresses.csv](addresses.csv)           | [addresses.json](addresses.json)           |
+| [Bus Stops](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/3)        | [busStops.csv](busStops.csv)             | [busStops.json](busStops.json)             |
+| [Heritage Sites](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/9)   | [heritageSites.csv](heritageSites.csv)   | [heritageSites.json](heritageSites.json)   |
+| [Municipal Wards](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/17) | [municipalWards.csv](municipalWards.csv) | [municipalWards.json](municipalWards.json) |
+| [Parcels](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/19)         | [parcels.csv](parcels.csv)               | [parcels.json](parcels.json)               |
+| [Streets](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/1)          | [streets.csv](streets.csv)               | [streets.json](streets.json)               |
 
 ## Calculated Data
 
@@ -63,18 +42,10 @@ Check out the
 [Sault Ste. Marie Ward Finder](https://cityssm.github.io/ward-finder/),
 powered by the address data below.
 
--   **Ward 1**
-    -   [CSV](addresses-ward1.csv)
-    -   [JSON](addresses-ward1.json)
--   **Ward 2**
-    -   [CSV](addresses-ward2.csv)
-    -   [JSON](addresses-ward2.json)
--   **Ward 3**
-    -   [CSV](addresses-ward3.csv)
-    -   [JSON](addresses-ward3.json)
--   **Ward 4**
-    -   [CSV](addresses-ward4.csv)
-    -   [JSON](addresses-ward4.json)
--   **Ward 5**
-    -   [CSV](addresses-ward5.csv)
-    -   [JSON](addresses-ward5.json)
+| Ward       | CSV                                        | JSON                                         |
+| ---------- | ------------------------------------------ | -------------------------------------------- |
+| **Ward 1** | [addresses-ward1.csv](addresses-ward1.csv) | [addresses-ward1.json](addresses-ward1.json) |
+| **Ward 2** | [addresses-ward2.csv](addresses-ward2.csv) | [addresses-ward2.json](addresses-ward2.json) |
+| **Ward 3** | [addresses-ward3.csv](addresses-ward3.csv) | [addresses-ward3.json](addresses-ward3.json) |
+| **Ward 4** | [addresses-ward4.csv](addresses-ward4.csv) | [addresses-ward4.json](addresses-ward4.json) |
+| **Ward 5** | [addresses-ward5.csv](addresses-ward5.csv) | [addresses-ward5.json](addresses-ward5.json) |
