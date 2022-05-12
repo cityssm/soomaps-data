@@ -3,7 +3,7 @@
 Easy to use extracts of Sault Ste. Marie GIS data
 from [SooMaps.com](https://www.soomaps.com/).
 
-Made possible with ESRI's JavaScript APIs.
+Made possible with Esri's JavaScript APIs.
 
 **Refreshed daily.**
 
@@ -58,6 +58,10 @@ Using the
 [ArcGIS API for JavaScript](https://www.npmjs.com/package/@arcgis/core).
 
 ### Addresses by Ward
+
+Check out the
+[Sault Ste. Marie Ward Finder](https://cityssm.github.io/ward-finder/),
+powered by the address data below.
 
 -   **Ward 1**
     -   [CSV](addresses-ward1.csv)
