@@ -62,7 +62,22 @@ for (const address of addresses) {
   }
 }
 
+// write records
+
 for (const [wardNumber, wardNumberAddresses] of Object.entries(wardAddresses)) {
+
+  wardNumberAddresses.sort((addressA, addressB) => {
+
+    if (addressA.STREETNAME === addressB.STREETNAME) {
+       return addressA.CIVICNUMBER - addressB.CIVICNUMBER;
+    }
+
+    if (addressA.STREETNAME > addressB.STREETNAME) {
+       return 1;
+    }
+
+    return -1;
+  });
 
   try {
     fs.writeFileSync("./addresses-ward" + wardNumber + ".json", JSON.stringify(wardNumberAddresses, null, "  "));
