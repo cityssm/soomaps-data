@@ -5,7 +5,8 @@
   "type": "module",
   "exports": "./download.js",
   "scripts": {
-    "download": "node download.js"
+    "download": "node download.js",
+    "build:wardAddresses": "node buildWardAddresses.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/cityssm/soomaps-data#readme",
   "private": true,
   "dependencies": {
+    "@arcgis/core": "^4.23.7",
     "@esri/arcgis-rest-request": "^4.0.1",
     "json2csv": "^5.0.7"
   },

@@ -1,4 +1,4 @@
-name: Download
+name: Download and Build
 on:
   workflow_dispatch:
   schedule:
@@ -17,8 +17,8 @@ jobs:
       - run: npm ci
       - name: Run Download
         run: npm run download
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Run Build Addresses By Wward
+        run: npm run build:wardAddresses
       - name: Commit latest data
         run: |
           git config --global user.name 'cityssm-bot'

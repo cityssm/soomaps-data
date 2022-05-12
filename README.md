@@ -3,6 +3,8 @@
 Easy to use extracts of Sault Ste. Marie GIS data
 from [SooMaps.com](https://www.soomaps.com/).
 
+Made possible with ESRI's JavaScript APIs.
+
 **Refreshed daily.**
 
 ## Disclaimer (from SooMaps.com)
@@ -18,32 +20,57 @@ For official mapping see the Engineering and Planning Department.
 **The data served through this interface is not for commercial use,
 this includes mapservices that the interface consumes.**
 
-## [Addresses](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/0)
+## Raw Downloads
+
+### [Addresses](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/0)
 
 -   [CSV](addresses.csv)
 -   [JSON](addresses.json)
 
-## [Bus Stops](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/3)
+### [Bus Stops](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/3)
 
 -   [CSV](busStops.csv)
 -   [JSON](busStops.json)
 
-## [Heritage Sites](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/9)
+### [Heritage Sites](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/9)
 
 -   [CSV](heritageSites.csv)
 -   [JSON](heritageSites.json)
 
-## [Municipal Wards](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/17)
+### [Municipal Wards](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/17)
 
 -   [CSV](municipalWards.csv)
 -   [JSON](municipalWards.json)
 
-## [Parcels](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/19)
+### [Parcels](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/19)
 
 -   [CSV](parcels.csv)
 -   [JSON](parcels.json)
 
-## [Streets](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/1)
+### [Streets](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/1)
 
 -   [CSV](streets.csv)
 -   [JSON](streets.json)
+
+## Calculated Data
+
+Using the
+[ArcGIS API for JavaScript](https://www.npmjs.com/package/@arcgis/core).
+
+### Addresses by Ward
+
+-   **Ward 1**
+    -   [CSV](addresses-ward1.csv)
+    -   [JSON](addresses-ward1.json)
+-   **Ward 2**
+    -   [CSV](addresses-ward2.csv)
+    -   [JSON](addresses-ward2.json)
+-   **Ward 3**
+    -   [CSV](addresses-ward3.csv)
+    -   [JSON](addresses-ward3.json)
+-   **Ward 4**
+    -   [CSV](addresses-ward4.csv)
+    -   [JSON](addresses-ward4.json)
+-   **Ward 5**
+    -   [CSV](addresses-ward5.csv)
+    -   [JSON](addresses-ward5.json)
