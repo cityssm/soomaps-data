@@ -31,8 +31,18 @@ export const layers: Layer[] = [
     fields: ["ROLLNUMBER", "MPACCIVIC", "MPACSTREETNAME", "SHAPE_Length", "SHAPE_Area"]
   },
   {
+    layerName: "buildingFootprints",
+    layerURL: "https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/18",
+    fields: ["BUILDINGNAME", "BUILDINGTYPE", "SHAPE_Length", "SHAPE_Area", "OBC_BUILD_CLASS", "SUB_BUILDING_NAME", "COMMENTS"]
+  },
+  {
     layerName: "streets",
     layerURL: "https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/1",
     fields: ["FULLNAME", "STREETPREFIX", "STREETNAME", "STREETTYPE", "STREETSUFFIX", "LEFTFROMADDRESS", "LEFTTOADDRESS", "RIGHTFROMADDRESS", "RIGHTTOADDRESS"]
+  },
+  {
+    layerName: "collectionAddresses",
+    layerURL: "https://services1.arcgis.com/nlLTq2Zj0Jwv1qft/ArcGIS/rest/services/Collection_Addresses_Feb_18_2022/FeatureServer/0",
+    fields: ["CIVICNUMBER", "UNIT", "STREETNAME", "POSTALCODE", "MUNICIPALITY", "COLLECTIONDAY", "OPERATOR", "ROUTENUMBER", "LEAF_YARD_WASTE_COLLECTION", "REFUSE_DAY", "RECYCLING_DAY", "LATITUDE", "LONGITUDE"]
   }
 ];
