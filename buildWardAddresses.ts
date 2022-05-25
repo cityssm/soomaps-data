@@ -25,7 +25,7 @@ interface Address {
 
 console.log("Loading municipalWards.json");
 
-const municipalWards: MunicipalWard[] = JSON.parse(fs.readFileSync("municipalWards.json"));
+const municipalWards: MunicipalWard[] = JSON.parse(fs.readFileSync("data/municipalWards.json"));
 const wardAddresses: { [wardNumber: string]: Address[] } = {};
 
 for (const municipalWard of municipalWards) {
@@ -37,7 +37,7 @@ for (const municipalWard of municipalWards) {
 
 console.log("Loading addresses.json");
 
-const addresses: Address[] = JSON.parse(fs.readFileSync("addresses.json"));
+const addresses: Address[] = JSON.parse(fs.readFileSync("data/addresses.json"));
 
 // loop through addresses
 
@@ -80,7 +80,7 @@ for (const [wardNumber, wardNumberAddresses] of Object.entries(wardAddresses)) {
   });
 
   try {
-    fs.writeFileSync("./addresses-ward" + wardNumber + ".json", JSON.stringify(wardNumberAddresses, null, "  "));
+    fs.writeFileSync("./data/addresses-ward" + wardNumber + ".json", JSON.stringify(wardNumberAddresses, null, "  "));
   } catch (error) {
     console.error(error);
   }
@@ -88,7 +88,7 @@ for (const [wardNumber, wardNumberAddresses] of Object.entries(wardAddresses)) {
   const csvData = jsonToCSV(wardNumberAddresses);
 
   try {
-    fs.writeFileSync("./addresses-ward" + wardNumber + ".csv", csvData);
+    fs.writeFileSync("./data/addresses-ward" + wardNumber + ".csv", csvData);
   } catch (error) {
     console.error(error);
   }

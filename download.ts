@@ -52,7 +52,7 @@ for (const layer of layers) {
   if (layerData.length > 0) {
 
     try {
-      fs.writeFileSync("./" + layer.layerName + ".json", JSON.stringify(layerData, null, "  "));
+      fs.writeFileSync("./data/" + layer.layerName + ".json", JSON.stringify(layerData, null, "  "));
     } catch (error) {
       console.error(error);
     }
@@ -60,7 +60,7 @@ for (const layer of layers) {
     const csvData = jsonToCSV(layerData);
 
     try {
-      fs.writeFileSync("./" + layer.layerName + ".csv", csvData);
+      fs.writeFileSync("./data/" + layer.layerName + ".csv", csvData);
     } catch (error) {
       console.error(error);
     }

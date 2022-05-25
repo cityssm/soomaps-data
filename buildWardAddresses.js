@@ -3,14 +3,14 @@ import Point from "@arcgis/core/geometry/Point.js";
 import Polygon from "@arcgis/core/geometry/Polygon.js";
 import { parse as jsonToCSV } from "json2csv";
 console.log("Loading municipalWards.json");
-const municipalWards = JSON.parse(fs.readFileSync("municipalWards.json"));
+const municipalWards = JSON.parse(fs.readFileSync("data/municipalWards.json"));
 const wardAddresses = {};
 for (const municipalWard of municipalWards) {
     municipalWard.polygon = new Polygon(municipalWard["geometry.rings"]);
     wardAddresses[municipalWard.WARDNUMBER.toString()] = [];
 }
 console.log("Loading addresses.json");
-const addresses = JSON.parse(fs.readFileSync("addresses.json"));
+const addresses = JSON.parse(fs.readFileSync("data/addresses.json"));
 for (const address of addresses) {
     address.point = new Point(address["geometry.x"], address["geometry.y"]);
     let wardFound = false;
@@ -37,14 +37,14 @@ for (const [wardNumber, wardNumberAddresses] of Object.entries(wardAddresses)) {
         return -1;
     });
     try {
-        fs.writeFileSync("./addresses-ward" + wardNumber + ".json", JSON.stringify(wardNumberAddresses, null, "  "));
+        fs.writeFileSync("./data/addresses-ward" + wardNumber + ".json", JSON.stringify(wardNumberAddresses, null, "  "));
     }
     catch (error) {
         console.error(error);
     }
     const csvData = jsonToCSV(wardNumberAddresses);
     try {
-        fs.writeFileSync("./addresses-ward" + wardNumber + ".csv", csvData);
+        fs.writeFileSync("./data/addresses-ward" + wardNumber + ".csv", csvData);
     }
     catch (error) {
         console.error(error);
