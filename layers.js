@@ -32,7 +32,7 @@ export const layers = [
     {
         layerName: "streets",
         layerURL: "https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/1",
-        fields: ["FULLNAME", "STREETPREFIX", "STREETNAME", "STREETTYPE", "STREETSUFFIX", "LEFTFROMADDRESS", "LEFTTOADDRESS", "RIGHTFROMADDRESS", "RIGHTTOADDRESS"]
+        fields: ["FULLNAME", "STREETPREFIX", "STREETNAME", "STREETTYPE", "STREETSUFFIX", "LEFTFROMADDRESS", "LEFTTOADDRESS", "RIGHTFROMADDRESS", "RIGHTTOADDRESS", "MUNICIPALITY", "TRAFFIC_FLOW"]
     },
     {
         layerName: "collectionAddresses",

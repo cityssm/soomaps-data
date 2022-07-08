@@ -2,7 +2,7 @@ name: Download and Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 2 * * 0'
 jobs:
   download:
     runs-on: ubuntu-18.04
@@ -17,8 +17,10 @@ jobs:
       - run: npm ci
       - name: Run Download
         run: npm run download
-      - name: Run Build Addresses By Wward
+      - name: Run Build Addresses By Ward
         run: npm run build:wardAddresses
+      - name: Run Build Distinct Streets
+        run: npm run build:distinctStreets
       - name: Commit latest data
         run: |
           git config --global user.name 'cityssm-bot'

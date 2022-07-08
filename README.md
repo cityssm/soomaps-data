@@ -5,7 +5,7 @@ from [SooMaps.com](https://www.soomaps.com/).
 
 Made possible with Esri's JavaScript APIs.
 
-**Refreshed daily.**
+**Refreshed weekly.**
 
 ## Disclaimer (from SooMaps.com)
 
@@ -50,3 +50,12 @@ powered by the address data below.
 | **Ward 3** | [addresses-ward3.csv](data/addresses-ward3.csv) | [addresses-ward3.json](data/addresses-ward3.json) |
 | **Ward 4** | [addresses-ward4.csv](data/addresses-ward4.csv) | [addresses-ward4.json](data/addresses-ward4.json) |
 | **Ward 5** | [addresses-ward5.csv](data/addresses-ward5.csv) | [addresses-ward5.json](data/addresses-ward5.json) |
+
+### Distinct Streets
+
+The raw streets files contains multiple records for more geometrically complex streets.
+This file attempts to simplify streets in Sault Ste. Marie to a single record.
+
+| CSV                                               | JSON                                                |
+| ------------------------------------------------- | --------------------------------------------------- |
+| [streets-distinct.csv](data/streets-distinct.csv) | [streets-distinct.json](data/streets-distinct.json) |

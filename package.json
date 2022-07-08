@@ -6,6 +6,7 @@
   "exports": "./download.js",
   "scripts": {
     "download": "node download.js",
+    "build:distinctStreets": "node buildDistinctStreets.js",
     "build:wardAddresses": "node buildWardAddresses.js"
   },
   "repository": {
