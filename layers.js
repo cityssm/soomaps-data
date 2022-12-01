@@ -36,7 +36,7 @@ export const layers = [
     },
     {
         layerName: "collectionAddresses",
-        layerURL: "https://services1.arcgis.com/nlLTq2Zj0Jwv1qft/ArcGIS/rest/services/Collection_Addresses_Feb_18_2022/FeatureServer/0",
+        layerURL: "https://services1.arcgis.com/nlLTq2Zj0Jwv1qft/ArcGIS/rest/services/Collection_Addresses_Nov2022/FeatureServer/0",
         fields: ["CIVICNUMBER", "UNIT", "STREETNAME", "POSTALCODE", "MUNICIPALITY", "COLLECTIONDAY", "OPERATOR", "ROUTENUMBER", "LEAF_YARD_WASTE_COLLECTION", "REFUSE_DAY", "RECYCLING_DAY", "LATITUDE", "LONGITUDE"]
     }
 ];

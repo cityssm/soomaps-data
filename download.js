@@ -2,7 +2,7 @@ import * as fs from "fs";
 import { request } from "@esri/arcgis-rest-request";
 import { parse as jsonToCSV } from "json2csv";
 import { layers } from "./layers.js";
-const RESULT_RECORD_COUNT = 2000;
+const RESULT_RECORD_COUNT = 1000;
 const MAX_LAYER_QUERY_COUNT = 100;
 for (const layer of layers) {
     const layerData = [];
