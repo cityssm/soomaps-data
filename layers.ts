@@ -151,6 +151,7 @@ export const layers: Layer[] = [
       "SoccerField",
       "TennisCourt",
       "VolleyballCourt",
+      "FINALSCORE",
       "DATEMODIFIED",
     ],
   },

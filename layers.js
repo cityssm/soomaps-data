@@ -136,6 +136,7 @@ export const layers = [
             "SoccerField",
             "TennisCourt",
             "VolleyballCourt",
+            "FINALSCORE",
             "DATEMODIFIED",
         ],
     },
