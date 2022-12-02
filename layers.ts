@@ -28,7 +28,7 @@ export const layers: Layer[] = [
   {
     layerName: "parcels",
     layerURL: "https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/19",
-    fields: ["ROLLNUMBER", "MPACCIVIC", "MPACSTREETNAME", "SHAPE_Length", "SHAPE_Area"]
+    fields: ["ROLLNUMBER", "MPACCIVIC", "MPACSTREETNAME"]
   },
   {
     layerName: "buildingFootprints",
