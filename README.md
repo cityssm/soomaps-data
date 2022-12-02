@@ -30,6 +30,7 @@ this includes mapservices that the interface consumes.**
 | [Heritage Sites](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/9)                               | [heritageSites.csv](data/heritageSites.csv)             | [heritageSites.json](data/heritageSites.json)             |
 | [Municipal Wards](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/17)                             | [municipalWards.csv](data/municipalWards.csv)           | [municipalWards.json](data/municipalWards.json)           |
 | [Parcels](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/19)                                     | [parcels.csv](data/parcels.csv)                         | [parcels.json](data/parcels.json)                         |
+| [Playgrounds](https://services1.arcgis.com/nlLTq2Zj0Jwv1qft/ArcGIS/rest/services/SSM_Playgrounds/FeatureServer/0)                           | [playgrounds.csv](data/playgrounds.csv)                 | [playgrounds.json](data/playgrounds.json)                 |
 | [Streets](https://enterprise.ssmic.com/server/rest/services/SooMaps/SooMaps_GeneralLayers/MapServer/1)                                      | [streets.csv](data/streets.csv)                         | [streets.json](data/streets.json)                         |
 
 ## Calculated Data
