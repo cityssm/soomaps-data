@@ -21,7 +21,7 @@
   "homepage": "https://github.com/cityssm/soomaps-data#readme",
   "private": true,
   "dependencies": {
-    "@arcgis/core": "^4.26.0",
+    "@arcgis/core": "^4.26.2",
     "@esri/arcgis-rest-request": "^4.0.2",
     "json2csv": "^5.0.7"
   },
