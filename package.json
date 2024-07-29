@@ -21,11 +21,13 @@
   "homepage": "https://github.com/cityssm/soomaps-data#readme",
   "private": true,
   "dependencies": {
-    "@arcgis/core": "^4.26.0",
-    "@esri/arcgis-rest-request": "^4.0.2",
+    "@arcgis/core": "^4.30.9",
+    "@esri/arcgis-rest-request": "^4.2.3",
     "json2csv": "^5.0.7"
   },
   "devDependencies": {
-    "@types/json2csv": "^5.0.3"
+    "@types/json2csv": "^5.0.7",
+    "eslint-config-cityssm": "^5.0.2",
+    "prettier-config-cityssm": "^1.0.0"
   }
 }
