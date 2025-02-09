@@ -247,10 +247,10 @@
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5072525,
-    "LONGITUDE": -84.48515374,
-    "geometry.x": 692940.0600000005,
-    "geometry.y": 5153482.02
+    "LATITUDE": 46.50372426,
+    "LONGITUDE": -84.4849134,
+    "geometry.x": 692970.9900000002,
+    "geometry.y": 5153090.58
   },
   {
     "CIVICNUMBER": 0,
@@ -258,10 +258,10 @@
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50372426,
-    "LONGITUDE": -84.4849134,
-    "geometry.x": 692970.9900000002,
-    "geometry.y": 5153090.58
+    "LATITUDE": 46.50734456,
+    "LONGITUDE": -84.48565641,
+    "geometry.x": 692901.1699999999,
+    "geometry.y": 5153491.02
   },
   {
     "CIVICNUMBER": 56,
@@ -342,25 +342,14 @@
   },
   {
     "CIVICNUMBER": 574,
-    "UNIT": "1",
+    "UNIT": "4",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50015262,
-    "LONGITUDE": -84.4848118,
-    "geometry.x": 692991.4299999997,
-    "geometry.y": 5152693.98
-  },
-  {
-    "CIVICNUMBER": 574,
-    "UNIT": "2",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50015487,
-    "LONGITUDE": -84.48511888,
-    "geometry.x": 692967.8599999994,
-    "geometry.y": 5152693.48
+    "LATITUDE": 46.50015583,
+    "LONGITUDE": -84.48571862,
+    "geometry.x": 692921.8399999999,
+    "geometry.y": 5152692.119999999
   },
   {
     "CIVICNUMBER": 574,
@@ -375,14 +364,25 @@
   },
   {
     "CIVICNUMBER": 574,
-    "UNIT": "4",
+    "UNIT": "2",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50015583,
-    "LONGITUDE": -84.48571862,
-    "geometry.x": 692921.8399999999,
-    "geometry.y": 5152692.119999999
+    "LATITUDE": 46.50015487,
+    "LONGITUDE": -84.48511888,
+    "geometry.x": 692967.8599999994,
+    "geometry.y": 5152693.48
+  },
+  {
+    "CIVICNUMBER": 574,
+    "UNIT": "1",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50015262,
+    "LONGITUDE": -84.4848118,
+    "geometry.x": 692991.4299999997,
+    "geometry.y": 5152693.98
   },
   {
     "CIVICNUMBER": 574,
@@ -430,17 +430,6 @@
   },
   {
     "CIVICNUMBER": 588,
-    "UNIT": "1",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50059282,
-    "LONGITUDE": -84.48354878,
-    "geometry.x": 693086.7799999993,
-    "geometry.y": 5152745.98
-  },
-  {
-    "CIVICNUMBER": 588,
     "UNIT": "2",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
@@ -474,6 +463,17 @@
   },
   {
     "CIVICNUMBER": 588,
+    "UNIT": "1",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50059282,
+    "LONGITUDE": -84.48354878,
+    "geometry.x": 693086.7799999993,
+    "geometry.y": 5152745.98
+  },
+  {
+    "CIVICNUMBER": 588,
     "UNIT": "5",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
@@ -485,17 +485,6 @@
   },
   {
     "CIVICNUMBER": 588,
-    "UNIT": "6",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50016451,
-    "LONGITUDE": -84.48334412,
-    "geometry.x": 693104,
-    "geometry.y": 5152698.890000001
-  },
-  {
-    "CIVICNUMBER": 588,
     "UNIT": "7",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
@@ -504,6 +493,17 @@
     "LONGITUDE": -84.48341795,
     "geometry.x": 693097.6799999997,
     "geometry.y": 5152719.27
+  },
+  {
+    "CIVICNUMBER": 588,
+    "UNIT": "6",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50016451,
+    "LONGITUDE": -84.48334412,
+    "geometry.x": 693104,
+    "geometry.y": 5152698.890000001
   },
   {
     "CIVICNUMBER": 626,
@@ -518,28 +518,6 @@
   },
   {
     "CIVICNUMBER": 626,
-    "UNIT": "202",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5009674,
-    "LONGITUDE": -84.48503735,
-    "geometry.x": 692971.2400000002,
-    "geometry.y": 5152783.960000001
-  },
-  {
-    "CIVICNUMBER": 626,
-    "UNIT": "205",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50131042,
-    "LONGITUDE": -84.48441665,
-    "geometry.x": 693017.6500000004,
-    "geometry.y": 5152823.59
-  },
-  {
-    "CIVICNUMBER": 626,
     "UNIT": "208",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
@@ -548,17 +526,6 @@
     "LONGITUDE": -84.48410494,
     "geometry.x": 693042.7799999993,
     "geometry.y": 5152786.27
-  },
-  {
-    "CIVICNUMBER": 626,
-    "UNIT": "209",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50125498,
-    "LONGITUDE": -84.48374642,
-    "geometry.x": 693069.2699999996,
-    "geometry.y": 5152819.07
   },
   {
     "CIVICNUMBER": 626,
@@ -573,36 +540,25 @@
   },
   {
     "CIVICNUMBER": 626,
-    "UNIT": "213",
+    "UNIT": "216",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50126641,
-    "LONGITUDE": -84.4829493,
-    "geometry.x": 693130.3900000006,
-    "geometry.y": 5152822.289999999
+    "LATITUDE": 46.5012028,
+    "LONGITUDE": -84.48185874,
+    "geometry.x": 693214.2899999991,
+    "geometry.y": 5152817.890000001
   },
   {
     "CIVICNUMBER": 626,
-    "UNIT": "215",
+    "UNIT": "202",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50126831,
-    "LONGITUDE": -84.48265505,
-    "geometry.x": 693152.9600000009,
-    "geometry.y": 5152823.220000001
-  },
-  {
-    "CIVICNUMBER": 626,
-    "UNIT": "203",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50132861,
-    "LONGITUDE": -84.4848837,
-    "geometry.x": 692981.75,
-    "geometry.y": 5152824.470000001
+    "LATITUDE": 46.5009674,
+    "LONGITUDE": -84.48503735,
+    "geometry.x": 692971.2400000002,
+    "geometry.y": 5152783.960000001
   },
   {
     "CIVICNUMBER": 626,
@@ -617,36 +573,25 @@
   },
   {
     "CIVICNUMBER": 626,
-    "UNIT": "206",
+    "UNIT": "215",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50097049,
-    "LONGITUDE": -84.48442112,
-    "geometry.x": 693018.5099999998,
-    "geometry.y": 5152785.8100000005
+    "LATITUDE": 46.50126831,
+    "LONGITUDE": -84.48265505,
+    "geometry.x": 693152.9600000009,
+    "geometry.y": 5152823.220000001
   },
   {
     "CIVICNUMBER": 626,
-    "UNIT": "207",
+    "UNIT": "213",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50127238,
-    "LONGITUDE": -84.48410729,
-    "geometry.x": 693041.5199999996,
-    "geometry.y": 5152820.119999999
-  },
-  {
-    "CIVICNUMBER": 626,
-    "UNIT": "210",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50095014,
-    "LONGITUDE": -84.48381537,
-    "geometry.x": 693065.0600000005,
-    "geometry.y": 5152785.029999999
+    "LATITUDE": 46.50126641,
+    "LONGITUDE": -84.4829493,
+    "geometry.x": 693130.3900000006,
+    "geometry.y": 5152822.289999999
   },
   {
     "CIVICNUMBER": 626,
@@ -661,14 +606,47 @@
   },
   {
     "CIVICNUMBER": 626,
-    "UNIT": "214",
+    "UNIT": "209",
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50096306,
-    "LONGITUDE": -84.48333123,
-    "geometry.x": 693102.1600000001,
-    "geometry.y": 5152787.65
+    "LATITUDE": 46.50125498,
+    "LONGITUDE": -84.48374642,
+    "geometry.x": 693069.2699999996,
+    "geometry.y": 5152819.07
+  },
+  {
+    "CIVICNUMBER": 626,
+    "UNIT": "207",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50127238,
+    "LONGITUDE": -84.48410729,
+    "geometry.x": 693041.5199999996,
+    "geometry.y": 5152820.119999999
+  },
+  {
+    "CIVICNUMBER": 626,
+    "UNIT": "205",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50131042,
+    "LONGITUDE": -84.48441665,
+    "geometry.x": 693017.6500000004,
+    "geometry.y": 5152823.59
+  },
+  {
+    "CIVICNUMBER": 626,
+    "UNIT": "203",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50132861,
+    "LONGITUDE": -84.4848837,
+    "geometry.x": 692981.75,
+    "geometry.y": 5152824.470000001
   },
   {
     "CIVICNUMBER": 626,
@@ -680,28 +658,6 @@
     "LONGITUDE": -84.48243631,
     "geometry.x": 693169.8100000005,
     "geometry.y": 5152821.65
-  },
-  {
-    "CIVICNUMBER": 626,
-    "UNIT": "216",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5012028,
-    "LONGITUDE": -84.48185874,
-    "geometry.x": 693214.2899999991,
-    "geometry.y": 5152817.890000001
-  },
-  {
-    "CIVICNUMBER": 626,
-    "UNIT": "218",
-    "STREETNAME": "Airport Road",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50144889,
-    "LONGITUDE": -84.48199517,
-    "geometry.x": 693202.9499999993,
-    "geometry.y": 5152844.9
   },
   {
     "CIVICNUMBER": 626,
@@ -724,6 +680,17 @@
     "LONGITUDE": -84.482399,
     "geometry.x": 693171.0500000007,
     "geometry.y": 5152872.630000001
+  },
+  {
+    "CIVICNUMBER": 626,
+    "UNIT": "218",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50144889,
+    "LONGITUDE": -84.48199517,
+    "geometry.x": 693202.9499999993,
+    "geometry.y": 5152844.9
   },
   {
     "CIVICNUMBER": 626,
@@ -757,6 +724,39 @@
     "LONGITUDE": -84.48306558,
     "geometry.x": 693119.5500000007,
     "geometry.y": 5152882.17
+  },
+  {
+    "CIVICNUMBER": 626,
+    "UNIT": "206",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50097049,
+    "LONGITUDE": -84.48442112,
+    "geometry.x": 693018.5099999998,
+    "geometry.y": 5152785.8100000005
+  },
+  {
+    "CIVICNUMBER": 626,
+    "UNIT": "210",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50095014,
+    "LONGITUDE": -84.48381537,
+    "geometry.x": 693065.0600000005,
+    "geometry.y": 5152785.029999999
+  },
+  {
+    "CIVICNUMBER": 626,
+    "UNIT": "214",
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50096306,
+    "LONGITUDE": -84.48333123,
+    "geometry.x": 693102.1600000001,
+    "geometry.y": 5152787.65
   },
   {
     "CIVICNUMBER": 650,
@@ -973,10 +973,10 @@
     "STREETNAME": "Airport Road",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50864002,
-    "LONGITUDE": -84.48751919,
-    "geometry.x": 692753.6799999997,
-    "geometry.y": 5153630.41
+    "LATITUDE": 46.50800978,
+    "LONGITUDE": -84.48765161,
+    "geometry.x": 692745.75,
+    "geometry.y": 5153560.0600000005
   },
   {
     "CIVICNUMBER": 820,
@@ -988,6 +988,28 @@
     "LONGITUDE": -84.48586149,
     "geometry.x": 692889.0099999998,
     "geometry.y": 5153598.9399999995
+  },
+  {
+    "CIVICNUMBER": 831,
+    "UNIT": null,
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50861198,
+    "LONGITUDE": -84.48765174,
+    "geometry.x": 692743.6099999994,
+    "geometry.y": 5153626.970000001
+  },
+  {
+    "CIVICNUMBER": 843,
+    "UNIT": null,
+    "STREETNAME": "Airport Road",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50922738,
+    "LONGITUDE": -84.48765114,
+    "geometry.x": 692741.4800000004,
+    "geometry.y": 5153695.35
   },
   {
     "CIVICNUMBER": 856,
@@ -4339,10 +4361,10 @@
     "STREETNAME": "Anderson Road",
     "POSTALCODE": "P6C 6G5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53915323,
-    "LONGITUDE": -84.4142715,
-    "geometry.x": 698261.8300000001,
-    "geometry.y": 5157202.26
+    "LATITUDE": 46.53918963,
+    "LONGITUDE": -84.41419373,
+    "geometry.x": 698267.6600000001,
+    "geometry.y": 5157206.5
   },
   {
     "CIVICNUMBER": 95,
@@ -7494,17 +7516,6 @@
     "CIVICNUMBER": 0,
     "UNIT": null,
     "STREETNAME": "Base Line",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52298577,
-    "LONGITUDE": -84.43650613,
-    "geometry.x": 696615.4100000001,
-    "geometry.y": 5155350.23
-  },
-  {
-    "CIVICNUMBER": 0,
-    "UNIT": null,
-    "STREETNAME": "Base Line",
     "POSTALCODE": "P6A 6K4",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51988138,
@@ -7646,17 +7657,6 @@
   },
   {
     "CIVICNUMBER": 812,
-    "UNIT": "A",
-    "STREETNAME": "Base Line",
-    "POSTALCODE": "P6A 5K6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5220304,
-    "LONGITUDE": -84.42264453,
-    "geometry.x": 697682,
-    "geometry.y": 5155278.710000001
-  },
-  {
-    "CIVICNUMBER": 812,
     "UNIT": null,
     "STREETNAME": "Base Line",
     "POSTALCODE": "P6A 5K6",
@@ -7665,6 +7665,17 @@
     "LONGITUDE": -84.42224354,
     "geometry.x": 697713.1699999999,
     "geometry.y": 5155267
+  },
+  {
+    "CIVICNUMBER": 812,
+    "UNIT": "A",
+    "STREETNAME": "Base Line",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5220304,
+    "LONGITUDE": -84.42264453,
+    "geometry.x": 697682,
+    "geometry.y": 5155278.710000001
   },
   {
     "CIVICNUMBER": 877,
@@ -7808,6 +7819,17 @@
     "LONGITUDE": -84.4358323,
     "geometry.x": 696672.2100000009,
     "geometry.y": 5155194.34
+  },
+  {
+    "CIVICNUMBER": 1100,
+    "UNIT": null,
+    "STREETNAME": "Base Line",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52157566,
+    "LONGITUDE": -84.43648632,
+    "geometry.x": 696622.0199999996,
+    "geometry.y": 5155193.6
   },
   {
     "CIVICNUMBER": 1110,
@@ -8418,7 +8440,7 @@
     "CIVICNUMBER": 2209,
     "UNIT": null,
     "STREETNAME": "Base Line",
-    "POSTALCODE": "P6A 6K4",
+    "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51986346,
     "LONGITUDE": -84.48826936,
@@ -8453,10 +8475,10 @@
     "STREETNAME": "Base Line",
     "POSTALCODE": "P6A 6K4",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52002478,
-    "LONGITUDE": -84.4946897,
-    "geometry.x": 692163.4299999997,
-    "geometry.y": 5154877.9
+    "LATITUDE": 46.52002723,
+    "LONGITUDE": -84.49471514,
+    "geometry.x": 692161.4700000007,
+    "geometry.y": 5154878.109999999
   },
   {
     "CIVICNUMBER": 2273,
@@ -14642,14 +14664,14 @@
   },
   {
     "CIVICNUMBER": 545,
-    "UNIT": "1",
+    "UNIT": "3",
     "STREETNAME": "Connaught Avenue",
     "POSTALCODE": "P6C 2E1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53525254,
-    "LONGITUDE": -84.37359726,
-    "geometry.x": 701394.8599999994,
-    "geometry.y": 5156871.880000001
+    "LATITUDE": 46.5352449,
+    "LONGITUDE": -84.37383695,
+    "geometry.x": 701376.5099999998,
+    "geometry.y": 5156870.42
   },
   {
     "CIVICNUMBER": 545,
@@ -14664,14 +14686,14 @@
   },
   {
     "CIVICNUMBER": 545,
-    "UNIT": "3",
+    "UNIT": "1",
     "STREETNAME": "Connaught Avenue",
     "POSTALCODE": "P6C 2E1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5352449,
-    "LONGITUDE": -84.37383695,
-    "geometry.x": 701376.5099999998,
-    "geometry.y": 5156870.42
+    "LATITUDE": 46.53525254,
+    "LONGITUDE": -84.37359726,
+    "geometry.x": 701394.8599999994,
+    "geometry.y": 5156871.880000001
   },
   {
     "CIVICNUMBER": 547,
@@ -15306,10 +15328,10 @@
     "STREETNAME": "Coronation Street",
     "POSTALCODE": "P6A 0C2",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.57674529,
-    "LONGITUDE": -84.34329521,
-    "geometry.x": 703563.0399999991,
-    "geometry.y": 5161560
+    "LATITUDE": 46.57674561,
+    "LONGITUDE": -84.34330499,
+    "geometry.x": 703562.2899999991,
+    "geometry.y": 5161560.01
   },
   {
     "CIVICNUMBER": 7,
@@ -17127,17 +17149,6 @@
     "geometry.y": 5156511.380000001
   },
   {
-    "CIVICNUMBER": 357,
-    "UNIT": null,
-    "STREETNAME": "Douglas Street",
-    "POSTALCODE": "P6C 1S2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53136053,
-    "LONGITUDE": -84.36432392,
-    "geometry.x": 702120.3699999992,
-    "geometry.y": 5156463.15
-  },
-  {
     "CIVICNUMBER": 359,
     "UNIT": null,
     "STREETNAME": "Douglas Street",
@@ -17898,17 +17909,6 @@
   },
   {
     "CIVICNUMBER": 537,
-    "UNIT": "A",
-    "STREETNAME": "Douglas Street",
-    "POSTALCODE": "P6C 1T8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53113284,
-    "LONGITUDE": -84.37268311,
-    "geometry.x": 701480.1999999993,
-    "geometry.y": 5156416.470000001
-  },
-  {
-    "CIVICNUMBER": 537,
     "UNIT": "B",
     "STREETNAME": "Douglas Street",
     "POSTALCODE": "P6C 1T8",
@@ -17917,6 +17917,17 @@
     "LONGITUDE": -84.37272398,
     "geometry.x": 701476.9299999997,
     "geometry.y": 5156420.449999999
+  },
+  {
+    "CIVICNUMBER": 537,
+    "UNIT": "A",
+    "STREETNAME": "Douglas Street",
+    "POSTALCODE": "P6C 1T8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53113284,
+    "LONGITUDE": -84.37268311,
+    "geometry.x": 701480.1999999993,
+    "geometry.y": 5156416.470000001
   },
   {
     "CIVICNUMBER": 539,
@@ -19514,6 +19525,17 @@
     "geometry.y": 5155950.390000001
   },
   {
+    "CIVICNUMBER": 770,
+    "UNIT": null,
+    "STREETNAME": "Dyment Street",
+    "POSTALCODE": "P6C 1E8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52729463,
+    "LONGITUDE": -84.38053496,
+    "geometry.x": 700892.25,
+    "geometry.y": 5155969.98
+  },
+  {
     "CIVICNUMBER": 773,
     "UNIT": null,
     "STREETNAME": "Dyment Street",
@@ -19526,17 +19548,6 @@
   },
   {
     "CIVICNUMBER": 774,
-    "UNIT": "A",
-    "STREETNAME": "Dyment Street",
-    "POSTALCODE": "P6C 1E8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52711134,
-    "LONGITUDE": -84.3806507,
-    "geometry.x": 700883.8499999996,
-    "geometry.y": 5155954.74
-  },
-  {
-    "CIVICNUMBER": 774,
     "UNIT": "B",
     "STREETNAME": "Dyment Street",
     "POSTALCODE": "P6C 1E8",
@@ -19545,6 +19556,17 @@
     "LONGITUDE": -84.38053523,
     "geometry.x": 700891.3000000007,
     "geometry.y": 5155955.300000001
+  },
+  {
+    "CIVICNUMBER": 774,
+    "UNIT": "A",
+    "STREETNAME": "Dyment Street",
+    "POSTALCODE": "P6C 1E8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52711134,
+    "LONGITUDE": -84.3806507,
+    "geometry.x": 700883.8499999996,
+    "geometry.y": 5155954.74
   },
   {
     "CIVICNUMBER": 0,
@@ -19713,17 +19735,6 @@
   },
   {
     "CIVICNUMBER": 106,
-    "UNIT": "A",
-    "STREETNAME": "East Balfour Street",
-    "POSTALCODE": "P6C 1X5",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53340871,
-    "LONGITUDE": -84.38780803,
-    "geometry.x": 700311.9900000002,
-    "geometry.y": 5156630.83
-  },
-  {
-    "CIVICNUMBER": 106,
     "UNIT": "B",
     "STREETNAME": "East Balfour Street",
     "POSTALCODE": "P6C 1X5",
@@ -19732,6 +19743,17 @@
     "LONGITUDE": -84.38784115,
     "geometry.x": 700309.4499999993,
     "geometry.y": 5156630.76
+  },
+  {
+    "CIVICNUMBER": 106,
+    "UNIT": "A",
+    "STREETNAME": "East Balfour Street",
+    "POSTALCODE": "P6C 1X5",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53340871,
+    "LONGITUDE": -84.38780803,
+    "geometry.x": 700311.9900000002,
+    "geometry.y": 5156630.83
   },
   {
     "CIVICNUMBER": 108,
@@ -19834,17 +19856,6 @@
   },
   {
     "CIVICNUMBER": 116,
-    "UNIT": "A",
-    "STREETNAME": "East Balfour Street",
-    "POSTALCODE": "P6C 1X5",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53342185,
-    "LONGITUDE": -84.3872645,
-    "geometry.x": 700353.6199999992,
-    "geometry.y": 5156633.67
-  },
-  {
-    "CIVICNUMBER": 116,
     "UNIT": "B",
     "STREETNAME": "East Balfour Street",
     "POSTALCODE": "P6C 1X5",
@@ -19855,15 +19866,15 @@
     "geometry.y": 5156633.83
   },
   {
-    "CIVICNUMBER": 118,
+    "CIVICNUMBER": 116,
     "UNIT": "A",
     "STREETNAME": "East Balfour Street",
     "POSTALCODE": "P6C 1X5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53345337,
-    "LONGITUDE": -84.38708028,
-    "geometry.x": 700367.6300000008,
-    "geometry.y": 5156637.640000001
+    "LATITUDE": 46.53342185,
+    "LONGITUDE": -84.3872645,
+    "geometry.x": 700353.6199999992,
+    "geometry.y": 5156633.67
   },
   {
     "CIVICNUMBER": 118,
@@ -19877,15 +19888,15 @@
     "geometry.y": 5156637.550000001
   },
   {
-    "CIVICNUMBER": 120,
+    "CIVICNUMBER": 118,
     "UNIT": "A",
     "STREETNAME": "East Balfour Street",
     "POSTALCODE": "P6C 1X5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5334547,
-    "LONGITUDE": -84.38702831,
-    "geometry.x": 700371.6099999994,
-    "geometry.y": 5156637.92
+    "LATITUDE": 46.53345337,
+    "LONGITUDE": -84.38708028,
+    "geometry.x": 700367.6300000008,
+    "geometry.y": 5156637.640000001
   },
   {
     "CIVICNUMBER": 120,
@@ -19897,6 +19908,17 @@
     "LONGITUDE": -84.38699865,
     "geometry.x": 700373.8800000008,
     "geometry.y": 5156638.130000001
+  },
+  {
+    "CIVICNUMBER": 120,
+    "UNIT": "A",
+    "STREETNAME": "East Balfour Street",
+    "POSTALCODE": "P6C 1X5",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5334547,
+    "LONGITUDE": -84.38702831,
+    "geometry.x": 700371.6099999994,
+    "geometry.y": 5156637.92
   },
   {
     "CIVICNUMBER": 124,
@@ -20208,17 +20230,6 @@
   },
   {
     "CIVICNUMBER": 227,
-    "UNIT": "2",
-    "STREETNAME": "East Balfour Street",
-    "POSTALCODE": "P6C 1X8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53298001,
-    "LONGITUDE": -84.38130862,
-    "geometry.x": 700811.9499999993,
-    "geometry.y": 5156599.720000001
-  },
-  {
-    "CIVICNUMBER": 227,
     "UNIT": "3",
     "STREETNAME": "East Balfour Street",
     "POSTALCODE": "P6C 1X8",
@@ -20238,17 +20249,6 @@
     "LONGITUDE": -84.38108376,
     "geometry.x": 700829.2699999996,
     "geometry.y": 5156597.970000001
-  },
-  {
-    "CIVICNUMBER": 227,
-    "UNIT": "5",
-    "STREETNAME": "East Balfour Street",
-    "POSTALCODE": "P6C 1X8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53298704,
-    "LONGITUDE": -84.38099087,
-    "geometry.x": 700836.2899999991,
-    "geometry.y": 5156601.3100000005
   },
   {
     "CIVICNUMBER": 227,
@@ -20274,17 +20274,6 @@
   },
   {
     "CIVICNUMBER": 227,
-    "UNIT": "8",
-    "STREETNAME": "East Balfour Street",
-    "POSTALCODE": "P6C 1X8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53299451,
-    "LONGITUDE": -84.38067244,
-    "geometry.x": 700860.6799999997,
-    "geometry.y": 5156602.949999999
-  },
-  {
-    "CIVICNUMBER": 227,
     "UNIT": "9",
     "STREETNAME": "East Balfour Street",
     "POSTALCODE": "P6C 1X8",
@@ -20293,6 +20282,39 @@
     "LONGITUDE": -84.38057444,
     "geometry.x": 700868.2799999993,
     "geometry.y": 5156600.630000001
+  },
+  {
+    "CIVICNUMBER": 227,
+    "UNIT": "2",
+    "STREETNAME": "East Balfour Street",
+    "POSTALCODE": "P6C 1X8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53298001,
+    "LONGITUDE": -84.38130862,
+    "geometry.x": 700811.9499999993,
+    "geometry.y": 5156599.720000001
+  },
+  {
+    "CIVICNUMBER": 227,
+    "UNIT": "5",
+    "STREETNAME": "East Balfour Street",
+    "POSTALCODE": "P6C 1X8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53298704,
+    "LONGITUDE": -84.38099087,
+    "geometry.x": 700836.2899999991,
+    "geometry.y": 5156601.3100000005
+  },
+  {
+    "CIVICNUMBER": 227,
+    "UNIT": "8",
+    "STREETNAME": "East Balfour Street",
+    "POSTALCODE": "P6C 1X8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53299451,
+    "LONGITUDE": -84.38067244,
+    "geometry.x": 700860.6799999997,
+    "geometry.y": 5156602.949999999
   },
   {
     "CIVICNUMBER": 228,
@@ -20531,10 +20553,10 @@
     "STREETNAME": "East Balfour Street",
     "POSTALCODE": "P6C 1X8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5327727,
-    "LONGITUDE": -84.37807557,
-    "geometry.x": 701061.5800000001,
-    "geometry.y": 5156580.16
+    "LATITUDE": 46.53312554,
+    "LONGITUDE": -84.3779909,
+    "geometry.x": 701065.8200000003,
+    "geometry.y": 5156624.34
   },
   {
     "CIVICNUMBER": 310,
@@ -20579,17 +20601,6 @@
     "LONGITUDE": -84.37715227,
     "geometry.x": 701128.1099999994,
     "geometry.y": 5156687.140000001
-  },
-  {
-    "CIVICNUMBER": 314,
-    "UNIT": "REAR",
-    "STREETNAME": "East Balfour Street",
-    "POSTALCODE": "P6C 1X9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53416085,
-    "LONGITUDE": -84.37703154,
-    "geometry.x": 701135.5600000005,
-    "geometry.y": 5156741.82
   },
   {
     "CIVICNUMBER": 315,
@@ -20967,25 +20978,14 @@
   },
   {
     "CIVICNUMBER": 54,
-    "UNIT": "1",
+    "UNIT": "2",
     "STREETNAME": "Ellis Road",
     "POSTALCODE": "P6C 1N8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53168736,
-    "LONGITUDE": -84.40790022,
-    "geometry.x": 698777.5899999999,
-    "geometry.y": 5156388.75
-  },
-  {
-    "CIVICNUMBER": 54,
-    "UNIT": "5",
-    "STREETNAME": "Ellis Road",
-    "POSTALCODE": "P6C 1N8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53168833,
-    "LONGITUDE": -84.40786366,
-    "geometry.x": 698780.3900000006,
-    "geometry.y": 5156388.949999999
+    "LATITUDE": 46.53169205,
+    "LONGITUDE": -84.40771782,
+    "geometry.x": 698791.5600000005,
+    "geometry.y": 5156389.73
   },
   {
     "CIVICNUMBER": 54,
@@ -21022,14 +21022,25 @@
   },
   {
     "CIVICNUMBER": 54,
-    "UNIT": "2",
+    "UNIT": "1",
     "STREETNAME": "Ellis Road",
     "POSTALCODE": "P6C 1N8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53169205,
-    "LONGITUDE": -84.40771782,
-    "geometry.x": 698791.5600000005,
-    "geometry.y": 5156389.73
+    "LATITUDE": 46.53168736,
+    "LONGITUDE": -84.40790022,
+    "geometry.x": 698777.5899999999,
+    "geometry.y": 5156388.75
+  },
+  {
+    "CIVICNUMBER": 54,
+    "UNIT": "5",
+    "STREETNAME": "Ellis Road",
+    "POSTALCODE": "P6C 1N8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53168833,
+    "LONGITUDE": -84.40786366,
+    "geometry.x": 698780.3900000006,
+    "geometry.y": 5156388.949999999
   },
   {
     "CIVICNUMBER": 55,
@@ -24322,17 +24333,6 @@
   },
   {
     "CIVICNUMBER": 748,
-    "UNIT": null,
-    "STREETNAME": "Fourth Line West",
-    "POSTALCODE": "P6A 5K8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5662501,
-    "LONGITUDE": -84.38896037,
-    "geometry.x": 700102.1799999997,
-    "geometry.y": 5160275.6899999995
-  },
-  {
-    "CIVICNUMBER": 748,
     "UNIT": "A",
     "STREETNAME": "Fourth Line West",
     "POSTALCODE": "P6A 5K8",
@@ -24341,6 +24341,17 @@
     "LONGITUDE": -84.38955588,
     "geometry.x": 700046.1500000004,
     "geometry.y": 5160608.699999999
+  },
+  {
+    "CIVICNUMBER": 748,
+    "UNIT": null,
+    "STREETNAME": "Fourth Line West",
+    "POSTALCODE": "P6A 5K8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5662501,
+    "LONGITUDE": -84.38896037,
+    "geometry.x": 700102.1799999997,
+    "geometry.y": 5160275.6899999995
   },
   {
     "CIVICNUMBER": 768,
@@ -24882,6 +24893,17 @@
     "geometry.y": 5153675.369999999
   },
   {
+    "CIVICNUMBER": 221,
+    "UNIT": null,
+    "STREETNAME": "Gagnon Road South",
+    "POSTALCODE": "P6A 6K4",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50230239,
+    "LONGITUDE": -84.51254308,
+    "geometry.x": 690856.1400000006,
+    "geometry.y": 5152865.42
+  },
+  {
     "CIVICNUMBER": 225,
     "UNIT": null,
     "STREETNAME": "Gagnon Road South",
@@ -25389,17 +25411,6 @@
   },
   {
     "CIVICNUMBER": 180,
-    "UNIT": null,
-    "STREETNAME": "Glasgow Avenue",
-    "POSTALCODE": "P6C 5G1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52733254,
-    "LONGITUDE": -84.38491484,
-    "geometry.x": 700556.2200000007,
-    "geometry.y": 5155963.050000001
-  },
-  {
-    "CIVICNUMBER": 180,
     "UNIT": "B",
     "STREETNAME": "Glasgow Avenue",
     "POSTALCODE": "P6C 5G1",
@@ -25408,6 +25419,17 @@
     "LONGITUDE": -84.38491735,
     "geometry.x": 700555.8699999992,
     "geometry.y": 5155967.800000001
+  },
+  {
+    "CIVICNUMBER": 180,
+    "UNIT": null,
+    "STREETNAME": "Glasgow Avenue",
+    "POSTALCODE": "P6C 5G1",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52733254,
+    "LONGITUDE": -84.38491484,
+    "geometry.x": 700556.2200000007,
+    "geometry.y": 5155963.050000001
   },
   {
     "CIVICNUMBER": 183,
@@ -25771,6 +25793,17 @@
     "LONGITUDE": -84.38503664,
     "geometry.x": 700537.4499999993,
     "geometry.y": 5156247.24
+  },
+  {
+    "CIVICNUMBER": 257,
+    "UNIT": null,
+    "STREETNAME": "Glasgow Avenue",
+    "POSTALCODE": "P6C 5G4",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52993012,
+    "LONGITUDE": -84.38570174,
+    "geometry.x": 700486.3100000005,
+    "geometry.y": 5156249.67
   },
   {
     "CIVICNUMBER": 260,
@@ -26260,17 +26293,6 @@
     "CIVICNUMBER": 0,
     "UNIT": null,
     "STREETNAME": "Goulais Avenue",
-    "POSTALCODE": "P6A 5K8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.57878145,
-    "LONGITUDE": -84.38333961,
-    "geometry.x": 700487.3499999996,
-    "geometry.y": 5161683.619999999
-  },
-  {
-    "CIVICNUMBER": 0,
-    "UNIT": null,
-    "STREETNAME": "Goulais Avenue",
     "POSTALCODE": "P6C 5A5",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.53440796,
@@ -26279,10 +26301,21 @@
     "geometry.y": 5156762.82
   },
   {
+    "CIVICNUMBER": 0,
+    "UNIT": null,
+    "STREETNAME": "Goulais Avenue",
+    "POSTALCODE": "P6A 5K8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.57878145,
+    "LONGITUDE": -84.38333961,
+    "geometry.x": 700487.3499999996,
+    "geometry.y": 5161683.619999999
+  },
+  {
     "CIVICNUMBER": 54,
     "UNIT": null,
     "STREETNAME": "Goulais Avenue",
-    "POSTALCODE": null,
+    "POSTALCODE": "P6C 4Z2",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.52389786,
     "LONGITUDE": -84.38069651,
@@ -26801,10 +26834,10 @@
     "STREETNAME": "Goulais Avenue",
     "POSTALCODE": "P6C 4Z6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52749548,
-    "LONGITUDE": -84.38109526,
-    "geometry.x": 700848.5399999991,
-    "geometry.y": 5155990.869999999
+    "LATITUDE": 46.527492,
+    "LONGITUDE": -84.38100637,
+    "geometry.x": 700855.3699999992,
+    "geometry.y": 5155990.710000001
   },
   {
     "CIVICNUMBER": 183,
@@ -27336,17 +27369,6 @@
   },
   {
     "CIVICNUMBER": 318,
-    "UNIT": "A",
-    "STREETNAME": "Goulais Avenue",
-    "POSTALCODE": "P6C 5A4",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53209704,
-    "LONGITUDE": -84.38123489,
-    "geometry.x": 700820.8599999994,
-    "geometry.y": 5156501.800000001
-  },
-  {
-    "CIVICNUMBER": 318,
     "UNIT": "B",
     "STREETNAME": "Goulais Avenue",
     "POSTALCODE": "P6C 5A4",
@@ -27355,6 +27377,17 @@
     "LONGITUDE": -84.38123856,
     "geometry.x": 700820.3300000001,
     "geometry.y": 5156509.279999999
+  },
+  {
+    "CIVICNUMBER": 318,
+    "UNIT": "A",
+    "STREETNAME": "Goulais Avenue",
+    "POSTALCODE": "P6C 5A4",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53209704,
+    "LONGITUDE": -84.38123489,
+    "geometry.x": 700820.8599999994,
+    "geometry.y": 5156501.800000001
   },
   {
     "CIVICNUMBER": 320,
@@ -29800,6 +29833,17 @@
   },
   {
     "CIVICNUMBER": 311,
+    "UNIT": "4",
+    "STREETNAME": "Korah Road",
+    "POSTALCODE": "P6C 4H2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53139287,
+    "LONGITUDE": -84.36226924,
+    "geometry.x": 702277.8100000005,
+    "geometry.y": 5156472.01
+  },
+  {
+    "CIVICNUMBER": 311,
     "UNIT": "2",
     "STREETNAME": "Korah Road",
     "POSTALCODE": "P6C 4H2",
@@ -29819,17 +29863,6 @@
     "LONGITUDE": -84.36225945,
     "geometry.x": 702278.6300000008,
     "geometry.y": 5156469.949999999
-  },
-  {
-    "CIVICNUMBER": 311,
-    "UNIT": "4",
-    "STREETNAME": "Korah Road",
-    "POSTALCODE": "P6C 4H2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53139287,
-    "LONGITUDE": -84.36226924,
-    "geometry.x": 702277.8100000005,
-    "geometry.y": 5156472.01
   },
   {
     "CIVICNUMBER": 315,
@@ -31857,17 +31890,6 @@
   },
   {
     "CIVICNUMBER": 124,
-    "UNIT": null,
-    "STREETNAME": "Letcher Street",
-    "POSTALCODE": "P6C 4X8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52593266,
-    "LONGITUDE": -84.37941976,
-    "geometry.x": 700982.8000000007,
-    "geometry.y": 5155821.49
-  },
-  {
-    "CIVICNUMBER": 124,
     "UNIT": "2",
     "STREETNAME": "Letcher Street",
     "POSTALCODE": "P6C 4X8",
@@ -31876,6 +31898,17 @@
     "LONGITUDE": -84.37932714,
     "geometry.x": 700989.8399999999,
     "geometry.y": 5155823.619999999
+  },
+  {
+    "CIVICNUMBER": 124,
+    "UNIT": null,
+    "STREETNAME": "Letcher Street",
+    "POSTALCODE": "P6C 4X8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52593266,
+    "LONGITUDE": -84.37941976,
+    "geometry.x": 700982.8000000007,
+    "geometry.y": 5155821.49
   },
   {
     "CIVICNUMBER": 125,
@@ -32869,17 +32902,6 @@
   },
   {
     "CIVICNUMBER": 531,
-    "UNIT": null,
-    "STREETNAME": "Maki Road",
-    "POSTALCODE": "P6A 5K8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.56864295,
-    "LONGITUDE": -84.42075395,
-    "geometry.x": 697657.6400000006,
-    "geometry.y": 5160462.640000001
-  },
-  {
-    "CIVICNUMBER": 531,
     "UNIT": "R",
     "STREETNAME": "Maki Road",
     "POSTALCODE": "P6A 5K8",
@@ -32888,6 +32910,17 @@
     "LONGITUDE": -84.42156034,
     "geometry.x": 697595.75,
     "geometry.y": 5160463.539999999
+  },
+  {
+    "CIVICNUMBER": 531,
+    "UNIT": null,
+    "STREETNAME": "Maki Road",
+    "POSTALCODE": "P6A 5K8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.56864295,
+    "LONGITUDE": -84.42075395,
+    "geometry.x": 697657.6400000006,
+    "geometry.y": 5160462.640000001
   },
   {
     "CIVICNUMBER": 532,
@@ -34941,10 +34974,10 @@
     "STREETNAME": "Nixon Road",
     "POSTALCODE": "P6C 5R9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53413819,
-    "LONGITUDE": -84.41074181,
-    "geometry.x": 698550.75,
-    "geometry.y": 5156653.91
+    "LATITUDE": 46.53484825,
+    "LONGITUDE": -84.41056094,
+    "geometry.x": 698562.0299999993,
+    "geometry.y": 5156733.26
   },
   {
     "CIVICNUMBER": 0,
@@ -34952,10 +34985,10 @@
     "STREETNAME": "Nixon Road",
     "POSTALCODE": "P6C 5R9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53484825,
-    "LONGITUDE": -84.41056094,
-    "geometry.x": 698562.0299999993,
-    "geometry.y": 5156733.26
+    "LATITUDE": 46.53413819,
+    "LONGITUDE": -84.41074181,
+    "geometry.x": 698550.75,
+    "geometry.y": 5156653.91
   },
   {
     "CIVICNUMBER": 248,
@@ -35007,10 +35040,10 @@
     "STREETNAME": "Nixon Road",
     "POSTALCODE": "P6C 5R8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52965785,
-    "LONGITUDE": -84.4110725,
-    "geometry.x": 698541.7300000004,
-    "geometry.y": 5156155.26
+    "LATITUDE": 46.52967302,
+    "LONGITUDE": -84.41108299,
+    "geometry.x": 698540.8699999992,
+    "geometry.y": 5156156.92
   },
   {
     "CIVICNUMBER": 273,
@@ -35951,7 +35984,7 @@
     "CIVICNUMBER": 60,
     "UNIT": "A",
     "STREETNAME": "North Eden Street",
-    "POSTALCODE": null,
+    "POSTALCODE": "P6C 2L5",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.53627694,
     "LONGITUDE": -84.3950107,
@@ -35962,7 +35995,7 @@
     "CIVICNUMBER": 60,
     "UNIT": "B",
     "STREETNAME": "North Eden Street",
-    "POSTALCODE": null,
+    "POSTALCODE": "P6C 2L5",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.53620181,
     "LONGITUDE": -84.39500752,
@@ -35973,7 +36006,7 @@
     "CIVICNUMBER": 60,
     "UNIT": "C",
     "STREETNAME": "North Eden Street",
-    "POSTALCODE": null,
+    "POSTALCODE": "P6C 2L5",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.53612686,
     "LONGITUDE": -84.39500432,
@@ -35984,7 +36017,7 @@
     "CIVICNUMBER": 60,
     "UNIT": "D",
     "STREETNAME": "North Eden Street",
-    "POSTALCODE": null,
+    "POSTALCODE": "P6C 2L5",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.5360519,
     "LONGITUDE": -84.39500113,
@@ -35995,7 +36028,7 @@
     "CIVICNUMBER": 60,
     "UNIT": "E",
     "STREETNAME": "North Eden Street",
-    "POSTALCODE": null,
+    "POSTALCODE": "P6C 2L5",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.53597695,
     "LONGITUDE": -84.39499793,
@@ -36283,10 +36316,10 @@
     "STREETNAME": "Old Goulais Bay Road",
     "POSTALCODE": "P6A 0B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.57613582,
-    "LONGITUDE": -84.34283453,
-    "geometry.x": 703600.6199999992,
-    "geometry.y": 5161493.470000001
+    "LATITUDE": 46.57614888,
+    "LONGITUDE": -84.34282358,
+    "geometry.x": 703601.4100000001,
+    "geometry.y": 5161494.949999999
   },
   {
     "CIVICNUMBER": 699,
@@ -36602,10 +36635,10 @@
     "STREETNAME": "Old Goulais Bay Road",
     "POSTALCODE": "P6C 0A7",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.59674799,
-    "LONGITUDE": -84.34755347,
-    "geometry.x": 703161.9800000004,
-    "geometry.y": 5163771.550000001
+    "LATITUDE": 46.59774458,
+    "LONGITUDE": -84.34586386,
+    "geometry.x": 703287.6600000001,
+    "geometry.y": 5163886.640000001
   },
   {
     "CIVICNUMBER": 1403,
@@ -36705,17 +36738,6 @@
     "LONGITUDE": -84.40412179,
     "geometry.x": 699020.7200000007,
     "geometry.y": 5157814.75
-  },
-  {
-    "CIVICNUMBER": 6,
-    "UNIT": null,
-    "STREETNAME": "Palomino Drive",
-    "POSTALCODE": "P6A 0B1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5453434,
-    "LONGITUDE": -84.40426358,
-    "geometry.x": 699006.5299999993,
-    "geometry.y": 5157915.26
   },
   {
     "CIVICNUMBER": 10,
@@ -37273,10 +37295,10 @@
     "STREETNAME": "Parkelane Court",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51666646,
-    "LONGITUDE": -84.49157159,
-    "geometry.x": 692414.4499999993,
-    "geometry.y": 5154512.35
+    "LATITUDE": 46.51660486,
+    "LONGITUDE": -84.49127014,
+    "geometry.x": 692437.7899999991,
+    "geometry.y": 5154506.24
   },
   {
     "CIVICNUMBER": 24,
@@ -37537,10 +37559,10 @@
     "STREETNAME": "Parkewood Drive",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51478408,
-    "LONGITUDE": -84.49576074,
-    "geometry.x": 692099.7599999998,
-    "geometry.y": 5154292.99
+    "LATITUDE": 46.51494456,
+    "LONGITUDE": -84.49547816,
+    "geometry.x": 692120.8699999992,
+    "geometry.y": 5154311.51
   },
   {
     "CIVICNUMBER": 58,
@@ -37911,10 +37933,10 @@
     "STREETNAME": "Peoples Road",
     "POSTALCODE": "P6A 0B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.58656534,
-    "LONGITUDE": -84.35504116,
-    "geometry.x": 702626.4600000009,
-    "geometry.y": 5162620.859999999
+    "LATITUDE": 46.57525575,
+    "LONGITUDE": -84.34997007,
+    "geometry.x": 703057.1799999997,
+    "geometry.y": 5161377.279999999
   },
   {
     "CIVICNUMBER": 0,
@@ -37933,10 +37955,10 @@
     "STREETNAME": "Peoples Road",
     "POSTALCODE": "P6A 0B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.57525575,
-    "LONGITUDE": -84.34997007,
-    "geometry.x": 703057.1799999997,
-    "geometry.y": 5161377.279999999
+    "LATITUDE": 46.58656534,
+    "LONGITUDE": -84.35504116,
+    "geometry.x": 702626.4600000009,
+    "geometry.y": 5162620.859999999
   },
   {
     "CIVICNUMBER": 1504,
@@ -38219,10 +38241,10 @@
     "STREETNAME": "Peoples Road",
     "POSTALCODE": "P6A 0B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.57697059,
-    "LONGITUDE": -84.35226147,
-    "geometry.x": 702875.2100000009,
-    "geometry.y": 5161561.92
+    "LATITUDE": 46.57697649,
+    "LONGITUDE": -84.35226745,
+    "geometry.x": 702874.7300000004,
+    "geometry.y": 5161562.5600000005
   },
   {
     "CIVICNUMBER": 1570,
@@ -38230,10 +38252,10 @@
     "STREETNAME": "Peoples Road",
     "POSTALCODE": "P6A 0B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.577175,
-    "LONGITUDE": -84.35222345,
-    "geometry.x": 702877.3599999994,
-    "geometry.y": 5161584.73
+    "LATITUDE": 46.57719196,
+    "LONGITUDE": -84.35221362,
+    "geometry.x": 702878.0500000007,
+    "geometry.y": 5161586.640000001
   },
   {
     "CIVICNUMBER": 1574,
@@ -38406,10 +38428,10 @@
     "STREETNAME": "Pine Shore Drive",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.47200898,
-    "LONGITUDE": -84.47012402,
-    "geometry.x": 694218.5899999999,
-    "geometry.y": 5149602.93
+    "LATITUDE": 46.47212256,
+    "LONGITUDE": -84.47037225,
+    "geometry.x": 694199.1300000008,
+    "geometry.y": 5149614.9399999995
   },
   {
     "CIVICNUMBER": 262,
@@ -38417,10 +38439,10 @@
     "STREETNAME": "Pine Shore Drive",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.47223308,
-    "LONGITUDE": -84.47016483,
-    "geometry.x": 694214.6600000001,
-    "geometry.y": 5149627.73
+    "LATITUDE": 46.47201568,
+    "LONGITUDE": -84.47010951,
+    "geometry.x": 694219.6799999997,
+    "geometry.y": 5149603.710000001
   },
   {
     "CIVICNUMBER": 266,
@@ -39352,10 +39374,10 @@
     "STREETNAME": "Pittsburgh Avenue",
     "POSTALCODE": "P6C 5B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5281288,
-    "LONGITUDE": -84.38223825,
-    "geometry.x": 700758.5500000007,
-    "geometry.y": 5156058.33
+    "LATITUDE": 46.52824973,
+    "LONGITUDE": -84.38230768,
+    "geometry.x": 700752.7799999993,
+    "geometry.y": 5156071.59
   },
   {
     "CIVICNUMBER": 211,
@@ -40166,10 +40188,10 @@
     "STREETNAME": "Pointe Louise Drive",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.46649301,
-    "LONGITUDE": -84.48549163,
-    "geometry.x": 693058.3699999992,
-    "geometry.y": 5148952.369999999
+    "LATITUDE": 46.46656379,
+    "LONGITUDE": -84.48548108,
+    "geometry.x": 693058.9299999997,
+    "geometry.y": 5148960.26
   },
   {
     "CIVICNUMBER": 111,
@@ -40821,17 +40843,6 @@
     "geometry.y": 5156381.27
   },
   {
-    "CIVICNUMBER": 25,
-    "UNIT": null,
-    "STREETNAME": "Prentice Avenue",
-    "POSTALCODE": "P6C 4P4",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53093144,
-    "LONGITUDE": -84.37132932,
-    "geometry.x": 701584.7599999998,
-    "geometry.y": 5156397.550000001
-  },
-  {
     "CIVICNUMBER": 28,
     "UNIT": null,
     "STREETNAME": "Prentice Avenue",
@@ -41310,10 +41321,10 @@
     "STREETNAME": "Prentice Avenue",
     "POSTALCODE": "P6C 4P6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53514422,
-    "LONGITUDE": -84.37155914,
-    "geometry.x": 701551.5399999991,
-    "geometry.y": 5156865.050000001
+    "LATITUDE": 46.5351163,
+    "LONGITUDE": -84.37155841,
+    "geometry.x": 701551.6999999993,
+    "geometry.y": 5156861.949999999
   },
   {
     "CIVICNUMBER": 152,
@@ -41361,50 +41372,6 @@
   },
   {
     "CIVICNUMBER": 167,
-    "UNIT": "1",
-    "STREETNAME": "Prentice Avenue",
-    "POSTALCODE": "P6C 4P8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53571397,
-    "LONGITUDE": -84.37170626,
-    "geometry.x": 701538.1500000004,
-    "geometry.y": 5156927.98
-  },
-  {
-    "CIVICNUMBER": 167,
-    "UNIT": "2",
-    "STREETNAME": "Prentice Avenue",
-    "POSTALCODE": "P6C 4P8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53569071,
-    "LONGITUDE": -84.37170413,
-    "geometry.x": 701538.4000000004,
-    "geometry.y": 5156925.4
-  },
-  {
-    "CIVICNUMBER": 167,
-    "UNIT": "3",
-    "STREETNAME": "Prentice Avenue",
-    "POSTALCODE": "P6C 4P8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53572738,
-    "LONGITUDE": -84.37170627,
-    "geometry.x": 701538.0999999996,
-    "geometry.y": 5156929.470000001
-  },
-  {
-    "CIVICNUMBER": 167,
-    "UNIT": "4",
-    "STREETNAME": "Prentice Avenue",
-    "POSTALCODE": "P6C 4P8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53569952,
-    "LONGITUDE": -84.37153168,
-    "geometry.x": 701551.5899999999,
-    "geometry.y": 5156926.82
-  },
-  {
-    "CIVICNUMBER": 167,
     "UNIT": "5",
     "STREETNAME": "Prentice Avenue",
     "POSTALCODE": "P6C 4P8",
@@ -41424,6 +41391,50 @@
     "LONGITUDE": -84.37158717,
     "geometry.x": 701547.2200000007,
     "geometry.y": 5156930.140000001
+  },
+  {
+    "CIVICNUMBER": 167,
+    "UNIT": "4",
+    "STREETNAME": "Prentice Avenue",
+    "POSTALCODE": "P6C 4P8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53569952,
+    "LONGITUDE": -84.37153168,
+    "geometry.x": 701551.5899999999,
+    "geometry.y": 5156926.82
+  },
+  {
+    "CIVICNUMBER": 167,
+    "UNIT": "2",
+    "STREETNAME": "Prentice Avenue",
+    "POSTALCODE": "P6C 4P8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53569071,
+    "LONGITUDE": -84.37170413,
+    "geometry.x": 701538.4000000004,
+    "geometry.y": 5156925.4
+  },
+  {
+    "CIVICNUMBER": 167,
+    "UNIT": "1",
+    "STREETNAME": "Prentice Avenue",
+    "POSTALCODE": "P6C 4P8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53571397,
+    "LONGITUDE": -84.37170626,
+    "geometry.x": 701538.1500000004,
+    "geometry.y": 5156927.98
+  },
+  {
+    "CIVICNUMBER": 167,
+    "UNIT": "3",
+    "STREETNAME": "Prentice Avenue",
+    "POSTALCODE": "P6C 4P8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53572738,
+    "LONGITUDE": -84.37170627,
+    "geometry.x": 701538.0999999996,
+    "geometry.y": 5156929.470000001
   },
   {
     "CIVICNUMBER": 168,
@@ -43422,10 +43433,10 @@
     "STREETNAME": "Roosevelt Avenue",
     "POSTALCODE": "P6C 5N1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53534314,
-    "LONGITUDE": -84.39274625,
-    "geometry.x": 699926.2200000007,
-    "geometry.y": 5156833.24
+    "LATITUDE": 46.53529584,
+    "LONGITUDE": -84.3929414,
+    "geometry.x": 699911.4299999997,
+    "geometry.y": 5156827.49
   },
   {
     "CIVICNUMBER": 185,
@@ -43437,6 +43448,17 @@
     "LONGITUDE": -84.39363168,
     "geometry.x": 699858.4199999999,
     "geometry.y": 5156828.17
+  },
+  {
+    "CIVICNUMBER": 186,
+    "UNIT": null,
+    "STREETNAME": "Roosevelt Avenue",
+    "POSTALCODE": "P6C 5N1",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53538243,
+    "LONGITUDE": -84.39294599,
+    "geometry.x": 699910.7599999998,
+    "geometry.y": 5156837.1
   },
   {
     "CIVICNUMBER": 189,
@@ -43972,10 +43994,10 @@
     "STREETNAME": "Rowell Avenue",
     "POSTALCODE": "P6C 5L3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53539644,
-    "LONGITUDE": -84.39074351,
-    "geometry.x": 700079.5899999999,
-    "geometry.y": 5156844.24
+    "LATITUDE": 46.53539808,
+    "LONGITUDE": -84.39076417,
+    "geometry.x": 700078,
+    "geometry.y": 5156844.369999999
   },
   {
     "CIVICNUMBER": 418,
@@ -44203,10 +44225,10 @@
     "STREETNAME": "Royce Avenue",
     "POSTALCODE": null,
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52843842,
-    "LONGITUDE": -84.4053199,
-    "geometry.x": 698987.3300000001,
-    "geometry.y": 5156034.26
+    "LATITUDE": 46.5284542,
+    "LONGITUDE": -84.40570213,
+    "geometry.x": 698957.9600000009,
+    "geometry.y": 5156035.050000001
   },
   {
     "CIVICNUMBER": 450,
@@ -45783,17 +45805,6 @@
   },
   {
     "CIVICNUMBER": 435,
-    "UNIT": "1",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53703565,
-    "LONGITUDE": -84.37196185,
-    "geometry.x": 701513.6600000001,
-    "geometry.y": 5157074.18
-  },
-  {
-    "CIVICNUMBER": 435,
     "UNIT": "2",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K1",
@@ -45802,6 +45813,17 @@
     "LONGITUDE": -84.37194082,
     "geometry.x": 701515.4299999997,
     "geometry.y": 5157069.51
+  },
+  {
+    "CIVICNUMBER": 435,
+    "UNIT": "1",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K1",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53703565,
+    "LONGITUDE": -84.37196185,
+    "geometry.x": 701513.6600000001,
+    "geometry.y": 5157074.18
   },
   {
     "CIVICNUMBER": 439,
@@ -45849,17 +45871,6 @@
   },
   {
     "CIVICNUMBER": 463,
-    "UNIT": null,
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53692488,
-    "LONGITUDE": -84.37342724,
-    "geometry.x": 701401.7100000009,
-    "geometry.y": 5157058.130000001
-  },
-  {
-    "CIVICNUMBER": 463,
     "UNIT": "B",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K3",
@@ -45868,6 +45879,17 @@
     "LONGITUDE": -84.37342292,
     "geometry.x": 701402.3100000005,
     "geometry.y": 5157050.08
+  },
+  {
+    "CIVICNUMBER": 463,
+    "UNIT": null,
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K3",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53692488,
+    "LONGITUDE": -84.37342724,
+    "geometry.x": 701401.7100000009,
+    "geometry.y": 5157058.130000001
   },
   {
     "CIVICNUMBER": 469,
@@ -46079,17 +46101,6 @@
     "geometry.y": 5157017.75
   },
   {
-    "CIVICNUMBER": 595,
-    "UNIT": null,
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53674561,
-    "LONGITUDE": -84.38001227,
-    "geometry.x": 700897.4600000009,
-    "geometry.y": 5157021.42
-  },
-  {
     "CIVICNUMBER": 603,
     "UNIT": null,
     "STREETNAME": "Second Line West",
@@ -46179,6 +46190,17 @@
   },
   {
     "CIVICNUMBER": 658,
+    "UNIT": "4 & 5",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53754732,
+    "LONGITUDE": -84.38309648,
+    "geometry.x": 700658.0199999996,
+    "geometry.y": 5157102.65
+  },
+  {
+    "CIVICNUMBER": 658,
     "UNIT": "2",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
@@ -46198,17 +46220,6 @@
     "LONGITUDE": -84.38309004,
     "geometry.x": 700658.8499999996,
     "geometry.y": 5157092.529999999
-  },
-  {
-    "CIVICNUMBER": 658,
-    "UNIT": "4 & 5",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53754732,
-    "LONGITUDE": -84.38309648,
-    "geometry.x": 700658.0199999996,
-    "geometry.y": 5157102.65
   },
   {
     "CIVICNUMBER": 667,
@@ -46267,47 +46278,36 @@
   },
   {
     "CIVICNUMBER": 676,
-    "UNIT": "1",
+    "UNIT": "10",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53757272,
-    "LONGITUDE": -84.38466227,
-    "geometry.x": 700537.8699999992,
-    "geometry.y": 5157101.49
+    "LATITUDE": 46.53718469,
+    "LONGITUDE": -84.38464492,
+    "geometry.x": 700540.6300000008,
+    "geometry.y": 5157058.42
   },
   {
     "CIVICNUMBER": 676,
-    "UNIT": "2",
+    "UNIT": "11",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53752881,
-    "LONGITUDE": -84.38466268,
-    "geometry.x": 700538,
-    "geometry.y": 5157096.609999999
+    "LATITUDE": 46.53713973,
+    "LONGITUDE": -84.38465033,
+    "geometry.x": 700540.3800000008,
+    "geometry.y": 5157053.41
   },
   {
     "CIVICNUMBER": 676,
-    "UNIT": "3",
+    "UNIT": "12",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53748594,
-    "LONGITUDE": -84.38466148,
-    "geometry.x": 700538.25,
-    "geometry.y": 5157091.85
-  },
-  {
-    "CIVICNUMBER": 676,
-    "UNIT": "4",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53744532,
-    "LONGITUDE": -84.38466017,
-    "geometry.x": 700538.5,
-    "geometry.y": 5157087.34
+    "LATITUDE": 46.53709563,
+    "LONGITUDE": -84.38464267,
+    "geometry.x": 700541.1300000008,
+    "geometry.y": 5157048.529999999
   },
   {
     "CIVICNUMBER": 676,
@@ -46366,36 +46366,47 @@
   },
   {
     "CIVICNUMBER": 676,
-    "UNIT": "10",
+    "UNIT": "1",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53718469,
-    "LONGITUDE": -84.38464492,
-    "geometry.x": 700540.6300000008,
-    "geometry.y": 5157058.42
+    "LATITUDE": 46.53757272,
+    "LONGITUDE": -84.38466227,
+    "geometry.x": 700537.8699999992,
+    "geometry.y": 5157101.49
   },
   {
     "CIVICNUMBER": 676,
-    "UNIT": "11",
+    "UNIT": "2",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53713973,
-    "LONGITUDE": -84.38465033,
-    "geometry.x": 700540.3800000008,
-    "geometry.y": 5157053.41
+    "LATITUDE": 46.53752881,
+    "LONGITUDE": -84.38466268,
+    "geometry.x": 700538,
+    "geometry.y": 5157096.609999999
   },
   {
     "CIVICNUMBER": 676,
-    "UNIT": "12",
+    "UNIT": "3",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53709563,
-    "LONGITUDE": -84.38464267,
-    "geometry.x": 700541.1300000008,
-    "geometry.y": 5157048.529999999
+    "LATITUDE": 46.53748594,
+    "LONGITUDE": -84.38466148,
+    "geometry.x": 700538.25,
+    "geometry.y": 5157091.85
+  },
+  {
+    "CIVICNUMBER": 676,
+    "UNIT": "4",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53744532,
+    "LONGITUDE": -84.38466017,
+    "geometry.x": 700538.5,
+    "geometry.y": 5157087.34
   },
   {
     "CIVICNUMBER": 683,
@@ -46410,6 +46421,17 @@
   },
   {
     "CIVICNUMBER": 691,
+    "UNIT": "B",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53623838,
+    "LONGITUDE": -84.38475259,
+    "geometry.x": 700535.8599999994,
+    "geometry.y": 5156953
+  },
+  {
+    "CIVICNUMBER": 691,
     "UNIT": "A",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K8",
@@ -46420,15 +46442,59 @@
     "geometry.y": 5156988.1
   },
   {
-    "CIVICNUMBER": 691,
-    "UNIT": "B",
+    "CIVICNUMBER": 696,
+    "UNIT": "7",
     "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K8",
+    "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53623838,
-    "LONGITUDE": -84.38475259,
-    "geometry.x": 700535.8599999994,
-    "geometry.y": 5156953
+    "LATITUDE": 46.53729085,
+    "LONGITUDE": -84.3854419,
+    "geometry.x": 700479.1300000008,
+    "geometry.y": 5157068.1899999995
+  },
+  {
+    "CIVICNUMBER": 696,
+    "UNIT": "8",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53725184,
+    "LONGITUDE": -84.38543986,
+    "geometry.x": 700479.4299999997,
+    "geometry.y": 5157063.859999999
+  },
+  {
+    "CIVICNUMBER": 696,
+    "UNIT": "6",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53732987,
+    "LONGITUDE": -84.38544394,
+    "geometry.x": 700478.8300000001,
+    "geometry.y": 5157072.52
+  },
+  {
+    "CIVICNUMBER": 696,
+    "UNIT": "4",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53741146,
+    "LONGITUDE": -84.38542646,
+    "geometry.x": 700479.8699999992,
+    "geometry.y": 5157081.630000001
+  },
+  {
+    "CIVICNUMBER": 696,
+    "UNIT": "5",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53737293,
+    "LONGITUDE": -84.38544578,
+    "geometry.x": 700478.5299999993,
+    "geometry.y": 5157077.300000001
   },
   {
     "CIVICNUMBER": 696,
@@ -46464,81 +46530,26 @@
     "geometry.y": 5157086.41
   },
   {
-    "CIVICNUMBER": 696,
-    "UNIT": "4",
+    "CIVICNUMBER": 702,
+    "UNIT": "11",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53741146,
-    "LONGITUDE": -84.38542646,
-    "geometry.x": 700479.8699999992,
-    "geometry.y": 5157081.630000001
-  },
-  {
-    "CIVICNUMBER": 696,
-    "UNIT": "5",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53737293,
-    "LONGITUDE": -84.38544578,
-    "geometry.x": 700478.5299999993,
-    "geometry.y": 5157077.300000001
-  },
-  {
-    "CIVICNUMBER": 696,
-    "UNIT": "6",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53732987,
-    "LONGITUDE": -84.38544394,
-    "geometry.x": 700478.8300000001,
-    "geometry.y": 5157072.52
-  },
-  {
-    "CIVICNUMBER": 696,
-    "UNIT": "7",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53729085,
-    "LONGITUDE": -84.3854419,
-    "geometry.x": 700479.1300000008,
-    "geometry.y": 5157068.1899999995
-  },
-  {
-    "CIVICNUMBER": 696,
-    "UNIT": "8",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53725184,
-    "LONGITUDE": -84.38543986,
-    "geometry.x": 700479.4299999997,
-    "geometry.y": 5157063.859999999
+    "LATITUDE": 46.53710831,
+    "LONGITUDE": -84.38494529,
+    "geometry.x": 700517.8800000008,
+    "geometry.y": 5157049.17
   },
   {
     "CIVICNUMBER": 702,
-    "UNIT": "1",
+    "UNIT": "12",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53709372,
-    "LONGITUDE": -84.38558192,
-    "geometry.x": 700469.1199999992,
-    "geometry.y": 5157045.93
-  },
-  {
-    "CIVICNUMBER": 702,
-    "UNIT": "2",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53709535,
-    "LONGITUDE": -84.38551167,
-    "geometry.x": 700474.5,
-    "geometry.y": 5157046.289999999
+    "LATITUDE": 46.53711167,
+    "LONGITUDE": -84.38487966,
+    "geometry.x": 700522.9000000004,
+    "geometry.y": 5157049.710000001
   },
   {
     "CIVICNUMBER": 702,
@@ -46561,6 +46572,17 @@
     "LONGITUDE": -84.38538049,
     "geometry.x": 700484.5399999991,
     "geometry.y": 5157047.1899999995
+  },
+  {
+    "CIVICNUMBER": 702,
+    "UNIT": "10",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53710495,
+    "LONGITUDE": -84.38501092,
+    "geometry.x": 700512.8599999994,
+    "geometry.y": 5157048.630000001
   },
   {
     "CIVICNUMBER": 702,
@@ -46619,36 +46641,36 @@
   },
   {
     "CIVICNUMBER": 702,
-    "UNIT": "10",
+    "UNIT": "1",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53710495,
-    "LONGITUDE": -84.38501092,
-    "geometry.x": 700512.8599999994,
-    "geometry.y": 5157048.630000001
+    "LATITUDE": 46.53709372,
+    "LONGITUDE": -84.38558192,
+    "geometry.x": 700469.1199999992,
+    "geometry.y": 5157045.93
   },
   {
     "CIVICNUMBER": 702,
-    "UNIT": "11",
+    "UNIT": "2",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53710831,
-    "LONGITUDE": -84.38494529,
-    "geometry.x": 700517.8800000008,
-    "geometry.y": 5157049.17
+    "LATITUDE": 46.53709535,
+    "LONGITUDE": -84.38551167,
+    "geometry.x": 700474.5,
+    "geometry.y": 5157046.289999999
   },
   {
-    "CIVICNUMBER": 702,
-    "UNIT": "12",
+    "CIVICNUMBER": 707,
+    "UNIT": "B",
     "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
+    "POSTALCODE": "P6C 2K8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53711167,
-    "LONGITUDE": -84.38487966,
-    "geometry.x": 700522.9000000004,
-    "geometry.y": 5157049.710000001
+    "LATITUDE": 46.53621586,
+    "LONGITUDE": -84.38544423,
+    "geometry.x": 700482.9100000001,
+    "geometry.y": 5156948.74
   },
   {
     "CIVICNUMBER": 707,
@@ -46662,15 +46684,26 @@
     "geometry.y": 5156984.6899999995
   },
   {
-    "CIVICNUMBER": 707,
-    "UNIT": "B",
+    "CIVICNUMBER": 710,
+    "UNIT": "9",
     "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K8",
+    "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53621586,
-    "LONGITUDE": -84.38544423,
-    "geometry.x": 700482.9100000001,
-    "geometry.y": 5156948.74
+    "LATITUDE": 46.53766779,
+    "LONGITUDE": -84.38533628,
+    "geometry.x": 700485.8399999999,
+    "geometry.y": 5157110.34
+  },
+  {
+    "CIVICNUMBER": 710,
+    "UNIT": "10",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53767009,
+    "LONGITUDE": -84.38526392,
+    "geometry.x": 700491.3800000008,
+    "geometry.y": 5157110.779999999
   },
   {
     "CIVICNUMBER": 710,
@@ -46761,26 +46794,92 @@
     "geometry.y": 5157110.01
   },
   {
-    "CIVICNUMBER": 710,
+    "CIVICNUMBER": 714,
+    "UNIT": "12",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53769967,
+    "LONGITUDE": -84.38614414,
+    "geometry.x": 700423.7799999993,
+    "geometry.y": 5157111.83
+  },
+  {
+    "CIVICNUMBER": 714,
+    "UNIT": "8",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53753223,
+    "LONGITUDE": -84.38612271,
+    "geometry.x": 700426.0399999991,
+    "geometry.y": 5157093.279999999
+  },
+  {
+    "CIVICNUMBER": 714,
+    "UNIT": "5",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5374077,
+    "LONGITUDE": -84.38611982,
+    "geometry.x": 700426.7200000007,
+    "geometry.y": 5157079.449999999
+  },
+  {
+    "CIVICNUMBER": 714,
     "UNIT": "9",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53766779,
-    "LONGITUDE": -84.38533628,
-    "geometry.x": 700485.8399999999,
-    "geometry.y": 5157110.34
+    "LATITUDE": 46.53757597,
+    "LONGITUDE": -84.38614239,
+    "geometry.x": 700424.3699999992,
+    "geometry.y": 5157098.09
   },
   {
-    "CIVICNUMBER": 710,
+    "CIVICNUMBER": 714,
     "UNIT": "10",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2K9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53767009,
-    "LONGITUDE": -84.38526392,
-    "geometry.x": 700491.3800000008,
-    "geometry.y": 5157110.779999999
+    "LATITUDE": 46.53761748,
+    "LONGITUDE": -84.38614301,
+    "geometry.x": 700424.1699999999,
+    "geometry.y": 5157102.699999999
+  },
+  {
+    "CIVICNUMBER": 714,
+    "UNIT": "6",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53744659,
+    "LONGITUDE": -84.38612056,
+    "geometry.x": 700426.5199999996,
+    "geometry.y": 5157083.77
+  },
+  {
+    "CIVICNUMBER": 714,
+    "UNIT": "11",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5376608,
+    "LONGITUDE": -84.38614471,
+    "geometry.x": 700423.8800000008,
+    "geometry.y": 5157107.51
+  },
+  {
+    "CIVICNUMBER": 714,
+    "UNIT": "7",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 2K9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53748719,
+    "LONGITUDE": -84.38612109,
+    "geometry.x": 700426.3300000001,
+    "geometry.y": 5157088.279999999
   },
   {
     "CIVICNUMBER": 714,
@@ -46825,94 +46924,6 @@
     "LONGITUDE": -84.38613966,
     "geometry.x": 700425.3499999996,
     "geometry.y": 5157074.84
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "5",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5374077,
-    "LONGITUDE": -84.38611982,
-    "geometry.x": 700426.7200000007,
-    "geometry.y": 5157079.449999999
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "6",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53744659,
-    "LONGITUDE": -84.38612056,
-    "geometry.x": 700426.5199999996,
-    "geometry.y": 5157083.77
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "7",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53748719,
-    "LONGITUDE": -84.38612109,
-    "geometry.x": 700426.3300000001,
-    "geometry.y": 5157088.279999999
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "8",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53753223,
-    "LONGITUDE": -84.38612271,
-    "geometry.x": 700426.0399999991,
-    "geometry.y": 5157093.279999999
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "9",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53757597,
-    "LONGITUDE": -84.38614239,
-    "geometry.x": 700424.3699999992,
-    "geometry.y": 5157098.09
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "10",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53761748,
-    "LONGITUDE": -84.38614301,
-    "geometry.x": 700424.1699999999,
-    "geometry.y": 5157102.699999999
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "11",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5376608,
-    "LONGITUDE": -84.38614471,
-    "geometry.x": 700423.8800000008,
-    "geometry.y": 5157107.51
-  },
-  {
-    "CIVICNUMBER": 714,
-    "UNIT": "12",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 2K9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53769967,
-    "LONGITUDE": -84.38614414,
-    "geometry.x": 700423.7799999993,
-    "geometry.y": 5157111.83
   },
   {
     "CIVICNUMBER": 715,
@@ -47598,25 +47609,597 @@
   },
   {
     "CIVICNUMBER": 1001,
-    "UNIT": "1",
+    "UNIT": "14",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 6G9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53627414,
-    "LONGITUDE": -84.39827467,
-    "geometry.x": 699498.9000000004,
-    "geometry.y": 5156922.6899999995
+    "LATITUDE": 46.53615824,
+    "LONGITUDE": -84.39900715,
+    "geometry.x": 699443.1600000001,
+    "geometry.y": 5156907.960000001
   },
   {
     "CIVICNUMBER": 1001,
-    "UNIT": "2",
+    "UNIT": "15",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 6G9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53621333,
-    "LONGITUDE": -84.39827197,
-    "geometry.x": 699499.3300000001,
-    "geometry.y": 5156915.9399999995
+    "LATITUDE": 46.53615555,
+    "LONGITUDE": -84.39909088,
+    "geometry.x": 699436.75,
+    "geometry.y": 5156907.449999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "28",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53614344,
+    "LONGITUDE": -84.39939298,
+    "geometry.x": 699413.6300000008,
+    "geometry.y": 5156905.34
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "29",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53614075,
+    "LONGITUDE": -84.39947671,
+    "geometry.x": 699407.2200000007,
+    "geometry.y": 5156904.83
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "30",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53613636,
+    "LONGITUDE": -84.39977427,
+    "geometry.x": 699384.4199999999,
+    "geometry.y": 5156903.59
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "31",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53613368,
+    "LONGITUDE": -84.399858,
+    "geometry.x": 699378.0099999998,
+    "geometry.y": 5156903.08
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "44",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53612866,
+    "LONGITUDE": -84.40015976,
+    "geometry.x": 699354.8900000006,
+    "geometry.y": 5156901.76
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "45",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53612597,
+    "LONGITUDE": -84.40024349,
+    "geometry.x": 699348.4800000004,
+    "geometry.y": 5156901.25
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "46",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53611731,
+    "LONGITUDE": -84.40053916,
+    "geometry.x": 699325.8399999999,
+    "geometry.y": 5156899.539999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "47",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53611462,
+    "LONGITUDE": -84.40062289,
+    "geometry.x": 699319.4299999997,
+    "geometry.y": 5156899.029999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "60",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5361096,
+    "LONGITUDE": -84.40092466,
+    "geometry.x": 699296.3100000005,
+    "geometry.y": 5156897.710000001
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "61",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53610692,
+    "LONGITUDE": -84.40100838,
+    "geometry.x": 699289.9000000004,
+    "geometry.y": 5156897.199999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "16",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53609438,
+    "LONGITUDE": -84.39904437,
+    "geometry.x": 699440.5399999991,
+    "geometry.y": 5156900.77
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "17",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5360457,
+    "LONGITUDE": -84.39904109,
+    "geometry.x": 699440.9700000007,
+    "geometry.y": 5156895.369999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "18",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53599703,
+    "LONGITUDE": -84.39903781,
+    "geometry.x": 699441.4000000004,
+    "geometry.y": 5156889.970000001
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "19",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53594835,
+    "LONGITUDE": -84.39903453,
+    "geometry.x": 699441.8300000001,
+    "geometry.y": 5156884.57
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "24",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53593355,
+    "LONGITUDE": -84.39942035,
+    "geometry.x": 699412.3000000007,
+    "geometry.y": 5156881.949999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "25",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53598223,
+    "LONGITUDE": -84.39942364,
+    "geometry.x": 699411.8699999992,
+    "geometry.y": 5156887.35
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "26",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5360309,
+    "LONGITUDE": -84.39942692,
+    "geometry.x": 699411.4399999995,
+    "geometry.y": 5156892.75
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "27",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53607957,
+    "LONGITUDE": -84.3994302,
+    "geometry.x": 699411.0099999998,
+    "geometry.y": 5156898.15
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "32",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5360725,
+    "LONGITUDE": -84.39981149,
+    "geometry.x": 699381.8000000007,
+    "geometry.y": 5156896.4
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "33",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53602382,
+    "LONGITUDE": -84.39980821,
+    "geometry.x": 699382.2300000004,
+    "geometry.y": 5156891
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "34",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53597515,
+    "LONGITUDE": -84.39980492,
+    "geometry.x": 699382.6600000001,
+    "geometry.y": 5156885.6
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "35",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53592647,
+    "LONGITUDE": -84.39980164,
+    "geometry.x": 699383.0899999999,
+    "geometry.y": 5156880.199999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "40",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53591877,
+    "LONGITUDE": -84.40018713,
+    "geometry.x": 699353.5600000005,
+    "geometry.y": 5156878.369999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "41",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53596745,
+    "LONGITUDE": -84.40019041,
+    "geometry.x": 699353.1300000008,
+    "geometry.y": 5156883.77
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "42",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53601612,
+    "LONGITUDE": -84.4001937,
+    "geometry.x": 699352.6999999993,
+    "geometry.y": 5156889.17
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "43",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5360648,
+    "LONGITUDE": -84.40019698,
+    "geometry.x": 699352.2699999996,
+    "geometry.y": 5156894.57
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "48",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53605344,
+    "LONGITUDE": -84.40057638,
+    "geometry.x": 699323.2200000007,
+    "geometry.y": 5156892.35
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "49",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53600477,
+    "LONGITUDE": -84.4005731,
+    "geometry.x": 699323.6500000004,
+    "geometry.y": 5156886.949999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "50",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53595609,
+    "LONGITUDE": -84.40056982,
+    "geometry.x": 699324.0800000001,
+    "geometry.y": 5156881.550000001
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "51",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53590742,
+    "LONGITUDE": -84.40056653,
+    "geometry.x": 699324.5099999998,
+    "geometry.y": 5156876.15
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "56",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53589972,
+    "LONGITUDE": -84.40095202,
+    "geometry.x": 699294.9800000004,
+    "geometry.y": 5156874.32
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "57",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53594839,
+    "LONGITUDE": -84.40095531,
+    "geometry.x": 699294.5500000007,
+    "geometry.y": 5156879.720000001
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "58",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53599706,
+    "LONGITUDE": -84.40095859,
+    "geometry.x": 699294.1199999992,
+    "geometry.y": 5156885.119999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "59",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53604574,
+    "LONGITUDE": -84.40096187,
+    "geometry.x": 699293.6899999995,
+    "geometry.y": 5156890.52
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "20",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5358936,
+    "LONGITUDE": -84.39905292,
+    "geometry.x": 699440.6199999992,
+    "geometry.y": 5156878.4399999995
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "21",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5358369,
+    "LONGITUDE": -84.39904911,
+    "geometry.x": 699441.1199999992,
+    "geometry.y": 5156872.15
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "22",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5358221,
+    "LONGITUDE": -84.39943494,
+    "geometry.x": 699411.5899999999,
+    "geometry.y": 5156869.529999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "23",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5358788,
+    "LONGITUDE": -84.39943875,
+    "geometry.x": 699411.0899999999,
+    "geometry.y": 5156875.82
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "36",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53587172,
+    "LONGITUDE": -84.39982004,
+    "geometry.x": 699381.8800000008,
+    "geometry.y": 5156874.07
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "37",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53581503,
+    "LONGITUDE": -84.39981622,
+    "geometry.x": 699382.3800000008,
+    "geometry.y": 5156867.779999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "38",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53580732,
+    "LONGITUDE": -84.40020171,
+    "geometry.x": 699352.8499999996,
+    "geometry.y": 5156865.949999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "39",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53586402,
+    "LONGITUDE": -84.40020552,
+    "geometry.x": 699352.3499999996,
+    "geometry.y": 5156872.24
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "52",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53585267,
+    "LONGITUDE": -84.40058493,
+    "geometry.x": 699323.3000000007,
+    "geometry.y": 5156870.02
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "53",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53579597,
+    "LONGITUDE": -84.40058111,
+    "geometry.x": 699323.8000000007,
+    "geometry.y": 5156863.73
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "54",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53578827,
+    "LONGITUDE": -84.4009666,
+    "geometry.x": 699294.2699999996,
+    "geometry.y": 5156861.9
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "55",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53584496,
+    "LONGITUDE": -84.40097042,
+    "geometry.x": 699293.7699999996,
+    "geometry.y": 5156868.1899999995
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "13",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53617153,
+    "LONGITUDE": -84.39866952,
+    "geometry.x": 699469,
+    "geometry.y": 5156910.289999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "10",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53595835,
+    "LONGITUDE": -84.39866314,
+    "geometry.x": 699470.2699999996,
+    "geometry.y": 5156886.619999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "11",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53602297,
+    "LONGITUDE": -84.39866697,
+    "geometry.x": 699469.7400000002,
+    "geometry.y": 5156893.789999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "12",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5360875,
+    "LONGITUDE": -84.3986708,
+    "geometry.x": 699469.2100000009,
+    "geometry.y": 5156900.949999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "8",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53582652,
+    "LONGITUDE": -84.39867166,
+    "geometry.x": 699470.0999999996,
+    "geometry.y": 5156871.949999999
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "9",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53589339,
+    "LONGITUDE": -84.39867564,
+    "geometry.x": 699469.5500000007,
+    "geometry.y": 5156879.369999999
   },
   {
     "CIVICNUMBER": 1001,
@@ -47675,608 +48258,25 @@
   },
   {
     "CIVICNUMBER": 1001,
-    "UNIT": "8",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53582652,
-    "LONGITUDE": -84.39867166,
-    "geometry.x": 699470.0999999996,
-    "geometry.y": 5156871.949999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "9",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53589339,
-    "LONGITUDE": -84.39867564,
-    "geometry.x": 699469.5500000007,
-    "geometry.y": 5156879.369999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "10",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53595835,
-    "LONGITUDE": -84.39866314,
-    "geometry.x": 699470.2699999996,
-    "geometry.y": 5156886.619999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "11",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53602297,
-    "LONGITUDE": -84.39866697,
-    "geometry.x": 699469.7400000002,
-    "geometry.y": 5156893.789999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "12",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5360875,
-    "LONGITUDE": -84.3986708,
-    "geometry.x": 699469.2100000009,
-    "geometry.y": 5156900.949999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "13",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53617153,
-    "LONGITUDE": -84.39866952,
-    "geometry.x": 699469,
-    "geometry.y": 5156910.289999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "14",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53615824,
-    "LONGITUDE": -84.39900715,
-    "geometry.x": 699443.1600000001,
-    "geometry.y": 5156907.960000001
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "15",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53615555,
-    "LONGITUDE": -84.39909088,
-    "geometry.x": 699436.75,
-    "geometry.y": 5156907.449999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "16",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53609438,
-    "LONGITUDE": -84.39904437,
-    "geometry.x": 699440.5399999991,
-    "geometry.y": 5156900.77
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "17",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5360457,
-    "LONGITUDE": -84.39904109,
-    "geometry.x": 699440.9700000007,
-    "geometry.y": 5156895.369999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "18",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53599703,
-    "LONGITUDE": -84.39903781,
-    "geometry.x": 699441.4000000004,
-    "geometry.y": 5156889.970000001
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "19",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53594835,
-    "LONGITUDE": -84.39903453,
-    "geometry.x": 699441.8300000001,
-    "geometry.y": 5156884.57
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "20",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5358936,
-    "LONGITUDE": -84.39905292,
-    "geometry.x": 699440.6199999992,
-    "geometry.y": 5156878.4399999995
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "21",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5358369,
-    "LONGITUDE": -84.39904911,
-    "geometry.x": 699441.1199999992,
-    "geometry.y": 5156872.15
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "22",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5358221,
-    "LONGITUDE": -84.39943494,
-    "geometry.x": 699411.5899999999,
-    "geometry.y": 5156869.529999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "23",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5358788,
-    "LONGITUDE": -84.39943875,
-    "geometry.x": 699411.0899999999,
-    "geometry.y": 5156875.82
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "24",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53593355,
-    "LONGITUDE": -84.39942035,
-    "geometry.x": 699412.3000000007,
-    "geometry.y": 5156881.949999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "25",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53598223,
-    "LONGITUDE": -84.39942364,
-    "geometry.x": 699411.8699999992,
-    "geometry.y": 5156887.35
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "26",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5360309,
-    "LONGITUDE": -84.39942692,
-    "geometry.x": 699411.4399999995,
-    "geometry.y": 5156892.75
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "27",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53607957,
-    "LONGITUDE": -84.3994302,
-    "geometry.x": 699411.0099999998,
-    "geometry.y": 5156898.15
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "28",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53614344,
-    "LONGITUDE": -84.39939298,
-    "geometry.x": 699413.6300000008,
-    "geometry.y": 5156905.34
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "29",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53614075,
-    "LONGITUDE": -84.39947671,
-    "geometry.x": 699407.2200000007,
-    "geometry.y": 5156904.83
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "30",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53613636,
-    "LONGITUDE": -84.39977427,
-    "geometry.x": 699384.4199999999,
-    "geometry.y": 5156903.59
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "31",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53613368,
-    "LONGITUDE": -84.399858,
-    "geometry.x": 699378.0099999998,
-    "geometry.y": 5156903.08
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "32",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5360725,
-    "LONGITUDE": -84.39981149,
-    "geometry.x": 699381.8000000007,
-    "geometry.y": 5156896.4
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "33",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53602382,
-    "LONGITUDE": -84.39980821,
-    "geometry.x": 699382.2300000004,
-    "geometry.y": 5156891
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "34",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53597515,
-    "LONGITUDE": -84.39980492,
-    "geometry.x": 699382.6600000001,
-    "geometry.y": 5156885.6
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "35",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53592647,
-    "LONGITUDE": -84.39980164,
-    "geometry.x": 699383.0899999999,
-    "geometry.y": 5156880.199999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "36",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53587172,
-    "LONGITUDE": -84.39982004,
-    "geometry.x": 699381.8800000008,
-    "geometry.y": 5156874.07
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "37",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53581503,
-    "LONGITUDE": -84.39981622,
-    "geometry.x": 699382.3800000008,
-    "geometry.y": 5156867.779999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "38",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53580732,
-    "LONGITUDE": -84.40020171,
-    "geometry.x": 699352.8499999996,
-    "geometry.y": 5156865.949999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "39",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53586402,
-    "LONGITUDE": -84.40020552,
-    "geometry.x": 699352.3499999996,
-    "geometry.y": 5156872.24
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "40",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53591877,
-    "LONGITUDE": -84.40018713,
-    "geometry.x": 699353.5600000005,
-    "geometry.y": 5156878.369999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "41",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53596745,
-    "LONGITUDE": -84.40019041,
-    "geometry.x": 699353.1300000008,
-    "geometry.y": 5156883.77
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "42",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53601612,
-    "LONGITUDE": -84.4001937,
-    "geometry.x": 699352.6999999993,
-    "geometry.y": 5156889.17
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "43",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5360648,
-    "LONGITUDE": -84.40019698,
-    "geometry.x": 699352.2699999996,
-    "geometry.y": 5156894.57
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "44",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53612866,
-    "LONGITUDE": -84.40015976,
-    "geometry.x": 699354.8900000006,
-    "geometry.y": 5156901.76
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "45",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53612597,
-    "LONGITUDE": -84.40024349,
-    "geometry.x": 699348.4800000004,
-    "geometry.y": 5156901.25
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "46",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53611731,
-    "LONGITUDE": -84.40053916,
-    "geometry.x": 699325.8399999999,
-    "geometry.y": 5156899.539999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "47",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53611462,
-    "LONGITUDE": -84.40062289,
-    "geometry.x": 699319.4299999997,
-    "geometry.y": 5156899.029999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "48",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53605344,
-    "LONGITUDE": -84.40057638,
-    "geometry.x": 699323.2200000007,
-    "geometry.y": 5156892.35
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "49",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53600477,
-    "LONGITUDE": -84.4005731,
-    "geometry.x": 699323.6500000004,
-    "geometry.y": 5156886.949999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "50",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53595609,
-    "LONGITUDE": -84.40056982,
-    "geometry.x": 699324.0800000001,
-    "geometry.y": 5156881.550000001
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "51",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53590742,
-    "LONGITUDE": -84.40056653,
-    "geometry.x": 699324.5099999998,
-    "geometry.y": 5156876.15
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "52",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53585267,
-    "LONGITUDE": -84.40058493,
-    "geometry.x": 699323.3000000007,
-    "geometry.y": 5156870.02
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "53",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53579597,
-    "LONGITUDE": -84.40058111,
-    "geometry.x": 699323.8000000007,
-    "geometry.y": 5156863.73
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "54",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53578827,
-    "LONGITUDE": -84.4009666,
-    "geometry.x": 699294.2699999996,
-    "geometry.y": 5156861.9
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "55",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53584496,
-    "LONGITUDE": -84.40097042,
-    "geometry.x": 699293.7699999996,
-    "geometry.y": 5156868.1899999995
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "56",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53589972,
-    "LONGITUDE": -84.40095202,
-    "geometry.x": 699294.9800000004,
-    "geometry.y": 5156874.32
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "57",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53594839,
-    "LONGITUDE": -84.40095531,
-    "geometry.x": 699294.5500000007,
-    "geometry.y": 5156879.720000001
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "58",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53599706,
-    "LONGITUDE": -84.40095859,
-    "geometry.x": 699294.1199999992,
-    "geometry.y": 5156885.119999999
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "59",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53604574,
-    "LONGITUDE": -84.40096187,
-    "geometry.x": 699293.6899999995,
-    "geometry.y": 5156890.52
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "60",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5361096,
-    "LONGITUDE": -84.40092466,
-    "geometry.x": 699296.3100000005,
-    "geometry.y": 5156897.710000001
-  },
-  {
-    "CIVICNUMBER": 1001,
-    "UNIT": "61",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53610692,
-    "LONGITUDE": -84.40100838,
-    "geometry.x": 699289.9000000004,
-    "geometry.y": 5156897.199999999
-  },
-  {
-    "CIVICNUMBER": 1025,
     "UNIT": "1",
     "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
+    "POSTALCODE": "P6C 6G9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53588367,
-    "LONGITUDE": -84.40206342,
-    "geometry.x": 699209.8200000003,
-    "geometry.y": 5156869.73
+    "LATITUDE": 46.53627414,
+    "LONGITUDE": -84.39827467,
+    "geometry.x": 699498.9000000004,
+    "geometry.y": 5156922.6899999995
+  },
+  {
+    "CIVICNUMBER": 1001,
+    "UNIT": "2",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53621333,
+    "LONGITUDE": -84.39827197,
+    "geometry.x": 699499.3300000001,
+    "geometry.y": 5156915.9399999995
   },
   {
     "CIVICNUMBER": 1025,
@@ -48291,124 +48291,25 @@
   },
   {
     "CIVICNUMBER": 1025,
-    "UNIT": "3",
+    "UNIT": "4",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 6G8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53588477,
-    "LONGITUDE": -84.40194143,
-    "geometry.x": 699219.1699999999,
-    "geometry.y": 5156870.16
+    "LATITUDE": 46.53581784,
+    "LONGITUDE": -84.40186324,
+    "geometry.x": 699225.4100000001,
+    "geometry.y": 5156862.92
   },
   {
     "CIVICNUMBER": 1025,
-    "UNIT": "5",
+    "UNIT": "2",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 6G8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53589052,
-    "LONGITUDE": -84.40180252,
-    "geometry.x": 699229.8000000007,
-    "geometry.y": 5156871.15
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "7",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53589124,
-    "LONGITUDE": -84.40166386,
-    "geometry.x": 699240.4299999997,
-    "geometry.y": 5156871.58
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "12",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53599508,
-    "LONGITUDE": -84.40152027,
-    "geometry.x": 699251.0600000005,
-    "geometry.y": 5156883.48
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "14",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53607813,
-    "LONGITUDE": -84.40152739,
-    "geometry.x": 699250.2100000009,
-    "geometry.y": 5156892.6899999995
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "16",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53615737,
-    "LONGITUDE": -84.40153286,
-    "geometry.x": 699249.5,
-    "geometry.y": 5156901.48
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "15",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53618818,
-    "LONGITUDE": -84.40143162,
-    "geometry.x": 699257.1500000004,
-    "geometry.y": 5156905.16
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "13",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53611412,
-    "LONGITUDE": -84.40142773,
-    "geometry.x": 699257.7200000007,
-    "geometry.y": 5156896.9399999995
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "11",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5360311,
-    "LONGITUDE": -84.40142243,
-    "geometry.x": 699258.4299999997,
-    "geometry.y": 5156887.73
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "9",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53594293,
-    "LONGITUDE": -84.40141555,
-    "geometry.x": 699259.2799999993,
-    "geometry.y": 5156877.949999999
-  },
-  {
-    "CIVICNUMBER": 1025,
-    "UNIT": "10",
-    "STREETNAME": "Second Line West",
-    "POSTALCODE": "P6C 6G8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53582238,
-    "LONGITUDE": -84.40149708,
-    "geometry.x": 699253.4700000007,
-    "geometry.y": 5156864.35
+    "LATITUDE": 46.5358196,
+    "LONGITUDE": -84.40199619,
+    "geometry.x": 699215.2100000009,
+    "geometry.y": 5156862.779999999
   },
   {
     "CIVICNUMBER": 1025,
@@ -48434,25 +48335,135 @@
   },
   {
     "CIVICNUMBER": 1025,
-    "UNIT": "4",
+    "UNIT": "9",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 6G8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53581784,
-    "LONGITUDE": -84.40186324,
-    "geometry.x": 699225.4100000001,
-    "geometry.y": 5156862.92
+    "LATITUDE": 46.53594293,
+    "LONGITUDE": -84.40141555,
+    "geometry.x": 699259.2799999993,
+    "geometry.y": 5156877.949999999
   },
   {
     "CIVICNUMBER": 1025,
-    "UNIT": "2",
+    "UNIT": "10",
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 6G8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5358196,
-    "LONGITUDE": -84.40199619,
-    "geometry.x": 699215.2100000009,
-    "geometry.y": 5156862.779999999
+    "LATITUDE": 46.53582238,
+    "LONGITUDE": -84.40149708,
+    "geometry.x": 699253.4700000007,
+    "geometry.y": 5156864.35
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "11",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5360311,
+    "LONGITUDE": -84.40142243,
+    "geometry.x": 699258.4299999997,
+    "geometry.y": 5156887.73
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "13",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53611412,
+    "LONGITUDE": -84.40142773,
+    "geometry.x": 699257.7200000007,
+    "geometry.y": 5156896.9399999995
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "15",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53618818,
+    "LONGITUDE": -84.40143162,
+    "geometry.x": 699257.1500000004,
+    "geometry.y": 5156905.16
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "16",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53615737,
+    "LONGITUDE": -84.40153286,
+    "geometry.x": 699249.5,
+    "geometry.y": 5156901.48
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "14",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53607813,
+    "LONGITUDE": -84.40152739,
+    "geometry.x": 699250.2100000009,
+    "geometry.y": 5156892.6899999995
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "7",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53589124,
+    "LONGITUDE": -84.40166386,
+    "geometry.x": 699240.4299999997,
+    "geometry.y": 5156871.58
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "5",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53589052,
+    "LONGITUDE": -84.40180252,
+    "geometry.x": 699229.8000000007,
+    "geometry.y": 5156871.15
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "12",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53599508,
+    "LONGITUDE": -84.40152027,
+    "geometry.x": 699251.0600000005,
+    "geometry.y": 5156883.48
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "3",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53588477,
+    "LONGITUDE": -84.40194143,
+    "geometry.x": 699219.1699999999,
+    "geometry.y": 5156870.16
+  },
+  {
+    "CIVICNUMBER": 1025,
+    "UNIT": "1",
+    "STREETNAME": "Second Line West",
+    "POSTALCODE": "P6C 6G8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53588367,
+    "LONGITUDE": -84.40206342,
+    "geometry.x": 699209.8200000003,
+    "geometry.y": 5156869.73
   },
   {
     "CIVICNUMBER": 1074,
@@ -48570,10 +48581,10 @@
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6C 2L9",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53569054,
-    "LONGITUDE": -84.40761781,
-    "geometry.x": 698784.6300000008,
-    "geometry.y": 5156834.26
+    "LATITUDE": 46.5355196,
+    "LONGITUDE": -84.40755696,
+    "geometry.x": 698789.9199999999,
+    "geometry.y": 5156815.42
   },
   {
     "CIVICNUMBER": 1160,
@@ -49428,10 +49439,10 @@
     "STREETNAME": "Second Line West",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5342607,
-    "LONGITUDE": -84.46169867,
-    "geometry.x": 694642.9499999993,
-    "geometry.y": 5156540.539999999
+    "LATITUDE": 46.5344335,
+    "LONGITUDE": -84.46218892,
+    "geometry.x": 694604.7400000002,
+    "geometry.y": 5156558.529999999
   },
   {
     "CIVICNUMBER": 2240,
@@ -49747,10 +49758,10 @@
     "STREETNAME": "Sixth Avenue",
     "POSTALCODE": "P6C 4K8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53067912,
-    "LONGITUDE": -84.36260257,
-    "geometry.x": 702254.9000000004,
-    "geometry.y": 5156391.85
+    "LATITUDE": 46.53066656,
+    "LONGITUDE": -84.36258453,
+    "geometry.x": 702256.3300000001,
+    "geometry.y": 5156390.5
   },
   {
     "CIVICNUMBER": 281,
@@ -50130,7 +50141,7 @@
     "CIVICNUMBER": 143,
     "UNIT": null,
     "STREETNAME": "Sixth Line West",
-    "POSTALCODE": "P6A 5K8",
+    "POSTALCODE": "P6A 0C7",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.5934915,
     "LONGITUDE": -84.35995087,
@@ -51463,10 +51474,10 @@
     "STREETNAME": "Spadina Avenue",
     "POSTALCODE": "P6C 5E4",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53293285,
-    "LONGITUDE": -84.38455574,
-    "geometry.x": 700563.1300000008,
-    "geometry.y": 5156586.220000001
+    "LATITUDE": 46.53293066,
+    "LONGITUDE": -84.38449938,
+    "geometry.x": 700567.4600000009,
+    "geometry.y": 5156586.119999999
   },
   {
     "CIVICNUMBER": 344,
@@ -53190,10 +53201,10 @@
     "STREETNAME": "Sunnyside Beach Road",
     "POSTALCODE": "P6A 6K4",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5108244,
-    "LONGITUDE": -84.54838041,
-    "geometry.x": 688077.1099999994,
-    "geometry.y": 5153726.289999999
+    "LATITUDE": 46.51077969,
+    "LONGITUDE": -84.54829339,
+    "geometry.x": 688083.9399999995,
+    "geometry.y": 5153721.529999999
   },
   {
     "CIVICNUMBER": 733,
@@ -53509,10 +53520,10 @@
     "STREETNAME": "Sunnyside Beach Road",
     "POSTALCODE": "P6A 6K4",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51795342,
-    "LONGITUDE": -84.55276464,
-    "geometry.x": 687716.2200000007,
-    "geometry.y": 5154507.970000001
+    "LATITUDE": 46.51758906,
+    "LONGITUDE": -84.55420911,
+    "geometry.x": 687606.6799999997,
+    "geometry.y": 5154464.050000001
   },
   {
     "CIVICNUMBER": 961,
@@ -54015,10 +54026,10 @@
     "STREETNAME": "Sunset Drive",
     "POSTALCODE": "P6C 6G4",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53989327,
-    "LONGITUDE": -84.42286705,
-    "geometry.x": 697600.0999999996,
-    "geometry.y": 5157262.92
+    "LATITUDE": 46.54010811,
+    "LONGITUDE": -84.42293148,
+    "geometry.x": 697594.3800000008,
+    "geometry.y": 5157286.630000001
   },
   {
     "CIVICNUMBER": 82,
@@ -54059,10 +54070,10 @@
     "STREETNAME": "Sunset Drive",
     "POSTALCODE": "P6C 6G4",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53985982,
-    "LONGITUDE": -84.42415411,
-    "geometry.x": 697501.5399999991,
-    "geometry.y": 5157255.98
+    "LATITUDE": 46.54004093,
+    "LONGITUDE": -84.42415937,
+    "geometry.x": 697500.4800000004,
+    "geometry.y": 5157276.09
   },
   {
     "CIVICNUMBER": 278,
@@ -55456,10 +55467,10 @@
     "STREETNAME": "Third Line West",
     "POSTALCODE": "P6A 5K8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.55094619,
-    "LONGITUDE": -84.41589673,
-    "geometry.x": 698094.2899999991,
-    "geometry.y": 5158508.51
+    "LATITUDE": 46.55093169,
+    "LONGITUDE": -84.41590851,
+    "geometry.x": 698093.4399999995,
+    "geometry.y": 5158506.869999999
   },
   {
     "CIVICNUMBER": 1316,
@@ -55500,10 +55511,10 @@
     "STREETNAME": "Third Line West",
     "POSTALCODE": "P6A 5K8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.55132147,
-    "LONGITUDE": -84.41759255,
-    "geometry.x": 697962.9299999997,
-    "geometry.y": 5158545.949999999
+    "LATITUDE": 46.55219596,
+    "LONGITUDE": -84.41749964,
+    "geometry.x": 697966.8699999992,
+    "geometry.y": 5158643.35
   },
   {
     "CIVICNUMBER": 1352,
@@ -55995,10 +56006,10 @@
     "STREETNAME": "Third Line West",
     "POSTALCODE": "P6A 5K8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.55095967,
-    "LONGITUDE": -84.4402018,
-    "geometry.x": 696231.1099999994,
-    "geometry.y": 5158449.25
+    "LATITUDE": 46.55103198,
+    "LONGITUDE": -84.44023988,
+    "geometry.x": 696227.9299999997,
+    "geometry.y": 5158457.1899999995
   },
   {
     "CIVICNUMBER": 1792,
@@ -56983,7 +56994,7 @@
     "CIVICNUMBER": 568,
     "UNIT": null,
     "STREETNAME": "Town Line Road",
-    "POSTALCODE": "P6A 5K6",
+    "POSTALCODE": "P6A 6K4",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.52097467,
     "LONGITUDE": -84.46480528,
@@ -56994,7 +57005,7 @@
     "CIVICNUMBER": 576,
     "UNIT": null,
     "STREETNAME": "Town Line Road",
-    "POSTALCODE": "P6A 5K6",
+    "POSTALCODE": "P6A 6K4",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.52170646,
     "LONGITUDE": -84.46491086,
@@ -57465,17 +57476,6 @@
   },
   {
     "CIVICNUMBER": 124,
-    "UNIT": null,
-    "STREETNAME": "Turner Avenue",
-    "POSTALCODE": "P6C 4S2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53186337,
-    "LONGITUDE": -84.37195475,
-    "geometry.x": 701533.3499999996,
-    "geometry.y": 5156499.5
-  },
-  {
-    "CIVICNUMBER": 124,
     "UNIT": "A",
     "STREETNAME": "Turner Avenue",
     "POSTALCODE": "P6C 4S2",
@@ -57484,6 +57484,17 @@
     "LONGITUDE": -84.37194918,
     "geometry.x": 701534.6899999995,
     "geometry.y": 5156472.1
+  },
+  {
+    "CIVICNUMBER": 124,
+    "UNIT": null,
+    "STREETNAME": "Turner Avenue",
+    "POSTALCODE": "P6C 4S2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53186337,
+    "LONGITUDE": -84.37195475,
+    "geometry.x": 701533.3499999996,
+    "geometry.y": 5156499.5
   },
   {
     "CIVICNUMBER": 126,
@@ -58470,10 +58481,10 @@
     "STREETNAME": "Victoria Street",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50244566,
-    "LONGITUDE": -84.4564994,
-    "geometry.x": 695155.5700000003,
-    "geometry.y": 5153018.369999999
+    "LATITUDE": 46.50242961,
+    "LONGITUDE": -84.45646574,
+    "geometry.x": 695158.2100000009,
+    "geometry.y": 5153016.67
   },
   {
     "CIVICNUMBER": 61,
@@ -58492,10 +58503,21 @@
     "STREETNAME": "Victoria Street",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50266193,
-    "LONGITUDE": -84.45651146,
-    "geometry.x": 695153.8699999992,
-    "geometry.y": 5153042.369999999
+    "LATITUDE": 46.50265155,
+    "LONGITUDE": -84.4564778,
+    "geometry.x": 695156.4900000002,
+    "geometry.y": 5153041.300000001
+  },
+  {
+    "CIVICNUMBER": 66,
+    "UNIT": null,
+    "STREETNAME": "Victoria Street",
+    "POSTALCODE": "P6A 5K6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50284997,
+    "LONGITUDE": -84.45648861,
+    "geometry.x": 695154.9499999993,
+    "geometry.y": 5153063.32
   },
   {
     "CIVICNUMBER": 68,
@@ -58657,10 +58679,10 @@
     "STREETNAME": "Victoria Street",
     "POSTALCODE": "P6A 5K6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50472676,
-    "LONGITUDE": -84.45735134,
-    "geometry.x": 695082.0399999991,
-    "geometry.y": 5153269.720000001
+    "LATITUDE": 46.50473498,
+    "LONGITUDE": -84.45728774,
+    "geometry.x": 695086.8900000006,
+    "geometry.y": 5153270.789999999
   },
   {
     "CIVICNUMBER": 97,
@@ -58985,7 +59007,7 @@
     "CIVICNUMBER": 301,
     "UNIT": null,
     "STREETNAME": "Wallace Terrace",
-    "POSTALCODE": null,
+    "POSTALCODE": "P6C 1K8",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.52937631,
     "LONGITUDE": -84.36218241,
@@ -59658,10 +59680,10 @@
     "STREETNAME": "Wallace Terrace",
     "POSTALCODE": "P6C 1L8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52977542,
-    "LONGITUDE": -84.3808818,
-    "geometry.x": 700856.5,
-    "geometry.y": 5156244.74
+    "LATITUDE": 46.52980869,
+    "LONGITUDE": -84.38088085,
+    "geometry.x": 700856.4499999993,
+    "geometry.y": 5156248.4399999995
   },
   {
     "CIVICNUMBER": 670,
@@ -59706,6 +59728,17 @@
     "LONGITUDE": -84.38742552,
     "geometry.x": 700357.1199999992,
     "geometry.y": 5156154.710000001
+  },
+  {
+    "CIVICNUMBER": 847,
+    "UNIT": null,
+    "STREETNAME": "Wallace Terrace",
+    "POSTALCODE": null,
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52889705,
+    "LONGITUDE": -84.38894027,
+    "geometry.x": 700241.7599999998,
+    "geometry.y": 5156126.66
   },
   {
     "CIVICNUMBER": 850,
@@ -60533,6 +60566,17 @@
     "geometry.y": 5154692.4
   },
   {
+    "CIVICNUMBER": 105,
+    "UNIT": null,
+    "STREETNAME": "West Street",
+    "POSTALCODE": "P6A 7B4",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51843649,
+    "LONGITUDE": -84.36270753,
+    "geometry.x": 702292.3200000003,
+    "geometry.y": 5155031.289999999
+  },
+  {
     "CIVICNUMBER": 3,
     "UNIT": null,
     "STREETNAME": "Westchester Drive",
@@ -61242,10 +61286,10 @@
     "STREETNAME": "Whitney Avenue",
     "POSTALCODE": "P6C 5L8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53061289,
-    "LONGITUDE": -84.39114332,
-    "geometry.x": 700066.5099999998,
-    "geometry.y": 5156311.720000001
+    "LATITUDE": 46.53059583,
+    "LONGITUDE": -84.39112549,
+    "geometry.x": 700067.9399999995,
+    "geometry.y": 5156309.869999999
   },
   {
     "CIVICNUMBER": 281,
@@ -61473,10 +61517,10 @@
     "STREETNAME": "Whitney Avenue",
     "POSTALCODE": "P6C 5M3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5342297,
-    "LONGITUDE": -84.39193128,
-    "geometry.x": 699992.8000000007,
-    "geometry.y": 5156711.59
+    "LATITUDE": 46.53421922,
+    "LONGITUDE": -84.3919297,
+    "geometry.x": 699992.9600000009,
+    "geometry.y": 5156710.43
   },
   {
     "CIVICNUMBER": 372,
@@ -62052,17 +62096,6 @@
   },
   {
     "CIVICNUMBER": 1,
-    "UNIT": "A",
-    "STREETNAME": "Winfield Drive",
-    "POSTALCODE": "P6C 2N2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53747888,
-    "LONGITUDE": -84.39041716,
-    "geometry.x": 700096.9600000009,
-    "geometry.y": 5157076.449999999
-  },
-  {
-    "CIVICNUMBER": 1,
     "UNIT": null,
     "STREETNAME": "Winfield Drive",
     "POSTALCODE": "P6C 2N2",
@@ -62071,6 +62104,17 @@
     "LONGITUDE": -84.39022264,
     "geometry.x": 700111.8399999999,
     "geometry.y": 5157077.98
+  },
+  {
+    "CIVICNUMBER": 1,
+    "UNIT": "A",
+    "STREETNAME": "Winfield Drive",
+    "POSTALCODE": "P6C 2N2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53747888,
+    "LONGITUDE": -84.39041716,
+    "geometry.x": 700096.9600000009,
+    "geometry.y": 5157076.449999999
   },
   {
     "CIVICNUMBER": 2,
@@ -62162,17 +62206,6 @@
   },
   {
     "CIVICNUMBER": 11,
-    "UNIT": null,
-    "STREETNAME": "Winfield Drive",
-    "POSTALCODE": "P6C 2N2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53746039,
-    "LONGITUDE": -84.39149219,
-    "geometry.x": 700014.5999999996,
-    "geometry.y": 5157071.67
-  },
-  {
-    "CIVICNUMBER": 11,
     "UNIT": "A",
     "STREETNAME": "Winfield Drive",
     "POSTALCODE": "P6C 2N2",
@@ -62181,6 +62214,17 @@
     "LONGITUDE": -84.39171114,
     "geometry.x": 699997.8599999994,
     "geometry.y": 5157069.65
+  },
+  {
+    "CIVICNUMBER": 11,
+    "UNIT": null,
+    "STREETNAME": "Winfield Drive",
+    "POSTALCODE": "P6C 2N2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.53746039,
+    "LONGITUDE": -84.39149219,
+    "geometry.x": 700014.5999999996,
+    "geometry.y": 5157071.67
   },
   {
     "CIVICNUMBER": 12,
@@ -62507,10 +62551,10 @@
     "STREETNAME": "Wright Street",
     "POSTALCODE": "P6C 6A5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.53444709,
-    "LONGITUDE": -84.38014532,
-    "geometry.x": 700895.7400000002,
-    "geometry.y": 5156765.6899999995
+    "LATITUDE": 46.53441111,
+    "LONGITUDE": -84.38013466,
+    "geometry.x": 700896.6899999995,
+    "geometry.y": 5156761.720000001
   },
   {
     "CIVICNUMBER": 0,
@@ -62518,10 +62562,10 @@
     "STREETNAME": "Yates Avenue",
     "POSTALCODE": null,
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52810023,
-    "LONGITUDE": -84.38979725,
-    "geometry.x": 700178.9700000007,
-    "geometry.y": 5156035.949999999
+    "LATITUDE": 46.52821549,
+    "LONGITUDE": -84.39108893,
+    "geometry.x": 700079.4900000002,
+    "geometry.y": 5156045.48
   },
   {
     "CIVICNUMBER": 32,
@@ -62705,10 +62749,43 @@
     "STREETNAME": "Yates Avenue",
     "POSTALCODE": null,
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52809358,
-    "LONGITUDE": -84.39348927,
-    "geometry.x": 699895.8599999994,
-    "geometry.y": 5156025.85
+    "LATITUDE": 46.52808253,
+    "LONGITUDE": -84.39321374,
+    "geometry.x": 699917.0299999993,
+    "geometry.y": 5156025.32
+  },
+  {
+    "CIVICNUMBER": 167,
+    "UNIT": null,
+    "STREETNAME": "Yates Avenue",
+    "POSTALCODE": null,
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5264476,
+    "LONGITUDE": -84.39342749,
+    "geometry.x": 699906.6400000006,
+    "geometry.y": 5155843.119999999
+  },
+  {
+    "CIVICNUMBER": 179,
+    "UNIT": null,
+    "STREETNAME": "Yates Avenue",
+    "POSTALCODE": null,
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52652768,
+    "LONGITUDE": -84.39197067,
+    "geometry.x": 700018.0700000003,
+    "geometry.y": 5155855.710000001
+  },
+  {
+    "CIVICNUMBER": 191,
+    "UNIT": null,
+    "STREETNAME": "Yates Avenue",
+    "POSTALCODE": null,
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52658636,
+    "LONGITUDE": -84.39078349,
+    "geometry.x": 700108.9000000004,
+    "geometry.y": 5155865.24
   },
   {
     "CIVICNUMBER": 705,

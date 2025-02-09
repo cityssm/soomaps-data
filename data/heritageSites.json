@@ -526,5 +526,27 @@
     "DESIGNATING_ACT": "OntarioHeritage Act",
     "geometry.x": 703411.7699999996,
     "geometry.y": 5155003.789999999
+  },
+  {
+    "COMMONNAME": "119 Woodward Avenue",
+    "DESCRIPTIONOFPROPERTY": "119 Woodward Avenue",
+    "TYPEHERITAGEFEATURE": "BldPrpty",
+    "HERITAGECLASSIFICATION": "Heritage",
+    "HERITAGEDISTRICT": "No",
+    "YROFCONSTRUCTION": "1903-1904",
+    "DESIGNATING_ACT": "OntarioHeritage Act",
+    "geometry.x": 705581.7200000007,
+    "geometry.y": 5153809.0600000005
+  },
+  {
+    "COMMONNAME": "54 Summit Avenue",
+    "DESCRIPTIONOFPROPERTY": "Residence",
+    "TYPEHERITAGEFEATURE": "BldPrpty",
+    "HERITAGECLASSIFICATION": "Heritage",
+    "HERITAGEDISTRICT": "No",
+    "YROFCONSTRUCTION": null,
+    "DESIGNATING_ACT": "OntarioHeritage Act",
+    "geometry.x": 705553.4399999995,
+    "geometry.y": 5154586.359999999
   }
 ]
