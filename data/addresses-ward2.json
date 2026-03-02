@@ -60,10 +60,10 @@
     "STREETNAME": "Abbott Street",
     "POSTALCODE": "P6A 2V8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51854606,
-    "LONGITUDE": -84.33858784,
-    "geometry.x": 704141.9299999997,
-    "geometry.y": 5155105.58
+    "LATITUDE": 46.51858821,
+    "LONGITUDE": -84.33863963,
+    "geometry.x": 704137.8000000007,
+    "geometry.y": 5155110.130000001
   },
   {
     "CIVICNUMBER": 22,
@@ -463,17 +463,6 @@
   },
   {
     "CIVICNUMBER": 104,
-    "UNIT": "1",
-    "STREETNAME": "Albert Street East",
-    "POSTALCODE": "P6A 2J1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.517475,
-    "LONGITUDE": -84.33792469,
-    "geometry.x": 704196.8100000005,
-    "geometry.y": 5154988.289999999
-  },
-  {
-    "CIVICNUMBER": 104,
     "UNIT": "2",
     "STREETNAME": "Albert Street East",
     "POSTALCODE": "P6A 2J1",
@@ -482,6 +471,17 @@
     "LONGITUDE": -84.33796556,
     "geometry.x": 704193.5600000005,
     "geometry.y": 5154991.59
+  },
+  {
+    "CIVICNUMBER": 104,
+    "UNIT": "1",
+    "STREETNAME": "Albert Street East",
+    "POSTALCODE": "P6A 2J1",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.517475,
+    "LONGITUDE": -84.33792469,
+    "geometry.x": 704196.8100000005,
+    "geometry.y": 5154988.289999999
   },
   {
     "CIVICNUMBER": 104,
@@ -1138,10 +1138,10 @@
     "STREETNAME": "Albert Street East",
     "POSTALCODE": "P6A 2J6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51430185,
-    "LONGITUDE": -84.33378108,
-    "geometry.x": 704526.5500000007,
-    "geometry.y": 5154646.449999999
+    "LATITUDE": 46.51432106,
+    "LONGITUDE": -84.33374807,
+    "geometry.x": 704529.0099999998,
+    "geometry.y": 5154648.67
   },
   {
     "CIVICNUMBER": 319,
@@ -1813,6 +1813,17 @@
     "LONGITUDE": -84.32868942,
     "geometry.x": 704931.5,
     "geometry.y": 5154234.800000001
+  },
+  {
+    "CIVICNUMBER": 548,
+    "UNIT": null,
+    "STREETNAME": "Albert Street East",
+    "POSTALCODE": "P6A 7A7",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51062128,
+    "LONGITUDE": -84.32809592,
+    "geometry.x": 704976.4900000002,
+    "geometry.y": 5154252.25
   },
   {
     "CIVICNUMBER": 621,
@@ -5314,17 +5325,6 @@
   },
   {
     "CIVICNUMBER": 119,
-    "UNIT": "1",
-    "STREETNAME": "Andrew Street",
-    "POSTALCODE": "P6A 1N1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51843766,
-    "LONGITUDE": -84.34224913,
-    "geometry.x": 703861.5099999998,
-    "geometry.y": 5155084.07
-  },
-  {
-    "CIVICNUMBER": 119,
     "UNIT": "2",
     "STREETNAME": "Andrew Street",
     "POSTALCODE": "P6A 1N1",
@@ -5333,6 +5333,17 @@
     "LONGITUDE": -84.34218929,
     "geometry.x": 703866.1300000008,
     "geometry.y": 5155083.3100000005
+  },
+  {
+    "CIVICNUMBER": 119,
+    "UNIT": "1",
+    "STREETNAME": "Andrew Street",
+    "POSTALCODE": "P6A 1N1",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51843766,
+    "LONGITUDE": -84.34224913,
+    "geometry.x": 703861.5099999998,
+    "geometry.y": 5155084.07
   },
   {
     "CIVICNUMBER": 120,
@@ -6130,7 +6141,7 @@
     "CIVICNUMBER": 816,
     "UNIT": null,
     "STREETNAME": "Bay Street",
-    "POSTALCODE": "P6A 2A8",
+    "POSTALCODE": "P6A 0A1",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.50563571,
     "LONGITUDE": -84.32500603,
@@ -7008,17 +7019,6 @@
   },
   {
     "CIVICNUMBER": 239,
-    "UNIT": null,
-    "STREETNAME": "Beverley Street",
-    "POSTALCODE": "P6A 1S1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52211783,
-    "LONGITUDE": -84.34837844,
-    "geometry.x": 703377.6400000006,
-    "geometry.y": 5155477.16
-  },
-  {
-    "CIVICNUMBER": 239,
     "UNIT": "A",
     "STREETNAME": "Beverley Street",
     "POSTALCODE": "P6A 1S1",
@@ -7029,15 +7029,15 @@
     "geometry.y": 5155481.869999999
   },
   {
-    "CIVICNUMBER": 241,
+    "CIVICNUMBER": 239,
     "UNIT": null,
     "STREETNAME": "Beverley Street",
     "POSTALCODE": "P6A 1S1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52222585,
-    "LONGITUDE": -84.34836001,
-    "geometry.x": 703378.6500000004,
-    "geometry.y": 5155489.210000001
+    "LATITUDE": 46.52211783,
+    "LONGITUDE": -84.34837844,
+    "geometry.x": 703377.6400000006,
+    "geometry.y": 5155477.16
   },
   {
     "CIVICNUMBER": 241,
@@ -7049,6 +7049,17 @@
     "LONGITUDE": -84.3484466,
     "geometry.x": 703372.1199999992,
     "geometry.y": 5155485.67
+  },
+  {
+    "CIVICNUMBER": 241,
+    "UNIT": null,
+    "STREETNAME": "Beverley Street",
+    "POSTALCODE": "P6A 1S1",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52222585,
+    "LONGITUDE": -84.34836001,
+    "geometry.x": 703378.6500000004,
+    "geometry.y": 5155489.210000001
   },
   {
     "CIVICNUMBER": 242,
@@ -7129,17 +7140,6 @@
   },
   {
     "CIVICNUMBER": 256,
-    "UNIT": "1",
-    "STREETNAME": "Beverley Street",
-    "POSTALCODE": "P6A 1S2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52260455,
-    "LONGITUDE": -84.34772681,
-    "geometry.x": 703425.8000000007,
-    "geometry.y": 5155532.92
-  },
-  {
-    "CIVICNUMBER": 256,
     "UNIT": "3",
     "STREETNAME": "Beverley Street",
     "POSTALCODE": "P6A 1S2",
@@ -7148,6 +7148,17 @@
     "LONGITUDE": -84.34747757,
     "geometry.x": 703444.8100000005,
     "geometry.y": 5155536.710000001
+  },
+  {
+    "CIVICNUMBER": 256,
+    "UNIT": "1",
+    "STREETNAME": "Beverley Street",
+    "POSTALCODE": "P6A 1S2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52260455,
+    "LONGITUDE": -84.34772681,
+    "geometry.x": 703425.8000000007,
+    "geometry.y": 5155532.92
   },
   {
     "CIVICNUMBER": 256,
@@ -8295,6 +8306,28 @@
   },
   {
     "CIVICNUMBER": 71,
+    "UNIT": "7",
+    "STREETNAME": "Black Road",
+    "POSTALCODE": "P6B 0A3",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51897483,
+    "LONGITUDE": -84.28844721,
+    "geometry.x": 707986.1500000004,
+    "geometry.y": 5155284.16
+  },
+  {
+    "CIVICNUMBER": 71,
+    "UNIT": "8",
+    "STREETNAME": "Black Road",
+    "POSTALCODE": "P6B 0A3",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51897509,
+    "LONGITUDE": -84.28871264,
+    "geometry.x": 707965.7899999991,
+    "geometry.y": 5155283.49
+  },
+  {
+    "CIVICNUMBER": 71,
     "UNIT": "1",
     "STREETNAME": "Black Road",
     "POSTALCODE": "P6B 0A3",
@@ -8360,28 +8393,6 @@
     "geometry.y": 5155285.08
   },
   {
-    "CIVICNUMBER": 71,
-    "UNIT": "7",
-    "STREETNAME": "Black Road",
-    "POSTALCODE": "P6B 0A3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51897483,
-    "LONGITUDE": -84.28844721,
-    "geometry.x": 707986.1500000004,
-    "geometry.y": 5155284.16
-  },
-  {
-    "CIVICNUMBER": 71,
-    "UNIT": "8",
-    "STREETNAME": "Black Road",
-    "POSTALCODE": "P6B 0A3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51897509,
-    "LONGITUDE": -84.28871264,
-    "geometry.x": 707965.7899999991,
-    "geometry.y": 5155283.49
-  },
-  {
     "CIVICNUMBER": 97,
     "UNIT": null,
     "STREETNAME": "Black Road",
@@ -8394,17 +8405,6 @@
   },
   {
     "CIVICNUMBER": 105,
-    "UNIT": "1",
-    "STREETNAME": "Black Road",
-    "POSTALCODE": "P6B 0A3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52011613,
-    "LONGITUDE": -84.28838687,
-    "geometry.x": 707986.4199999999,
-    "geometry.y": 5155411.130000001
-  },
-  {
-    "CIVICNUMBER": 105,
     "UNIT": "2",
     "STREETNAME": "Black Road",
     "POSTALCODE": "P6B 0A3",
@@ -8413,6 +8413,17 @@
     "LONGITUDE": -84.28858273,
     "geometry.x": 707970.9100000001,
     "geometry.y": 5155424.8100000005
+  },
+  {
+    "CIVICNUMBER": 105,
+    "UNIT": "1",
+    "STREETNAME": "Black Road",
+    "POSTALCODE": "P6B 0A3",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52011613,
+    "LONGITUDE": -84.28838687,
+    "geometry.x": 707986.4199999999,
+    "geometry.y": 5155411.130000001
   },
   {
     "CIVICNUMBER": 105,
@@ -8449,17 +8460,6 @@
   },
   {
     "CIVICNUMBER": 119,
-    "UNIT": "A",
-    "STREETNAME": "Black Road",
-    "POSTALCODE": "P6B 0A3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5205371,
-    "LONGITUDE": -84.28858952,
-    "geometry.x": 707969.2699999996,
-    "geometry.y": 5155457.369999999
-  },
-  {
-    "CIVICNUMBER": 119,
     "UNIT": "C",
     "STREETNAME": "Black Road",
     "POSTALCODE": "P6B 0A3",
@@ -8479,6 +8479,17 @@
     "LONGITUDE": -84.28851181,
     "geometry.x": 707974.4199999999,
     "geometry.y": 5155481.15
+  },
+  {
+    "CIVICNUMBER": 119,
+    "UNIT": "A",
+    "STREETNAME": "Black Road",
+    "POSTALCODE": "P6B 0A3",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5205371,
+    "LONGITUDE": -84.28858952,
+    "geometry.x": 707969.2699999996,
+    "geometry.y": 5155457.369999999
   },
   {
     "CIVICNUMBER": 127,
@@ -10857,28 +10868,6 @@
     "geometry.y": 5154178.49
   },
   {
-    "CIVICNUMBER": 165,
-    "UNIT": null,
-    "STREETNAME": "Brock Street",
-    "POSTALCODE": "P6A 3B8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51060336,
-    "LONGITUDE": -84.32812978,
-    "geometry.x": 704973.9600000009,
-    "geometry.y": 5154250.17
-  },
-  {
-    "CIVICNUMBER": 177,
-    "UNIT": null,
-    "STREETNAME": "Brock Street",
-    "POSTALCODE": "P6A 3B8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51076489,
-    "LONGITUDE": -84.32787862,
-    "geometry.x": 704992.6199999992,
-    "geometry.y": 5154268.77
-  },
-  {
     "CIVICNUMBER": 180,
     "UNIT": null,
     "STREETNAME": "Brock Street",
@@ -11254,17 +11243,6 @@
   },
   {
     "CIVICNUMBER": 263,
-    "UNIT": null,
-    "STREETNAME": "Brown Street",
-    "POSTALCODE": "P6A 1N8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52225054,
-    "LONGITUDE": -84.34293534,
-    "geometry.x": 703794.6099999994,
-    "geometry.y": 5155505.949999999
-  },
-  {
-    "CIVICNUMBER": 263,
     "UNIT": "B",
     "STREETNAME": "Brown Street",
     "POSTALCODE": "P6A 1N8",
@@ -11273,6 +11251,17 @@
     "LONGITUDE": -84.34298658,
     "geometry.x": 703790.7100000009,
     "geometry.y": 5155504.92
+  },
+  {
+    "CIVICNUMBER": 263,
+    "UNIT": null,
+    "STREETNAME": "Brown Street",
+    "POSTALCODE": "P6A 1N8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52225054,
+    "LONGITUDE": -84.34293534,
+    "geometry.x": 703794.6099999994,
+    "geometry.y": 5155505.949999999
   },
   {
     "CIVICNUMBER": 267,
@@ -13332,28 +13321,6 @@
     "geometry.y": 5154674.83
   },
   {
-    "CIVICNUMBER": 10,
-    "UNIT": null,
-    "STREETNAME": "Canal Drive",
-    "POSTALCODE": "P6A 6W4",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51565638,
-    "LONGITUDE": -84.34614204,
-    "geometry.x": 703573.3100000005,
-    "geometry.y": 5154764.99
-  },
-  {
-    "CIVICNUMBER": 35,
-    "UNIT": null,
-    "STREETNAME": "Canal Drive",
-    "POSTALCODE": "P6A 6W4",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51555811,
-    "LONGITUDE": -84.34548756,
-    "geometry.x": 703623.8800000008,
-    "geometry.y": 5154755.76
-  },
-  {
     "CIVICNUMBER": 5,
     "UNIT": null,
     "STREETNAME": "Cartier Street",
@@ -13766,10 +13733,10 @@
     "STREETNAME": "Cathcart Street",
     "POSTALCODE": "P6A 1E1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52030847,
-    "LONGITUDE": -84.34021675,
-    "geometry.x": 704010.3900000006,
-    "geometry.y": 5155297.1899999995
+    "LATITUDE": 46.52032612,
+    "LONGITUDE": -84.34019789,
+    "geometry.x": 704011.7699999996,
+    "geometry.y": 5155299.199999999
   },
   {
     "CIVICNUMBER": 31,
@@ -14283,10 +14250,10 @@
     "STREETNAME": "Cathcart Street",
     "POSTALCODE": "P6A 1E6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52088859,
-    "LONGITUDE": -84.34540379,
-    "geometry.x": 703610.3800000008,
-    "geometry.y": 5155348.25
+    "LATITUDE": 46.52089276,
+    "LONGITUDE": -84.34537803,
+    "geometry.x": 703612.3399999999,
+    "geometry.y": 5155348.779999999
   },
   {
     "CIVICNUMBER": 234,
@@ -15984,270 +15951,6 @@
   },
   {
     "CIVICNUMBER": 150,
-    "UNIT": null,
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50997976,
-    "LONGITUDE": -84.29760732,
-    "geometry.x": 707317.7899999991,
-    "geometry.y": 5154260.609999999
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "B1",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5101133,
-    "LONGITUDE": -84.29703561,
-    "geometry.x": 707361.1400000006,
-    "geometry.y": 5154276.949999999
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "B2",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51009409,
-    "LONGITUDE": -84.29687023,
-    "geometry.x": 707373.9000000004,
-    "geometry.y": 5154275.25
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "B3",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51009448,
-    "LONGITUDE": -84.29666203,
-    "geometry.x": 707389.8699999992,
-    "geometry.y": 5154275.84
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "B4",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51009489,
-    "LONGITUDE": -84.29645514,
-    "geometry.x": 707405.7400000002,
-    "geometry.y": 5154276.43
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "B5",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51010655,
-    "LONGITUDE": -84.29628966,
-    "geometry.x": 707418.3900000006,
-    "geometry.y": 5154278.16
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C1",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51126943,
-    "LONGITUDE": -84.29596185,
-    "geometry.x": 707439.1099999994,
-    "geometry.y": 5154408.23
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C2",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51115935,
-    "LONGITUDE": -84.29596145,
-    "geometry.x": 707439.5600000005,
-    "geometry.y": 5154396
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C3",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51107726,
-    "LONGITUDE": -84.29596109,
-    "geometry.x": 707439.9000000004,
-    "geometry.y": 5154386.880000001
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C4",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51094711,
-    "LONGITUDE": -84.29596051,
-    "geometry.x": 707440.4399999995,
-    "geometry.y": 5154372.42
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C5",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51084378,
-    "LONGITUDE": -84.29596016,
-    "geometry.x": 707440.8599999994,
-    "geometry.y": 5154360.9399999995
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C7",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51078896,
-    "LONGITUDE": -84.29595988,
-    "geometry.x": 707441.0899999999,
-    "geometry.y": 5154354.85
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C8",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51073361,
-    "LONGITUDE": -84.29595976,
-    "geometry.x": 707441.3100000005,
-    "geometry.y": 5154348.699999999
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C9",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51067681,
-    "LONGITUDE": -84.29595945,
-    "geometry.x": 707441.5500000007,
-    "geometry.y": 5154342.390000001
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C10",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51060049,
-    "LONGITUDE": -84.2959592,
-    "geometry.x": 707441.8599999994,
-    "geometry.y": 5154333.91
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C11",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51050462,
-    "LONGITUDE": -84.29595874,
-    "geometry.x": 707442.2599999998,
-    "geometry.y": 5154323.26
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C11B",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51043352,
-    "LONGITUDE": -84.29595849,
-    "geometry.x": 707442.5500000007,
-    "geometry.y": 5154315.359999999
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C12",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51037308,
-    "LONGITUDE": -84.29607047,
-    "geometry.x": 707434.1899999995,
-    "geometry.y": 5154308.35
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C13",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51030044,
-    "LONGITUDE": -84.29607016,
-    "geometry.x": 707434.4900000002,
-    "geometry.y": 5154300.279999999
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C14",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51020422,
-    "LONGITUDE": -84.29606986,
-    "geometry.x": 707434.8800000008,
-    "geometry.y": 5154289.59
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C17",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51011395,
-    "LONGITUDE": -84.2960699,
-    "geometry.x": 707435.2200000007,
-    "geometry.y": 5154279.5600000005
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C18",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51005105,
-    "LONGITUDE": -84.29607016,
-    "geometry.x": 707435.4399999995,
-    "geometry.y": 5154272.57
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "C20",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50996738,
-    "LONGITUDE": -84.29605632,
-    "geometry.x": 707436.8200000003,
-    "geometry.y": 5154263.3100000005
-  },
-  {
-    "CIVICNUMBER": 150,
-    "UNIT": "E",
-    "STREETNAME": "Churchill Boulevard",
-    "POSTALCODE": "P6A 3Z9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51030199,
-    "LONGITUDE": -84.29718215,
-    "geometry.x": 707349.1799999997,
-    "geometry.y": 5154297.529999999
-  },
-  {
-    "CIVICNUMBER": 150,
     "UNIT": "X",
     "STREETNAME": "Churchill Boulevard",
     "POSTALCODE": "P6A 3Z9",
@@ -16278,6 +15981,270 @@
     "LONGITUDE": -84.29666208,
     "geometry.x": 707384.9299999997,
     "geometry.y": 5154419.9399999995
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": null,
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50999182,
+    "LONGITUDE": -84.2976036,
+    "geometry.x": 707318.0299999993,
+    "geometry.y": 5154261.960000001
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "B1",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51012536,
+    "LONGITUDE": -84.29703188,
+    "geometry.x": 707361.3800000008,
+    "geometry.y": 5154278.300000001
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "B2",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51010615,
+    "LONGITUDE": -84.2968665,
+    "geometry.x": 707374.1400000006,
+    "geometry.y": 5154276.6
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "B3",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51010654,
+    "LONGITUDE": -84.2966583,
+    "geometry.x": 707390.1099999994,
+    "geometry.y": 5154277.1899999995
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "B4",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51010696,
+    "LONGITUDE": -84.29645141,
+    "geometry.x": 707405.9800000004,
+    "geometry.y": 5154277.779999999
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "B5",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51011861,
+    "LONGITUDE": -84.29628593,
+    "geometry.x": 707418.6300000008,
+    "geometry.y": 5154279.51
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C1",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51128149,
+    "LONGITUDE": -84.29595812,
+    "geometry.x": 707439.3499999996,
+    "geometry.y": 5154409.58
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C2",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51117141,
+    "LONGITUDE": -84.29595772,
+    "geometry.x": 707439.8000000007,
+    "geometry.y": 5154397.35
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C3",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51108933,
+    "LONGITUDE": -84.29595736,
+    "geometry.x": 707440.1400000006,
+    "geometry.y": 5154388.23
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C4",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51095917,
+    "LONGITUDE": -84.29595678,
+    "geometry.x": 707440.6799999997,
+    "geometry.y": 5154373.77
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C5",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51085584,
+    "LONGITUDE": -84.29595643,
+    "geometry.x": 707441.0999999996,
+    "geometry.y": 5154362.289999999
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C7",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51080103,
+    "LONGITUDE": -84.29595616,
+    "geometry.x": 707441.3300000001,
+    "geometry.y": 5154356.199999999
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C8",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51074567,
+    "LONGITUDE": -84.29595604,
+    "geometry.x": 707441.5500000007,
+    "geometry.y": 5154350.050000001
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C9",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51068887,
+    "LONGITUDE": -84.29595573,
+    "geometry.x": 707441.7899999991,
+    "geometry.y": 5154343.74
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C10",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51061255,
+    "LONGITUDE": -84.29595547,
+    "geometry.x": 707442.0999999996,
+    "geometry.y": 5154335.26
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C11",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51051669,
+    "LONGITUDE": -84.29595502,
+    "geometry.x": 707442.5,
+    "geometry.y": 5154324.609999999
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C11B",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51044558,
+    "LONGITUDE": -84.29595477,
+    "geometry.x": 707442.7899999991,
+    "geometry.y": 5154316.710000001
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C12",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51038514,
+    "LONGITUDE": -84.29606674,
+    "geometry.x": 707434.4299999997,
+    "geometry.y": 5154309.699999999
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C13",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5103125,
+    "LONGITUDE": -84.29606644,
+    "geometry.x": 707434.7300000004,
+    "geometry.y": 5154301.630000001
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C14",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51021628,
+    "LONGITUDE": -84.29606613,
+    "geometry.x": 707435.1199999992,
+    "geometry.y": 5154290.9399999995
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C17",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51012601,
+    "LONGITUDE": -84.29606618,
+    "geometry.x": 707435.4600000009,
+    "geometry.y": 5154280.91
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C18",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51006311,
+    "LONGITUDE": -84.29606643,
+    "geometry.x": 707435.6799999997,
+    "geometry.y": 5154273.92
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "C20",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50997944,
+    "LONGITUDE": -84.29605259,
+    "geometry.x": 707437.0600000005,
+    "geometry.y": 5154264.66
+  },
+  {
+    "CIVICNUMBER": 150,
+    "UNIT": "E",
+    "STREETNAME": "Churchill Boulevard",
+    "POSTALCODE": "P6A 3Z9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51031405,
+    "LONGITUDE": -84.29717843,
+    "geometry.x": 707349.4199999999,
+    "geometry.y": 5154298.880000001
   },
   {
     "CIVICNUMBER": 9,
@@ -18912,7 +18879,7 @@
     "CIVICNUMBER": 112,
     "UNIT": "A",
     "STREETNAME": "Dennis Street",
-    "POSTALCODE": "P6A 1Y7",
+    "POSTALCODE": "P6A 2X1",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51520436,
     "LONGITUDE": -84.33728225,
@@ -18923,7 +18890,7 @@
     "CIVICNUMBER": 112,
     "UNIT": "B",
     "STREETNAME": "Dennis Street",
-    "POSTALCODE": "P6A 1Y7",
+    "POSTALCODE": "P6A 2X1",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.5151727,
     "LONGITUDE": -84.33733347,
@@ -19057,10 +19024,10 @@
     "STREETNAME": "Dennis Street",
     "POSTALCODE": "P6A 2X3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5161043,
-    "LONGITUDE": -84.33571894,
-    "geometry.x": 704371.1400000006,
-    "geometry.y": 5154841.699999999
+    "LATITUDE": 46.51607647,
+    "LONGITUDE": -84.33566789,
+    "geometry.x": 704375.1600000001,
+    "geometry.y": 5154838.74
   },
   {
     "CIVICNUMBER": 163,
@@ -21059,10 +21026,10 @@
     "STREETNAME": "Euclid Road",
     "POSTALCODE": "P6B 1A1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51061892,
-    "LONGITUDE": -84.32229517,
-    "geometry.x": 705421.4900000002,
-    "geometry.y": 5154267.07
+    "LATITUDE": 46.51062625,
+    "LONGITUDE": -84.32230459,
+    "geometry.x": 705420.7400000002,
+    "geometry.y": 5154267.859999999
   },
   {
     "CIVICNUMBER": 10,
@@ -21081,10 +21048,10 @@
     "STREETNAME": "Euclid Road",
     "POSTALCODE": "P6B 1A1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51058458,
-    "LONGITUDE": -84.32215464,
-    "geometry.x": 705432.4000000004,
-    "geometry.y": 5154263.619999999
+    "LATITUDE": 46.51059404,
+    "LONGITUDE": -84.32214739,
+    "geometry.x": 705432.9199999999,
+    "geometry.y": 5154264.6899999995
   },
   {
     "CIVICNUMBER": 13,
@@ -21092,10 +21059,10 @@
     "STREETNAME": "Euclid Road",
     "POSTALCODE": "P6B 1A1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51052351,
-    "LONGITUDE": -84.32200656,
-    "geometry.x": 705443.9900000002,
-    "geometry.y": 5154257.220000001
+    "LATITUDE": 46.51055756,
+    "LONGITUDE": -84.32199654,
+    "geometry.x": 705444.6300000008,
+    "geometry.y": 5154261.029999999
   },
   {
     "CIVICNUMBER": 14,
@@ -25158,14 +25125,14 @@
   },
   {
     "CIVICNUMBER": 134,
-    "UNIT": "B",
+    "UNIT": "A",
     "STREETNAME": "Gore Street",
     "POSTALCODE": "P6A 1M1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51837378,
-    "LONGITUDE": -84.34010288,
-    "geometry.x": 704026.3699999992,
-    "geometry.y": 5155082.52
+    "LATITUDE": 46.51847446,
+    "LONGITUDE": -84.34010161,
+    "geometry.x": 704026.0899999999,
+    "geometry.y": 5155093.710000001
   },
   {
     "CIVICNUMBER": 134,
@@ -25180,14 +25147,14 @@
   },
   {
     "CIVICNUMBER": 134,
-    "UNIT": "A",
+    "UNIT": "B",
     "STREETNAME": "Gore Street",
     "POSTALCODE": "P6A 1M1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51847446,
-    "LONGITUDE": -84.34010161,
-    "geometry.x": 704026.0899999999,
-    "geometry.y": 5155093.710000001
+    "LATITUDE": 46.51837378,
+    "LONGITUDE": -84.34010288,
+    "geometry.x": 704026.3699999992,
+    "geometry.y": 5155082.52
   },
   {
     "CIVICNUMBER": 135,
@@ -28117,17 +28084,6 @@
   },
   {
     "CIVICNUMBER": 12,
-    "UNIT": "2",
-    "STREETNAME": "Herrick Street",
-    "POSTALCODE": "P6A 2T4",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50820134,
-    "LONGITUDE": -84.32413252,
-    "geometry.x": 705289.6500000004,
-    "geometry.y": 5153993.67
-  },
-  {
-    "CIVICNUMBER": 12,
     "UNIT": "3",
     "STREETNAME": "Herrick Street",
     "POSTALCODE": "P6A 2T4",
@@ -28136,6 +28092,17 @@
     "LONGITUDE": -84.3240775,
     "geometry.x": 705294.2200000007,
     "geometry.y": 5153983.529999999
+  },
+  {
+    "CIVICNUMBER": 12,
+    "UNIT": "2",
+    "STREETNAME": "Herrick Street",
+    "POSTALCODE": "P6A 2T4",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50820134,
+    "LONGITUDE": -84.32413252,
+    "geometry.x": 705289.6500000004,
+    "geometry.y": 5153993.67
   },
   {
     "CIVICNUMBER": 18,
@@ -28820,10 +28787,21 @@
     "geometry.y": 5154142.33
   },
   {
+    "CIVICNUMBER": 1,
+    "UNIT": null,
+    "STREETNAME": "Huron Street",
+    "POSTALCODE": "P6A 6W4",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51360665,
+    "LONGITUDE": -84.35386856,
+    "geometry.x": 702988.2799999993,
+    "geometry.y": 5154517.34
+  },
+  {
     "CIVICNUMBER": 73,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51736631,
     "LONGITUDE": -84.3583079,
@@ -28834,7 +28812,7 @@
     "CIVICNUMBER": 75,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51547941,
     "LONGITUDE": -84.34887953,
@@ -28845,7 +28823,7 @@
     "CIVICNUMBER": 83,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51563766,
     "LONGITUDE": -84.3497848,
@@ -28856,7 +28834,7 @@
     "CIVICNUMBER": 87,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51674389,
     "LONGITUDE": -84.3498212,
@@ -28864,10 +28842,21 @@
     "geometry.y": 5154876.34
   },
   {
+    "CIVICNUMBER": 90,
+    "UNIT": null,
+    "STREETNAME": "Huron Street",
+    "POSTALCODE": null,
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51555811,
+    "LONGITUDE": -84.34548756,
+    "geometry.x": 703623.8800000008,
+    "geometry.y": 5154755.76
+  },
+  {
     "CIVICNUMBER": 91,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.5168561,
     "LONGITUDE": -84.34832247,
@@ -28878,7 +28867,7 @@
     "CIVICNUMBER": 95,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51622806,
     "LONGITUDE": -84.35178437,
@@ -28889,7 +28878,7 @@
     "CIVICNUMBER": 99,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.5163708,
     "LONGITUDE": -84.35251885,
@@ -28900,7 +28889,7 @@
     "CIVICNUMBER": 107,
     "UNIT": null,
     "STREETNAME": "Huron Street",
-    "POSTALCODE": "P6A 5P4",
+    "POSTALCODE": "P6A 5P9",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51651859,
     "LONGITUDE": -84.35487111,
@@ -29320,10 +29309,10 @@
     "STREETNAME": "Huron Street",
     "POSTALCODE": "P6A 1R6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52278579,
-    "LONGITUDE": -84.34693853,
-    "geometry.x": 703485.5800000001,
-    "geometry.y": 5155555.09
+    "LATITUDE": 46.52275883,
+    "LONGITUDE": -84.34696749,
+    "geometry.x": 703483.4600000009,
+    "geometry.y": 5155552.02
   },
   {
     "CIVICNUMBER": 268,
@@ -32422,10 +32411,10 @@
     "STREETNAME": "Lake Street",
     "POSTALCODE": "P6A 4B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5099352,
-    "LONGITUDE": -84.29580307,
-    "geometry.x": 707456.3699999992,
-    "geometry.y": 5154260.4
+    "LATITUDE": 46.50994726,
+    "LONGITUDE": -84.29579935,
+    "geometry.x": 707456.6099999994,
+    "geometry.y": 5154261.75
   },
   {
     "CIVICNUMBER": 301,
@@ -32433,10 +32422,10 @@
     "STREETNAME": "Lake Street",
     "POSTALCODE": "P6A 4B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51019371,
-    "LONGITUDE": -84.29584603,
-    "geometry.x": 707452.0899999999,
-    "geometry.y": 5154289.01
+    "LATITUDE": 46.51020577,
+    "LONGITUDE": -84.29584231,
+    "geometry.x": 707452.3300000001,
+    "geometry.y": 5154290.359999999
   },
   {
     "CIVICNUMBER": 305,
@@ -32444,10 +32433,10 @@
     "STREETNAME": "Lake Street",
     "POSTALCODE": "P6A 4B5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51054586,
-    "LONGITUDE": -84.29573131,
-    "geometry.x": 707459.5500000007,
-    "geometry.y": 5154328.4399999995
+    "LATITUDE": 46.51055793,
+    "LONGITUDE": -84.29572758,
+    "geometry.x": 707459.7899999991,
+    "geometry.y": 5154329.789999999
   },
   {
     "CIVICNUMBER": 347,
@@ -34732,10 +34721,10 @@
     "STREETNAME": "London Street",
     "POSTALCODE": "P6A 2S3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52031753,
-    "LONGITUDE": -84.33766412,
-    "geometry.x": 704206.1400000006,
-    "geometry.y": 5155304.800000001
+    "LATITUDE": 46.52033844,
+    "LONGITUDE": -84.33761486,
+    "geometry.x": 704209.8399999999,
+    "geometry.y": 5155307.25
   },
   {
     "CIVICNUMBER": 64,
@@ -36677,7 +36666,7 @@
     "CIVICNUMBER": 112,
     "UNIT": "1",
     "STREETNAME": "March Street",
-    "POSTALCODE": "P6A 1Z8",
+    "POSTALCODE": "P6A 2Z3",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51096608,
     "LONGITUDE": -84.33162526,
@@ -36688,7 +36677,7 @@
     "CIVICNUMBER": 112,
     "UNIT": "2",
     "STREETNAME": "March Street",
-    "POSTALCODE": "P6A 1Z8",
+    "POSTALCODE": "P6A 2Z3",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51100452,
     "LONGITUDE": -84.3315638,
@@ -36699,7 +36688,7 @@
     "CIVICNUMBER": 112,
     "UNIT": "3",
     "STREETNAME": "March Street",
-    "POSTALCODE": "P6A 1Z8",
+    "POSTALCODE": "P6A 2Z3",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51103358,
     "LONGITUDE": -84.33151715,
@@ -36884,17 +36873,6 @@
   },
   {
     "CIVICNUMBER": 177,
-    "UNIT": "1",
-    "STREETNAME": "March Street",
-    "POSTALCODE": "P6A 2Z6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51237264,
-    "LONGITUDE": -84.33006961,
-    "geometry.x": 704818.5,
-    "geometry.y": 5154441.720000001
-  },
-  {
-    "CIVICNUMBER": 177,
     "UNIT": "2",
     "STREETNAME": "March Street",
     "POSTALCODE": "P6A 2Z6",
@@ -36903,6 +36881,17 @@
     "LONGITUDE": -84.33004447,
     "geometry.x": 704820.3699999992,
     "geometry.y": 5154443.5
+  },
+  {
+    "CIVICNUMBER": 177,
+    "UNIT": "1",
+    "STREETNAME": "March Street",
+    "POSTALCODE": "P6A 2Z6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51237264,
+    "LONGITUDE": -84.33006961,
+    "geometry.x": 704818.5,
+    "geometry.y": 5154441.720000001
   },
   {
     "CIVICNUMBER": 178,
@@ -37260,7 +37249,7 @@
     "CIVICNUMBER": 160,
     "UNIT": null,
     "STREETNAME": "McDougald Street",
-    "POSTALCODE": "P6A 7A7",
+    "POSTALCODE": "P6A 3A8",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.51062054,
     "LONGITUDE": -84.3287995,
@@ -38483,10 +38472,10 @@
     "STREETNAME": "McNabb Street",
     "POSTALCODE": "P6B 1Y2",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52134866,
-    "LONGITUDE": -84.3213493,
-    "geometry.x": 705453.5800000001,
-    "geometry.y": 5155461.720000001
+    "LATITUDE": 46.52148268,
+    "LONGITUDE": -84.32133854,
+    "geometry.x": 705453.9000000004,
+    "geometry.y": 5155476.640000001
   },
   {
     "CIVICNUMBER": 205,
@@ -39471,7 +39460,7 @@
     "CIVICNUMBER": 753,
     "UNIT": null,
     "STREETNAME": "McNabb Street",
-    "POSTALCODE": "P6B 1Z8",
+    "POSTALCODE": "P6B 6K8",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.52143123,
     "LONGITUDE": -84.28948767,
@@ -42307,17 +42296,6 @@
   },
   {
     "CIVICNUMBER": 100,
-    "UNIT": null,
-    "STREETNAME": "Ontario Avenue",
-    "POSTALCODE": "P6B 1E3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51306827,
-    "LONGITUDE": -84.31306701,
-    "geometry.x": 706120.1400000006,
-    "geometry.y": 5154563.279999999
-  },
-  {
-    "CIVICNUMBER": 100,
     "UNIT": "A",
     "STREETNAME": "Ontario Avenue",
     "POSTALCODE": "P6B 1E3",
@@ -42326,6 +42304,17 @@
     "LONGITUDE": -84.3135242,
     "geometry.x": 706083.5399999991,
     "geometry.y": 5154607.01
+  },
+  {
+    "CIVICNUMBER": 100,
+    "UNIT": null,
+    "STREETNAME": "Ontario Avenue",
+    "POSTALCODE": "P6B 1E3",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51306827,
+    "LONGITUDE": -84.31306701,
+    "geometry.x": 706120.1400000006,
+    "geometry.y": 5154563.279999999
   },
   {
     "CIVICNUMBER": 107,
@@ -42494,17 +42483,6 @@
   },
   {
     "CIVICNUMBER": 7,
-    "UNIT": "A",
-    "STREETNAME": "Oxford Street",
-    "POSTALCODE": "P6B 1R7",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51976316,
-    "LONGITUDE": -84.31857968,
-    "geometry.x": 705671.9900000002,
-    "geometry.y": 5155292.77
-  },
-  {
-    "CIVICNUMBER": 7,
     "UNIT": "B",
     "STREETNAME": "Oxford Street",
     "POSTALCODE": "P6B 1R7",
@@ -42524,6 +42502,17 @@
     "LONGITUDE": -84.31825027,
     "geometry.x": 705697.3800000008,
     "geometry.y": 5155289.960000001
+  },
+  {
+    "CIVICNUMBER": 7,
+    "UNIT": "A",
+    "STREETNAME": "Oxford Street",
+    "POSTALCODE": "P6B 1R7",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51976316,
+    "LONGITUDE": -84.31857968,
+    "geometry.x": 705671.9900000002,
+    "geometry.y": 5155292.77
   },
   {
     "CIVICNUMBER": 9,
@@ -43345,10 +43334,10 @@
     "STREETNAME": "Pim Street",
     "POSTALCODE": null,
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50676546,
-    "LONGITUDE": -84.32222618,
-    "geometry.x": 705441.3100000005,
-    "geometry.y": 5153839.09
+    "LATITUDE": 46.50695884,
+    "LONGITUDE": -84.32245118,
+    "geometry.x": 705423.3200000003,
+    "geometry.y": 5153859.99
   },
   {
     "CIVICNUMBER": 115,
@@ -43638,17 +43627,6 @@
   },
   {
     "CIVICNUMBER": 163,
-    "UNIT": null,
-    "STREETNAME": "Pim Street",
-    "POSTALCODE": "P6A 3G9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5085669,
-    "LONGITUDE": -84.32167621,
-    "geometry.x": 705476.7100000009,
-    "geometry.y": 5154040.68
-  },
-  {
-    "CIVICNUMBER": 163,
     "UNIT": "1/2",
     "STREETNAME": "Pim Street",
     "POSTALCODE": "P6A 3G9",
@@ -43657,6 +43635,17 @@
     "LONGITUDE": -84.32172427,
     "geometry.x": 705472.8900000006,
     "geometry.y": 5154044.470000001
+  },
+  {
+    "CIVICNUMBER": 163,
+    "UNIT": null,
+    "STREETNAME": "Pim Street",
+    "POSTALCODE": "P6A 3G9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5085669,
+    "LONGITUDE": -84.32167621,
+    "geometry.x": 705476.7100000009,
+    "geometry.y": 5154040.68
   },
   {
     "CIVICNUMBER": 164,
@@ -44170,10 +44159,10 @@
     "STREETNAME": "Pim Street",
     "POSTALCODE": "P6B 2T5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51325571,
-    "LONGITUDE": -84.3191216,
-    "geometry.x": 705654.9900000002,
-    "geometry.y": 5154568.3100000005
+    "LATITUDE": 46.5132393,
+    "LONGITUDE": -84.31911276,
+    "geometry.x": 705655.7300000004,
+    "geometry.y": 5154566.51
   },
   {
     "CIVICNUMBER": 288,
@@ -44181,10 +44170,10 @@
     "STREETNAME": "Pim Street",
     "POSTALCODE": "P6B 2T5",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51336574,
-    "LONGITUDE": -84.31909324,
-    "geometry.x": 705656.75,
-    "geometry.y": 5154580.609999999
+    "LATITUDE": 46.51336771,
+    "LONGITUDE": -84.31911596,
+    "geometry.x": 705655,
+    "geometry.y": 5154580.77
   },
   {
     "CIVICNUMBER": 292,
@@ -44401,10 +44390,10 @@
     "STREETNAME": "Pim Street",
     "POSTALCODE": "P6B 2T7",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51479565,
-    "LONGITUDE": -84.31968357,
-    "geometry.x": 705604.0899999999,
-    "geometry.y": 5154738.43
+    "LATITUDE": 46.51478853,
+    "LONGITUDE": -84.31970217,
+    "geometry.x": 705604.6699999999,
+    "geometry.y": 5154737.109999999
   },
   {
     "CIVICNUMBER": 324,
@@ -44434,10 +44423,10 @@
     "STREETNAME": "Pim Street",
     "POSTALCODE": "P6B 2T7",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51517906,
-    "LONGITUDE": -84.31976066,
-    "geometry.x": 705598.7100000009,
-    "geometry.y": 5154780.35
+    "LATITUDE": 46.51519175,
+    "LONGITUDE": -84.31972223,
+    "geometry.x": 705601.6099999994,
+    "geometry.y": 5154781.859999999
   },
   {
     "CIVICNUMBER": 328,
@@ -44870,17 +44859,6 @@
   },
   {
     "CIVICNUMBER": 460,
-    "UNIT": "1",
-    "STREETNAME": "Pim Street",
-    "POSTALCODE": "P6B 2V2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52063546,
-    "LONGITUDE": -84.3185765,
-    "geometry.x": 705668.9399999995,
-    "geometry.y": 5155389.699999999
-  },
-  {
-    "CIVICNUMBER": 460,
     "UNIT": "2",
     "STREETNAME": "Pim Street",
     "POSTALCODE": "P6B 2V2",
@@ -44889,6 +44867,17 @@
     "LONGITUDE": -84.31850017,
     "geometry.x": 705676.3200000003,
     "geometry.y": 5155345.01
+  },
+  {
+    "CIVICNUMBER": 460,
+    "UNIT": "1",
+    "STREETNAME": "Pim Street",
+    "POSTALCODE": "P6B 2V2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52063546,
+    "LONGITUDE": -84.3185765,
+    "geometry.x": 705668.9399999995,
+    "geometry.y": 5155389.699999999
   },
   {
     "CIVICNUMBER": 475,
@@ -46249,10 +46238,10 @@
     "STREETNAME": "Pine Street",
     "POSTALCODE": "P6B 3E8",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52038084,
-    "LONGITUDE": -84.30779408,
-    "geometry.x": 706496.9000000004,
-    "geometry.y": 5155389.57
+    "LATITUDE": 46.52037558,
+    "LONGITUDE": -84.30779226,
+    "geometry.x": 706497.0600000005,
+    "geometry.y": 5155388.99
   },
   {
     "CIVICNUMBER": 620,
@@ -47675,17 +47664,6 @@
   },
   {
     "CIVICNUMBER": 32,
-    "UNIT": null,
-    "STREETNAME": "Queen Street East",
-    "POSTALCODE": "P6A 1Y3",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51732399,
-    "LONGITUDE": -84.34030655,
-    "geometry.x": 704014.6799999997,
-    "geometry.y": 5154965.35
-  },
-  {
-    "CIVICNUMBER": 32,
     "UNIT": "B",
     "STREETNAME": "Queen Street East",
     "POSTALCODE": "P6A 1Y3",
@@ -47694,6 +47672,17 @@
     "LONGITUDE": -84.34027764,
     "geometry.x": 704016.9800000004,
     "geometry.y": 5154962.960000001
+  },
+  {
+    "CIVICNUMBER": 32,
+    "UNIT": null,
+    "STREETNAME": "Queen Street East",
+    "POSTALCODE": "P6A 1Y3",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51732399,
+    "LONGITUDE": -84.34030655,
+    "geometry.x": 704014.6799999997,
+    "geometry.y": 5154965.35
   },
   {
     "CIVICNUMBER": 34,
@@ -47950,17 +47939,6 @@
   },
   {
     "CIVICNUMBER": 216,
-    "UNIT": null,
-    "STREETNAME": "Queen Street East",
-    "POSTALCODE": "P6A 1Y7",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51491367,
-    "LONGITUDE": -84.33709739,
-    "geometry.x": 704269.8699999992,
-    "geometry.y": 5154705.84
-  },
-  {
-    "CIVICNUMBER": 216,
     "UNIT": "R",
     "STREETNAME": "Queen Street East",
     "POSTALCODE": "P6A 1Y7",
@@ -47969,6 +47947,17 @@
     "LONGITUDE": -84.33680599,
     "geometry.x": 704291.5800000001,
     "geometry.y": 5154725.640000001
+  },
+  {
+    "CIVICNUMBER": 216,
+    "UNIT": null,
+    "STREETNAME": "Queen Street East",
+    "POSTALCODE": "P6A 1Y7",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51491367,
+    "LONGITUDE": -84.33709739,
+    "geometry.x": 704269.8699999992,
+    "geometry.y": 5154705.84
   },
   {
     "CIVICNUMBER": 220,
@@ -48862,6 +48851,17 @@
     "geometry.y": 5154241.42
   },
   {
+    "CIVICNUMBER": 490,
+    "UNIT": null,
+    "STREETNAME": "Queen Street East",
+    "POSTALCODE": "P6A 1Z8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5107034,
+    "LONGITUDE": -84.33112165,
+    "geometry.x": 704744.0700000003,
+    "geometry.y": 5154253.52
+  },
+  {
     "CIVICNUMBER": 491,
     "UNIT": null,
     "STREETNAME": "Queen Street East",
@@ -49358,17 +49358,6 @@
   },
   {
     "CIVICNUMBER": 617,
-    "UNIT": null,
-    "STREETNAME": "Queen Street East",
-    "POSTALCODE": "P6A 2A6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50876085,
-    "LONGITUDE": -84.32982751,
-    "geometry.x": 704850.6500000004,
-    "geometry.y": 5154041.039999999
-  },
-  {
-    "CIVICNUMBER": 617,
     "UNIT": "B",
     "STREETNAME": "Queen Street East",
     "POSTALCODE": "P6A 2A6",
@@ -49377,6 +49366,17 @@
     "LONGITUDE": -84.32974877,
     "geometry.x": 704856.0999999996,
     "geometry.y": 5154058.68
+  },
+  {
+    "CIVICNUMBER": 617,
+    "UNIT": null,
+    "STREETNAME": "Queen Street East",
+    "POSTALCODE": "P6A 2A6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50876085,
+    "LONGITUDE": -84.32982751,
+    "geometry.x": 704850.6500000004,
+    "geometry.y": 5154041.039999999
   },
   {
     "CIVICNUMBER": 618,
@@ -49446,17 +49446,6 @@
   },
   {
     "CIVICNUMBER": 629,
-    "UNIT": null,
-    "STREETNAME": "Queen Street East",
-    "POSTALCODE": "P6A 2A6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5086394,
-    "LONGITUDE": -84.32943654,
-    "geometry.x": 704881.0999999996,
-    "geometry.y": 5154028.5600000005
-  },
-  {
-    "CIVICNUMBER": 629,
     "UNIT": "A",
     "STREETNAME": "Queen Street East",
     "POSTALCODE": "P6A 2A6",
@@ -49465,6 +49454,17 @@
     "LONGITUDE": -84.3294006,
     "geometry.x": 704883.9499999993,
     "geometry.y": 5154025.9
+  },
+  {
+    "CIVICNUMBER": 629,
+    "UNIT": null,
+    "STREETNAME": "Queen Street East",
+    "POSTALCODE": "P6A 2A6",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5086394,
+    "LONGITUDE": -84.32943654,
+    "geometry.x": 704881.0999999996,
+    "geometry.y": 5154028.5600000005
   },
   {
     "CIVICNUMBER": 631,
@@ -49560,21 +49560,10 @@
     "STREETNAME": "Queen Street East",
     "POSTALCODE": "P6A 2A6",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50835846,
-    "LONGITUDE": -84.32901884,
-    "geometry.x": 704914.1999999993,
-    "geometry.y": 5153998.43
-  },
-  {
-    "CIVICNUMBER": 647,
-    "UNIT": null,
-    "STREETNAME": "Queen Street East",
-    "POSTALCODE": "P6A 2A6",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50832984,
-    "LONGITUDE": -84.3289801,
-    "geometry.x": 704917.2799999993,
-    "geometry.y": 5153995.35
+    "LATITUDE": 46.50831153,
+    "LONGITUDE": -84.32905151,
+    "geometry.x": 704911.8699999992,
+    "geometry.y": 5153993.130000001
   },
   {
     "CIVICNUMBER": 648,
@@ -50691,7 +50680,7 @@
     "CIVICNUMBER": 969,
     "UNIT": null,
     "STREETNAME": "Queen Street East",
-    "POSTALCODE": "P6A 2C4",
+    "POSTALCODE": "P6A 2C2",
     "MUNICIPALITY": "SSM",
     "LATITUDE": 46.50460866,
     "LONGITUDE": -84.31818272,
@@ -56629,17 +56618,6 @@
   },
   {
     "CIVICNUMBER": 35,
-    "UNIT": null,
-    "STREETNAME": "Summit Avenue",
-    "POSTALCODE": "P6B 2S5",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51234473,
-    "LONGITUDE": -84.32063429,
-    "geometry.x": 705542.3900000006,
-    "geometry.y": 5154463.15
-  },
-  {
-    "CIVICNUMBER": 35,
     "UNIT": "A",
     "STREETNAME": "Summit Avenue",
     "POSTALCODE": "P6B 2S5",
@@ -56648,6 +56626,17 @@
     "LONGITUDE": -84.32073163,
     "geometry.x": 705534.5299999993,
     "geometry.y": 5154474.470000001
+  },
+  {
+    "CIVICNUMBER": 35,
+    "UNIT": null,
+    "STREETNAME": "Summit Avenue",
+    "POSTALCODE": "P6B 2S5",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51234473,
+    "LONGITUDE": -84.32063429,
+    "geometry.x": 705542.3900000006,
+    "geometry.y": 5154463.15
   },
   {
     "CIVICNUMBER": 37,
@@ -56996,10 +56985,10 @@
     "STREETNAME": "Tancred Street",
     "POSTALCODE": "P6A 2W2",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51710622,
-    "LONGITUDE": -84.33918268,
-    "geometry.x": 704101.6999999993,
-    "geometry.y": 5154944.0600000005
+    "LATITUDE": 46.517114,
+    "LONGITUDE": -84.33923054,
+    "geometry.x": 704098,
+    "geometry.y": 5154944.800000001
   },
   {
     "CIVICNUMBER": 122,
@@ -58125,17 +58114,6 @@
   },
   {
     "CIVICNUMBER": 129,
-    "UNIT": "1",
-    "STREETNAME": "Trelawne Avenue",
-    "POSTALCODE": "P6B 2M8",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51709533,
-    "LONGITUDE": -84.32811331,
-    "geometry.x": 704950.8000000007,
-    "geometry.y": 5154971.539999999
-  },
-  {
-    "CIVICNUMBER": 129,
     "UNIT": "2",
     "STREETNAME": "Trelawne Avenue",
     "POSTALCODE": "P6B 2M8",
@@ -58144,6 +58122,17 @@
     "LONGITUDE": -84.32807786,
     "geometry.x": 704953.4299999997,
     "geometry.y": 5154974.279999999
+  },
+  {
+    "CIVICNUMBER": 129,
+    "UNIT": "1",
+    "STREETNAME": "Trelawne Avenue",
+    "POSTALCODE": "P6B 2M8",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51709533,
+    "LONGITUDE": -84.32811331,
+    "geometry.x": 704950.8000000007,
+    "geometry.y": 5154971.539999999
   },
   {
     "CIVICNUMBER": 130,
@@ -59845,10 +59834,10 @@
     "STREETNAME": "Wellington Street East",
     "POSTALCODE": "P6A 2L1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51897117,
-    "LONGITUDE": -84.33816069,
-    "geometry.x": 704173.0999999996,
-    "geometry.y": 5155153.92
+    "LATITUDE": 46.51894038,
+    "LONGITUDE": -84.33821813,
+    "geometry.x": 704168.8100000005,
+    "geometry.y": 5155150.35
   },
   {
     "CIVICNUMBER": 60,
@@ -59867,10 +59856,10 @@
     "STREETNAME": "Wellington Street East",
     "POSTALCODE": "P6A 2L1",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51888593,
-    "LONGITUDE": -84.33815612,
-    "geometry.x": 704173.7699999996,
-    "geometry.y": 5155144.460000001
+    "LATITUDE": 46.51888939,
+    "LONGITUDE": -84.33807681,
+    "geometry.x": 704179.8399999999,
+    "geometry.y": 5155145.050000001
   },
   {
     "CIVICNUMBER": 64,
@@ -59882,17 +59871,6 @@
     "LONGITUDE": -84.33777851,
     "geometry.x": 704201.5399999991,
     "geometry.y": 5155180.789999999
-  },
-  {
-    "CIVICNUMBER": 65,
-    "UNIT": null,
-    "STREETNAME": "Wellington Street East",
-    "POSTALCODE": "P6A 2L1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51883523,
-    "LONGITUDE": -84.33808168,
-    "geometry.x": 704179.6699999999,
-    "geometry.y": 5155139.02
   },
   {
     "CIVICNUMBER": 69,
@@ -59962,17 +59940,6 @@
   },
   {
     "CIVICNUMBER": 102,
-    "UNIT": null,
-    "STREETNAME": "Wellington Street East",
-    "POSTALCODE": "P6A 2L2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51903061,
-    "LONGITUDE": -84.3371883,
-    "geometry.x": 704247.4600000009,
-    "geometry.y": 5155163.039999999
-  },
-  {
-    "CIVICNUMBER": 102,
     "UNIT": "A",
     "STREETNAME": "Wellington Street East",
     "POSTALCODE": "P6A 2L2",
@@ -59981,6 +59948,17 @@
     "LONGITUDE": -84.33705815,
     "geometry.x": 704256.9900000002,
     "geometry.y": 5155176.800000001
+  },
+  {
+    "CIVICNUMBER": 102,
+    "UNIT": null,
+    "STREETNAME": "Wellington Street East",
+    "POSTALCODE": "P6A 2L2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51903061,
+    "LONGITUDE": -84.3371883,
+    "geometry.x": 704247.4600000009,
+    "geometry.y": 5155163.039999999
   },
   {
     "CIVICNUMBER": 103,
@@ -61051,17 +61029,6 @@
   },
   {
     "CIVICNUMBER": 427,
-    "UNIT": "1",
-    "STREETNAME": "Wellington Street East",
-    "POSTALCODE": "P6A 2M1",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51319669,
-    "LONGITUDE": -84.33046685,
-    "geometry.x": 704784.9299999997,
-    "geometry.y": 5154532.25
-  },
-  {
-    "CIVICNUMBER": 427,
     "UNIT": "2",
     "STREETNAME": "Wellington Street East",
     "POSTALCODE": "P6A 2M1",
@@ -61081,6 +61048,17 @@
     "LONGITUDE": -84.33054823,
     "geometry.x": 704778.8900000006,
     "geometry.y": 5154526.050000001
+  },
+  {
+    "CIVICNUMBER": 427,
+    "UNIT": "1",
+    "STREETNAME": "Wellington Street East",
+    "POSTALCODE": "P6A 2M1",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.51319669,
+    "LONGITUDE": -84.33046685,
+    "geometry.x": 704784.9299999997,
+    "geometry.y": 5154532.25
   },
   {
     "CIVICNUMBER": 428,
@@ -61524,17 +61502,6 @@
   },
   {
     "CIVICNUMBER": 606,
-    "UNIT": "A",
-    "STREETNAME": "Wellington Street East",
-    "POSTALCODE": "P6A 2M5",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.5108646,
-    "LONGITUDE": -84.32673532,
-    "geometry.x": 705079.9499999993,
-    "geometry.y": 5154282.82
-  },
-  {
-    "CIVICNUMBER": 606,
     "UNIT": "B",
     "STREETNAME": "Wellington Street East",
     "POSTALCODE": "P6A 2M5",
@@ -61543,6 +61510,17 @@
     "LONGITUDE": -84.32665074,
     "geometry.x": 705086.3000000007,
     "geometry.y": 5154287.109999999
+  },
+  {
+    "CIVICNUMBER": 606,
+    "UNIT": "A",
+    "STREETNAME": "Wellington Street East",
+    "POSTALCODE": "P6A 2M5",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.5108646,
+    "LONGITUDE": -84.32673532,
+    "geometry.x": 705079.9499999993,
+    "geometry.y": 5154282.82
   },
   {
     "CIVICNUMBER": 614,
@@ -61810,17 +61788,6 @@
   },
   {
     "CIVICNUMBER": 741,
-    "UNIT": "C",
-    "STREETNAME": "Wellington Street East",
-    "POSTALCODE": "P6A 2M9",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50921191,
-    "LONGITUDE": -84.322874,
-    "geometry.x": 705382.3900000006,
-    "geometry.y": 5154109.23
-  },
-  {
-    "CIVICNUMBER": 741,
     "UNIT": "B",
     "STREETNAME": "Wellington Street East",
     "POSTALCODE": "P6A 2M9",
@@ -61829,6 +61796,17 @@
     "LONGITUDE": -84.32291094,
     "geometry.x": 705379.9000000004,
     "geometry.y": 5154098.98
+  },
+  {
+    "CIVICNUMBER": 741,
+    "UNIT": "C",
+    "STREETNAME": "Wellington Street East",
+    "POSTALCODE": "P6A 2M9",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.50921191,
+    "LONGITUDE": -84.322874,
+    "geometry.x": 705382.3900000006,
+    "geometry.y": 5154109.23
   },
   {
     "CIVICNUMBER": 743,
@@ -62166,10 +62144,10 @@
     "STREETNAME": "Wellington Street East",
     "POSTALCODE": "P6A 2N4",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.50912306,
-    "LONGITUDE": -84.31898315,
-    "geometry.x": 705681.2100000009,
-    "geometry.y": 5154109.49
+    "LATITUDE": 46.50913151,
+    "LONGITUDE": -84.31897909,
+    "geometry.x": 705681.4900000002,
+    "geometry.y": 5154110.4399999995
   },
   {
     "CIVICNUMBER": 894,
@@ -64098,6 +64076,17 @@
   },
   {
     "CIVICNUMBER": 109,
+    "UNIT": "3",
+    "STREETNAME": "Wellington Street West",
+    "POSTALCODE": "P6A 1H2",
+    "MUNICIPALITY": "SSM",
+    "LATITUDE": 46.52218109,
+    "LONGITUDE": -84.34237912,
+    "geometry.x": 703837.5299999993,
+    "geometry.y": 5155499.67
+  },
+  {
+    "CIVICNUMBER": 109,
     "UNIT": "1",
     "STREETNAME": "Wellington Street West",
     "POSTALCODE": "P6A 1H2",
@@ -64117,17 +64106,6 @@
     "LONGITUDE": -84.34237296,
     "geometry.x": 703837.9000000004,
     "geometry.y": 5155502.73
-  },
-  {
-    "CIVICNUMBER": 109,
-    "UNIT": "3",
-    "STREETNAME": "Wellington Street West",
-    "POSTALCODE": "P6A 1H2",
-    "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.52218109,
-    "LONGITUDE": -84.34237912,
-    "geometry.x": 703837.5299999993,
-    "geometry.y": 5155499.67
   },
   {
     "CIVICNUMBER": 111,
@@ -64256,10 +64234,10 @@
     "STREETNAME": "Wemyss Street",
     "POSTALCODE": "P6B 1B3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51158469,
-    "LONGITUDE": -84.32401967,
-    "geometry.x": 705285.5600000005,
-    "geometry.y": 5154369.890000001
+    "LATITUDE": 46.51149212,
+    "LONGITUDE": -84.32406359,
+    "geometry.x": 705282.5399999991,
+    "geometry.y": 5154359.49
   },
   {
     "CIVICNUMBER": 30,
@@ -64267,10 +64245,10 @@
     "STREETNAME": "Wemyss Street",
     "POSTALCODE": "P6B 1B3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51139957,
-    "LONGITUDE": -84.32389684,
-    "geometry.x": 705295.6799999997,
-    "geometry.y": 5154349.640000001
+    "LATITUDE": 46.51141096,
+    "LONGITUDE": -84.32391453,
+    "geometry.x": 705294.2799999993,
+    "geometry.y": 5154350.859999999
   },
   {
     "CIVICNUMBER": 30,
@@ -64278,10 +64256,10 @@
     "STREETNAME": "Wemyss Street",
     "POSTALCODE": "P6B 1B3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51135398,
-    "LONGITUDE": -84.32387966,
-    "geometry.x": 705297.1699999999,
-    "geometry.y": 5154344.619999999
+    "LATITUDE": 46.51136538,
+    "LONGITUDE": -84.32389735,
+    "geometry.x": 705295.7699999996,
+    "geometry.y": 5154345.84
   },
   {
     "CIVICNUMBER": 32,
@@ -64289,10 +64267,10 @@
     "STREETNAME": "Wemyss Street",
     "POSTALCODE": "P6B 1B3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51138872,
-    "LONGITUDE": -84.32379883,
-    "geometry.x": 705303.2400000002,
-    "geometry.y": 5154348.6899999995
+    "LATITUDE": 46.51140011,
+    "LONGITUDE": -84.32381652,
+    "geometry.x": 705301.8399999999,
+    "geometry.y": 5154349.91
   },
   {
     "CIVICNUMBER": 32,
@@ -64300,10 +64278,10 @@
     "STREETNAME": "Wemyss Street",
     "POSTALCODE": "P6B 1B3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51134282,
-    "LONGITUDE": -84.32381438,
-    "geometry.x": 705302.2200000007,
-    "geometry.y": 5154343.550000001
+    "LATITUDE": 46.51135422,
+    "LONGITUDE": -84.32383207,
+    "geometry.x": 705300.8200000003,
+    "geometry.y": 5154344.77
   },
   {
     "CIVICNUMBER": 34,
@@ -64311,9 +64289,9 @@
     "STREETNAME": "Wemyss Street",
     "POSTALCODE": "P6B 1B3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51127047,
-    "LONGITUDE": -84.32369565,
-    "geometry.x": 705311.5999999996,
+    "LATITUDE": 46.51127058,
+    "LONGITUDE": -84.32369995,
+    "geometry.x": 705311.2699999996,
     "geometry.y": 5154335.82
   },
   {
@@ -64322,10 +64300,10 @@
     "STREETNAME": "Wemyss Street",
     "POSTALCODE": "P6B 1B3",
     "MUNICIPALITY": "SSM",
-    "LATITUDE": 46.51127065,
-    "LONGITUDE": -84.3235954,
-    "geometry.x": 705319.2899999991,
-    "geometry.y": 5154336.1
+    "LATITUDE": 46.51125245,
+    "LONGITUDE": -84.3236062,
+    "geometry.x": 705318.5299999993,
+    "geometry.y": 5154334.050000001
   },
   {
     "CIVICNUMBER": 38,

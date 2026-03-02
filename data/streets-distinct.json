@@ -1,5 +1,257 @@
 [
   {
+    "FULLNAME": "143 Sixth Line West Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "143 Sixth Line West Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "181 Greenfield Drive Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "181 Greenfield Drive Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "2049 Queen Street East Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "2049 Queen Street East Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "2053 Queen Street East Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "2053 Queen Street East Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "25 Donna Drive Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "25 Donna Drive Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "288 Sixth Line East Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "288 Sixth Line East Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "300-305 Point Louise Drive Entrance",
+    "STREETPREFIX": " ",
+    "STREETNAME": "300-305 Point Louise Drive Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": " ",
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "349 Patrick Street Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "349 Patrick Street Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "37 Stevens Street Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "37 Stevens Street Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "40 Sunnydale Road Access",
+    "STREETPREFIX": null,
+    "STREETNAME": "40 Sunnydale Road Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "43 Sinclair Drive Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "43 Sinclair Drive Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "46 McNeice Street Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "46 McNeice Street Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "531 Trunk Road Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "531 Trunk Road Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "537 Trunk Road Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "537 Trunk Road Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "606 Connaught Avenue Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "606 Connaught Avenue Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "616 Lake Street Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "616 Lake Street Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "69 Elmwood Avenue Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "69 Elmwood Avenue Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "711-719 Bay Street Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "711-719 Bay Street Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "711-727 Bay Street Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "711-727 Bay Street Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "90-112 Fish Hatchery Road Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "90-112 Fish Hatchery Road Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "APH Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "APH Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Abbott Street",
     "STREETPREFIX": " ",
     "STREETNAME": "Abbott",
@@ -38,7 +290,7 @@
   {
     "FULLNAME": "Administration Building North Lot",
     "STREETPREFIX": null,
-    "STREETNAME": null,
+    "STREETNAME": "Administration Building North Lot",
     "STREETTYPE": null,
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -50,7 +302,7 @@
   {
     "FULLNAME": "Administration Building South Lot",
     "STREETPREFIX": null,
-    "STREETNAME": null,
+    "STREETNAME": "Administration Building North Lot",
     "STREETTYPE": null,
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -201,6 +453,66 @@
     "LEFTTOADDRESS": 63,
     "RIGHTFROMADDRESS": 2,
     "RIGHTTOADDRESS": 64,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Algoma Steel Gate #1",
+    "STREETPREFIX": null,
+    "STREETNAME": "Algoma Steel Gate #1",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Algoma Steel Gate #2",
+    "STREETPREFIX": null,
+    "STREETNAME": "Algoma Steel Gate #2",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Algoma Steel Gate #4",
+    "STREETPREFIX": null,
+    "STREETNAME": "Algoma Steel Gate #4",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Algoma Steel Service Road",
+    "STREETPREFIX": null,
+    "STREETNAME": "Algoma Steel Service",
+    "STREETTYPE": "Road",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Algoma Steel Stores Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Algoma Steel Stores Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -721,14 +1033,14 @@
   },
   {
     "FULLNAME": "Barton Street",
-    "STREETPREFIX": " ",
+    "STREETPREFIX": null,
     "STREETNAME": "Barton",
     "STREETTYPE": "Street",
-    "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 0,
-    "RIGHTFROMADDRESS": 40,
-    "RIGHTTOADDRESS": 54,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 2,
+    "LEFTTOADDRESS": 100,
+    "RIGHTFROMADDRESS": 1,
+    "RIGHTTOADDRESS": 99,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -758,7 +1070,7 @@
   {
     "FULLNAME": "Baseline Road A.S.",
     "STREETPREFIX": null,
-    "STREETNAME": "Baseline Road A.S.",
+    "STREETNAME": "Baseline A.S.",
     "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -1476,6 +1788,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Cambrian Mall Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Cambrian Mall Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Cambridge Place",
     "STREETPREFIX": " ",
     "STREETNAME": "Cambridge",
@@ -1506,7 +1830,7 @@
     "STREETTYPE": "Lane",
     "STREETSUFFIX": " ",
     "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 119,
+    "LEFTTOADDRESS": 0,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
@@ -1527,6 +1851,18 @@
     "FULLNAME": "Canadian Tire Entrance",
     "STREETPREFIX": null,
     "STREETNAME": "Canadian Tire Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Canadian Tire Gas Bar Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Canadian Tire Gas Bar Entrance",
     "STREETTYPE": null,
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -1698,7 +2034,7 @@
     "STREETTYPE": "Street",
     "STREETSUFFIX": " ",
     "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 42,
+    "LEFTTOADDRESS": 26,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 55,
     "MUNICIPALITY": "Sault Ste. Marie"
@@ -1778,8 +2114,8 @@
   {
     "FULLNAME": "Central Trades Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Central Trades",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -2012,7 +2348,31 @@
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 41,
     "RIGHTFROMADDRESS": 2,
-    "RIGHTTOADDRESS": 150,
+    "RIGHTTOADDRESS": 136,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Churchill Plaza Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Churchill Plaza Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "City Hall Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "City Hall Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -2078,8 +2438,8 @@
   {
     "FULLNAME": "Cold Mill Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Cold Mill",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -2097,6 +2457,18 @@
     "LEFTTOADDRESS": 20,
     "RIGHTFROMADDRESS": 5,
     "RIGHTTOADDRESS": 19,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Columbus Club Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Columbus Club Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -2129,8 +2501,8 @@
     "STREETNAME": "Connor",
     "STREETTYPE": "Road",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 80,
-    "LEFTTOADDRESS": 452,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 300,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
@@ -2317,13 +2689,13 @@
   },
   {
     "FULLNAME": "Crestwood Avenue",
-    "STREETPREFIX": null,
+    "STREETPREFIX": " ",
     "STREETNAME": "Crestwood",
     "STREETTYPE": "Avenue",
-    "STREETSUFFIX": null,
-    "LEFTFROMADDRESS": 0,
+    "STREETSUFFIX": " ",
+    "LEFTFROMADDRESS": 14,
     "LEFTTOADDRESS": 108,
-    "RIGHTFROMADDRESS": 0,
+    "RIGHTFROMADDRESS": 7,
     "RIGHTTOADDRESS": 107,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
@@ -2700,6 +3072,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "E-Bnishmog Gamic Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "E-Bnishmog Gamic Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Eagle Drive",
     "STREETPREFIX": " ",
     "STREETNAME": "Eagle",
@@ -2849,9 +3233,9 @@
     "STREETNAME": "Edmonds",
     "STREETTYPE": "Avenue",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 97,
+    "LEFTFROMADDRESS": 93,
     "LEFTTOADDRESS": 149,
-    "RIGHTFROMADDRESS": 96,
+    "RIGHTFROMADDRESS": 92,
     "RIGHTTOADDRESS": 144,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
@@ -2952,15 +3336,39 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Elmwood Place",
+    "STREETPREFIX": null,
+    "STREETNAME": "Elmwood",
+    "STREETTYPE": "Place",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Emergency Services Chute",
+    "STREETPREFIX": null,
+    "STREETNAME": "Emergency Services Chute",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Erie Street",
     "STREETPREFIX": " ",
     "STREETNAME": "Erie",
     "STREETTYPE": "Street",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 13,
-    "LEFTTOADDRESS": 145,
-    "RIGHTFROMADDRESS": 14,
-    "RIGHTTOADDRESS": 92,
+    "LEFTFROMADDRESS": 1,
+    "LEFTTOADDRESS": 161,
+    "RIGHTFROMADDRESS": 2,
+    "RIGHTTOADDRESS": 162,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -3014,8 +3422,8 @@
   {
     "FULLNAME": "Export Rock Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Export Rock",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -3192,6 +3600,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Finnish Rest Home Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Finnish Rest Home Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "First Avenue",
     "STREETPREFIX": " ",
     "STREETNAME": "First",
@@ -3218,8 +3638,8 @@
   {
     "FULLNAME": "Fleming Drive",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Fleming",
+    "STREETTYPE": "Drive",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -3420,6 +3840,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "GFL Memorial Gardens Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "GFL Memorial Gardens Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Gagnon Road South",
     "STREETPREFIX": " ",
     "STREETNAME": "Gagnon",
@@ -3434,8 +3866,8 @@
   {
     "FULLNAME": "Garbage Dump Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Garbage Dump",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -3473,7 +3905,7 @@
     "STREETNAME": "Garth",
     "STREETTYPE": "Street",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 9,
+    "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 175,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 0,
@@ -3854,8 +4286,8 @@
   {
     "FULLNAME": "Granulator Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Granulator",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -3974,8 +4406,8 @@
   {
     "FULLNAME": "HLT Scale Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "HLT Scale",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -4190,8 +4622,8 @@
   {
     "FULLNAME": "Heat Treat Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Heat Treat",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -4290,9 +4722,9 @@
     "STREETTYPE": "Street",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 13,
-    "LEFTTOADDRESS": 91,
-    "RIGHTFROMADDRESS": 18,
-    "RIGHTTOADDRESS": 138,
+    "LEFTTOADDRESS": 149,
+    "RIGHTFROMADDRESS": 12,
+    "RIGHTTOADDRESS": 150,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -4392,6 +4824,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Home Depot/Walmart Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Home Depot/Walmart Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Hood Street",
     "STREETPREFIX": " ",
     "STREETNAME": "Hood",
@@ -4404,9 +4848,45 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Hospital Access",
+    "FULLNAME": "Hospital Ambulance Entrance",
     "STREETPREFIX": null,
-    "STREETNAME": "Hospital Access",
+    "STREETNAME": "Hospital Ambulance Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Hospital ER Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Hospital ER Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Hospital Main Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Hospital Main Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Hospital Rear Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Hospital Rear Entrance",
     "STREETTYPE": null,
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -4596,6 +5076,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "JD Aero Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "JD Aero Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "James Street",
     "STREETPREFIX": " ",
     "STREETNAME": "James",
@@ -4653,6 +5145,18 @@
     "LEFTTOADDRESS": 107,
     "RIGHTFROMADDRESS": 16,
     "RIGHTTOADDRESS": 98,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "John Rhodes Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "John Rhodes Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -4824,6 +5328,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Kinsmen Park Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Kinsmen Park Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Kitchener Road",
     "STREETPREFIX": " ",
     "STREETNAME": "Kitchener",
@@ -4896,10 +5412,10 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Kress Cross-over Road",
+    "FULLNAME": "Kress Cross-Over Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Kress Cross-Over",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -5222,8 +5738,8 @@
   {
     "FULLNAME": "Lime Plant Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Lime Plant",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -5441,10 +5957,22 @@
     "STREETNAME": "Madison",
     "STREETTYPE": "Avenue",
     "STREETSUFFIX": null,
-    "LEFTFROMADDRESS": 0,
+    "LEFTFROMADDRESS": 4,
     "LEFTTOADDRESS": 30,
-    "RIGHTFROMADDRESS": 0,
+    "RIGHTFROMADDRESS": 3,
     "RIGHTTOADDRESS": 31,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Main Street",
+    "STREETPREFIX": null,
+    "STREETNAME": "Main",
+    "STREETTYPE": "Street",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 2,
+    "LEFTTOADDRESS": 100,
+    "RIGHTFROMADDRESS": 1,
+    "RIGHTTOADDRESS": 99,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -5469,18 +5997,6 @@
     "LEFTTOADDRESS": 180,
     "RIGHTFROMADDRESS": 13,
     "RIGHTTOADDRESS": 177,
-    "MUNICIPALITY": "Sault Ste. Marie"
-  },
-  {
-    "FULLNAME": "Mall Entrance",
-    "STREETPREFIX": " ",
-    "STREETNAME": "Mall Entrance",
-    "STREETTYPE": null,
-    "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 0,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -5589,6 +6105,30 @@
     "LEFTTOADDRESS": 250,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 189,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Mark's Bay Cottages Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Mark's Bay Cottages Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Market Mall Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Market Mall Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -5789,9 +6329,9 @@
     "STREETNAME": "McNabb",
     "STREETTYPE": "Street",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 0,
+    "LEFTFROMADDRESS": 4,
     "LEFTTOADDRESS": 1114,
-    "RIGHTFROMADDRESS": 0,
+    "RIGHTFROMADDRESS": 11,
     "RIGHTTOADDRESS": 1101,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
@@ -5892,6 +6432,30 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Memorial Avenue",
+    "STREETPREFIX": null,
+    "STREETNAME": "Memorial",
+    "STREETTYPE": "Avenue",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 3,
+    "LEFTTOADDRESS": 79,
+    "RIGHTFROMADDRESS": 2,
+    "RIGHTTOADDRESS": 42,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Metro/Winners Plaza Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Metro/Winners Plaza Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Metzger Street",
     "STREETPREFIX": " ",
     "STREETNAME": "Metzger",
@@ -5901,6 +6465,18 @@
     "LEFTTOADDRESS": 775,
     "RIGHTFROMADDRESS": 682,
     "RIGHTTOADDRESS": 774,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Mila Court",
+    "STREETPREFIX": null,
+    "STREETNAME": "Mila",
+    "STREETTYPE": "Court",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -5952,6 +6528,30 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Mingle Road",
+    "STREETPREFIX": null,
+    "STREETNAME": "Mingle",
+    "STREETTYPE": "Road",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Moe Drive",
+    "STREETPREFIX": null,
+    "STREETNAME": "Moe",
+    "STREETTYPE": "Drive",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Moluch Street",
     "STREETPREFIX": " ",
     "STREETNAME": "Moluch",
@@ -5961,6 +6561,18 @@
     "LEFTTOADDRESS": 129,
     "RIGHTFROMADDRESS": 6,
     "RIGHTTOADDRESS": 134,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Montana's Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Montana's Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -6060,6 +6672,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Mulberry Street",
+    "STREETPREFIX": null,
+    "STREETNAME": "Mulberry",
+    "STREETTYPE": "Street",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 3,
+    "LEFTTOADDRESS": 51,
+    "RIGHTFROMADDRESS": 2,
+    "RIGHTTOADDRESS": 62,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Muriel Drive",
     "STREETPREFIX": " ",
     "STREETNAME": "Muriel",
@@ -6105,6 +6729,18 @@
     "LEFTTOADDRESS": 84,
     "RIGHTFROMADDRESS": 15,
     "RIGHTTOADDRESS": 87,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Natural Resources Canada Service Road",
+    "STREETPREFIX": null,
+    "STREETNAME": "Natural Resources Canada Service",
+    "STREETTYPE": "Road",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -6210,9 +6846,9 @@
     "STREETTYPE": "Drive",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 4,
-    "LEFTTOADDRESS": 4,
+    "LEFTTOADDRESS": 56,
     "RIGHTFROMADDRESS": 3,
-    "RIGHTTOADDRESS": 3,
+    "RIGHTTOADDRESS": 55,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -6222,9 +6858,9 @@
     "STREETTYPE": "Road",
     "STREETSUFFIX": " ",
     "LEFTFROMADDRESS": 9,
-    "LEFTTOADDRESS": 217,
-    "RIGHTFROMADDRESS": 110,
-    "RIGHTTOADDRESS": 214,
+    "LEFTTOADDRESS": 225,
+    "RIGHTFROMADDRESS": 8,
+    "RIGHTTOADDRESS": 224,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -6247,15 +6883,15 @@
     "STREETSUFFIX": " ",
     "LEFTFROMADDRESS": 7,
     "LEFTTOADDRESS": 63,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 48,
+    "RIGHTFROMADDRESS": 8,
+    "RIGHTTOADDRESS": 60,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
     "FULLNAME": "North Rail Mill Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "North Rail Mill",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -6309,6 +6945,18 @@
     "LEFTTOADDRESS": 591,
     "RIGHTFROMADDRESS": 314,
     "RIGHTTOADDRESS": 594,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Northland Trailer Park Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Northland Trailer Park Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -6660,18 +7308,6 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Park Entrance",
-    "STREETPREFIX": null,
-    "STREETNAME": "Park Entrance",
-    "STREETTYPE": null,
-    "STREETSUFFIX": null,
-    "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 0,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 0,
-    "MUNICIPALITY": "Sault Ste. Marie"
-  },
-  {
     "FULLNAME": "Park Place Court",
     "STREETPREFIX": " ",
     "STREETNAME": "Park Place",
@@ -6840,6 +7476,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Passchendaele Lane",
+    "STREETPREFIX": null,
+    "STREETNAME": "Passchendaele",
+    "STREETTYPE": "Lane",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Passmore Road",
     "STREETPREFIX": " ",
     "STREETNAME": "Passmore",
@@ -6912,9 +7560,9 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Pee Wee Entrance",
+    "FULLNAME": "Pee Wee Arena Entrance",
     "STREETPREFIX": null,
-    "STREETNAME": "Pee Wee Entrance",
+    "STREETNAME": "Pee Wee Arena Entrance",
     "STREETTYPE": null,
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -7094,8 +7742,8 @@
   {
     "FULLNAME": "Plate Mill Bays Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Plate Mill Bays",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -7109,18 +7757,6 @@
     "STREETNAME": "Plate Mill",
     "STREETTYPE": "Road",
     "STREETSUFFIX": "North",
-    "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 0,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 0,
-    "MUNICIPALITY": "Sault Ste. Marie"
-  },
-  {
-    "FULLNAME": "Plaza Entrance",
-    "STREETPREFIX": null,
-    "STREETNAME": "Plaza Entrance",
-    "STREETTYPE": null,
-    "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
     "RIGHTFROMADDRESS": 0,
@@ -7176,6 +7812,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Pointe Des Chenes Park Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Pointe Des Chenes Park Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Pointe Louise Drive",
     "STREETPREFIX": " ",
     "STREETNAME": "Pointe Louise",
@@ -7221,6 +7869,18 @@
     "LEFTTOADDRESS": 697,
     "RIGHTFROMADDRESS": 610,
     "RIGHTTOADDRESS": 680,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Portage Street",
+    "STREETPREFIX": null,
+    "STREETNAME": "Portage",
+    "STREETTYPE": "Street",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -7332,18 +7992,6 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Private",
-    "STREETPREFIX": null,
-    "STREETNAME": "Private",
-    "STREETTYPE": null,
-    "STREETSUFFIX": null,
-    "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 0,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 0,
-    "MUNICIPALITY": "Sault Ste. Marie"
-  },
-  {
     "FULLNAME": "Promenade Drive",
     "STREETPREFIX": " ",
     "STREETNAME": "Promenade",
@@ -7374,9 +8022,9 @@
     "STREETTYPE": "Street",
     "STREETSUFFIX": "East",
     "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 4222,
+    "LEFTTOADDRESS": 4284,
     "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 4231,
+    "RIGHTTOADDRESS": 4283,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -7385,9 +8033,9 @@
     "STREETNAME": "Queen",
     "STREETTYPE": "Street",
     "STREETSUFFIX": "West",
-    "LEFTFROMADDRESS": 0,
+    "LEFTFROMADDRESS": 1,
     "LEFTTOADDRESS": 677,
-    "RIGHTFROMADDRESS": 0,
+    "RIGHTFROMADDRESS": 2,
     "RIGHTTOADDRESS": 684,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
@@ -7512,18 +8160,6 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Residential Access",
-    "STREETPREFIX": null,
-    "STREETNAME": "Residential Access",
-    "STREETTYPE": null,
-    "STREETSUFFIX": null,
-    "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 0,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 0,
-    "MUNICIPALITY": "Sault Ste. Marie"
-  },
-  {
     "FULLNAME": "Retta Street",
     "STREETPREFIX": " ",
     "STREETNAME": "Retta",
@@ -7562,8 +8198,8 @@
   {
     "FULLNAME": "River Front Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "River Front",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -7586,7 +8222,7 @@
   {
     "FULLNAME": "River Road A.S.",
     "STREETPREFIX": null,
-    "STREETNAME": "River Road A.S.",
+    "STREETNAME": "River A.S.",
     "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -7670,8 +8306,8 @@
   {
     "FULLNAME": "Roll Scale Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Roll Scale",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -7687,6 +8323,18 @@
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 21,
     "LEFTTOADDRESS": 25,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Rome's Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Rome's Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
@@ -7716,6 +8364,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Root River Trailer Court",
+    "STREETPREFIX": null,
+    "STREETNAME": "Root River Trailer",
+    "STREETTYPE": "Court",
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Rosedale Place",
     "STREETPREFIX": " ",
     "STREETNAME": "Rosedale",
@@ -7725,6 +8385,18 @@
     "LEFTTOADDRESS": 33,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 26,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Rosedale Trailer Park Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Rosedale Trailer Park Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -7797,6 +8469,18 @@
     "LEFTTOADDRESS": 451,
     "RIGHTFROMADDRESS": 262,
     "RIGHTTOADDRESS": 440,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Royal Bank Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Royal Bank Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -7889,7 +8573,7 @@
     "STREETNAME": "Ruth",
     "STREETTYPE": "Street",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 81,
+    "LEFTFROMADDRESS": 77,
     "LEFTTOADDRESS": 163,
     "RIGHTFROMADDRESS": 84,
     "RIGHTTOADDRESS": 158,
@@ -7944,6 +8628,30 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Sault College Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Sault College Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Sault College Transit Hub",
+    "STREETPREFIX": null,
+    "STREETNAME": "Sault College Transit Hub",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Schultz Side Road",
     "STREETPREFIX": " ",
     "STREETNAME": "Schultz Side",
@@ -7985,7 +8693,7 @@
     "STREETNAME": "Second",
     "STREETTYPE": "Line",
     "STREETSUFFIX": "East",
-    "LEFTFROMADDRESS": 4,
+    "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 1158,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 1159,
@@ -8148,6 +8856,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Shoppes on TransCanada Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Shoppes on TransCanada Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Shore Drive",
     "STREETPREFIX": " ",
     "STREETNAME": "Shore",
@@ -8213,10 +8933,10 @@
     "STREETNAME": "Simcoe",
     "STREETTYPE": "Street",
     "STREETSUFFIX": null,
-    "LEFTFROMADDRESS": 28,
+    "LEFTFROMADDRESS": 2,
     "LEFTTOADDRESS": 100,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 1,
+    "RIGHTTOADDRESS": 99,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -8249,10 +8969,10 @@
     "STREETNAME": "Sinclair",
     "STREETTYPE": "Drive",
     "STREETSUFFIX": null,
-    "LEFTFROMADDRESS": 28,
-    "LEFTTOADDRESS": 46,
-    "RIGHTFROMADDRESS": 43,
-    "RIGHTTOADDRESS": 43,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 162,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 163,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -8628,9 +9348,9 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Steel Dock Road",
+    "FULLNAME": "Station Mall Entrance",
     "STREETPREFIX": null,
-    "STREETNAME": null,
+    "STREETNAME": "Station Mall Entrance",
     "STREETTYPE": null,
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
@@ -8640,10 +9360,22 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
-    "FULLNAME": "Steel Plant Entrance",
+    "FULLNAME": "Station Tower Entrance",
     "STREETPREFIX": null,
-    "STREETNAME": "Steel Plant Entrance",
+    "STREETNAME": "Station Tower Entrance",
     "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Steel Dock Road",
+    "STREETPREFIX": null,
+    "STREETNAME": "Steel Dock",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -8666,8 +9398,8 @@
   {
     "FULLNAME": "Stores Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Stores",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -8702,8 +9434,8 @@
   {
     "FULLNAME": "Strip Caster Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Strip Caster",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -8714,8 +9446,8 @@
   {
     "FULLNAME": "Structural Bays Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Structural Bays",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": 0,
     "LEFTTOADDRESS": 0,
@@ -8772,6 +9504,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Sunrise Harbourage Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Sunrise Harbourage Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Sunset Court",
     "STREETPREFIX": " ",
     "STREETNAME": "Sunset",
@@ -8805,6 +9549,30 @@
     "LEFTTOADDRESS": 125,
     "RIGHTFROMADDRESS": 4,
     "RIGHTTOADDRESS": 118,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Superior Heights Bus Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Superior Heights Bus Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "Superior Heights Main Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Superior Heights Main Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -8861,10 +9629,10 @@
     "STREETNAME": "Taber",
     "STREETTYPE": "Street",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 0,
-    "LEFTTOADDRESS": 0,
-    "RIGHTFROMADDRESS": 0,
-    "RIGHTTOADDRESS": 0,
+    "LEFTFROMADDRESS": 1,
+    "LEFTTOADDRESS": 7,
+    "RIGHTFROMADDRESS": 2,
+    "RIGHTTOADDRESS": 8,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -8882,8 +9650,8 @@
   {
     "FULLNAME": "Tagona Scale Road",
     "STREETPREFIX": null,
-    "STREETNAME": null,
-    "STREETTYPE": null,
+    "STREETNAME": "Tagona Scale",
+    "STREETTYPE": "Road",
     "STREETSUFFIX": null,
     "LEFTFROMADDRESS": null,
     "LEFTTOADDRESS": null,
@@ -9384,6 +10152,18 @@
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
+    "FULLNAME": "Villa Santa Maria Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "Villa Santa Maria Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
     "FULLNAME": "Village Court",
     "STREETPREFIX": " ",
     "STREETNAME": "Village",
@@ -9593,8 +10373,8 @@
     "STREETNAME": "Wentworth",
     "STREETTYPE": "Street",
     "STREETSUFFIX": " ",
-    "LEFTFROMADDRESS": 24,
-    "LEFTTOADDRESS": 36,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 40,
     "RIGHTFROMADDRESS": 0,
     "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
@@ -9633,6 +10413,18 @@
     "LEFTTOADDRESS": 39,
     "RIGHTFROMADDRESS": 4,
     "RIGHTTOADDRESS": 24,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "West Park Nine Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "West Park Nine Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -9741,6 +10533,18 @@
     "LEFTTOADDRESS": 215,
     "RIGHTFROMADDRESS": 36,
     "RIGHTTOADDRESS": 246,
+    "MUNICIPALITY": "Sault Ste. Marie"
+  },
+  {
+    "FULLNAME": "White Pines Entrance",
+    "STREETPREFIX": null,
+    "STREETNAME": "White Pines Entrance",
+    "STREETTYPE": null,
+    "STREETSUFFIX": null,
+    "LEFTFROMADDRESS": 0,
+    "LEFTTOADDRESS": 0,
+    "RIGHTFROMADDRESS": 0,
+    "RIGHTTOADDRESS": 0,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
@@ -10064,7 +10868,7 @@
     "LEFTFROMADDRESS": 32,
     "LEFTTOADDRESS": 162,
     "RIGHTFROMADDRESS": 41,
-    "RIGHTTOADDRESS": 155,
+    "RIGHTTOADDRESS": 191,
     "MUNICIPALITY": "Sault Ste. Marie"
   },
   {
